@@ -23,13 +23,6 @@ async function initializeDatabase() {
     const result = await Word.insertMany(basicWords);
     console.log(`Inserted ${result.length} basic words`);
 
-    // 创建索引
-    await Word.collection.createIndex({ english: 1 });
-    await Word.collection.createIndex({ level: 1 });
-    await Word.collection.createIndex({ frequency: -1 });
-    await Word.collection.createIndex({ tags: 1 });
-    console.log('Created indexes');
-
     console.log('Database initialization completed');
   } catch (error) {
     console.error('Error initializing database:', error);
