@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "category": "Daily Routines",
+    "category_cn": "日常事务",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "bath": {
+      "word": "bath",
+      "translation": "洗澡",
+      "phonetic": "bɑːθ",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I take a bath every morning.",
+          "zh": "我每天早上洗澡。"
+        },
+        {
+          "en": "The bathroom is upstairs.",
+          "zh": "浴室在楼上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["shower", "wash", "clean"],
+      "phrases": [
+        {
+          "phrase": "take a bath",
+          "translation": "洗澡",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "bathroom",
+          "translation": "浴室",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "breakfast": {
+      "word": "breakfast",
+      "translation": "早餐",
+      "phonetic": "ˈbrekfəst",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What do you usually have for breakfast?",
+          "zh": "你早餐通常吃什么？"
+        },
+        {
+          "en": "I always eat breakfast at 7 AM.",
+          "zh": "我总是在早上7点吃早餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["meal", "food", "morning"],
+      "phrases": [
+        {
+          "phrase": "have breakfast",
+          "translation": "吃早餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "morning meal",
+          "translation": "早餐",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "dinner": {
+      "word": "dinner",
+      "translation": "晚餐",
+      "phonetic": "ˈdɪnə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We usually have dinner at 6 PM.",
+          "zh": "我们通常在下午6点吃晚餐。"
+        },
+        {
+          "en": "Would you like to join us for dinner?",
+          "zh": "你想和我们一起吃晚餐吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["meal", "supper", "evening"],
+      "phrases": [
+        {
+          "phrase": "have dinner",
+          "translation": "吃晚餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "evening meal",
+          "translation": "晚餐",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "homework": {
+      "word": "homework",
+      "translation": "家庭作业",
+      "phonetic": "ˈhəʊmwɜːk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to do my homework.",
+          "zh": "我需要做作业。"
+        },
+        {
+          "en": "Have you finished your homework?",
+          "zh": "你做完作业了吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["study", "assignment", "task"],
+      "phrases": [
+        {
+          "phrase": "do homework",
+          "translation": "做作业",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "assignment",
+          "translation": "作业",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "lunch": {
+      "word": "lunch",
+      "translation": "午餐",
+      "phonetic": "lʌntʃ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's have lunch together.",
+          "zh": "让我们一起吃午餐。"
+        },
+        {
+          "en": "I usually bring my lunch to work.",
+          "zh": "我通常带午餐去上班。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["meal", "noon", "food"],
+      "phrases": [
+        {
+          "phrase": "have lunch",
+          "translation": "吃午餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "midday meal",
+          "translation": "午餐",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "meeting": {
+      "word": "meeting",
+      "translation": "会议",
+      "phonetic": "ˈmiːtɪŋ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We have a meeting at 2 PM.",
+          "zh": "我们下午2点有个会议。"
+        },
+        {
+          "en": "The meeting lasted two hours.",
+          "zh": "会议持续了两个小时。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["conference", "discussion", "gathering"],
+      "phrases": [
+        {
+          "phrase": "attend a meeting",
+          "translation": "参加会议",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "conference",
+          "translation": "会议",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "shower": {
+      "word": "shower",
+      "translation": "淋浴",
+      "phonetic": "ˈʃaʊə(r)",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I take a shower every morning.",
+          "zh": "我每天早上淋浴。"
+        },
+        {
+          "en": "The shower is broken.",
+          "zh": "淋浴坏了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["bath", "wash", "clean"],
+      "phrases": [
+        {
+          "phrase": "take a shower",
+          "translation": "淋浴",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "morning shower",
+          "translation": "早晨淋浴",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sleep": {
+      "word": "sleep",
+      "translation": "睡眠",
+      "phonetic": "sliːp",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need eight hours of sleep.",
+          "zh": "我需要八个小时的睡眠。"
+        },
+        {
+          "en": "It's time to go to sleep.",
+          "zh": "该睡觉了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["rest", "nap", "bedtime"],
+      "phrases": [
+        {
+          "phrase": "go to sleep",
+          "translation": "入睡",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "bedtime",
+          "translation": "就寝时间",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "study": {
+      "word": "study",
+      "translation": "学习",
+      "phonetic": "ˈstʌdi",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I study English for two hours every day.",
+          "zh": "我每天学习英语两个小时。"
+        },
+        {
+          "en": "This is my study time.",
+          "zh": "这是我的学习时间。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["learn", "education", "research"],
+      "phrases": [
+        {
+          "phrase": "study time",
+          "translation": "学习时间",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "revision",
+          "translation": "复习",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "work": {
+      "word": "work",
+      "translation": "工作",
+      "phonetic": "wɜːk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I go to work at 8 AM.",
+          "zh": "我早上8点去上班。"
+        },
+        {
+          "en": "How's work going?",
+          "zh": "工作进展如何？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "日常事务",
+      "related_words": ["job", "career", "occupation"],
+      "phrases": [
+        {
+          "phrase": "workplace",
+          "translation": "工作场所",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "job",
+          "translation": "工作",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

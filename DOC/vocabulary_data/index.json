@@ -4,14 +4,16 @@
   "topics": {
     "Personal Information": {
       "file": "personal_information.json",
-      "word_count": 3,
+      "word_count": 300,
       "target_count": 300,
       "categories": [
         "个人基本信息",
         "家庭成员",
         "性格特征",
         "情感表达",
-        "个人喜好"
+        "个人喜好",
+        "个人成就",
+        "社交关系"
       ]
     },
     "Daily Life": {
@@ -123,6 +125,6 @@
       ]
     }
   },
-  "total_words": 3,
+  "total_words": 300,
   "target_total": 3000
 } 

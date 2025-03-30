@@ -1,0 +1,1781 @@
+{
+  "metadata": {
+    "category": "Basic Actions",
+    "category_cn": "基本动作",
+    "word_count": 44,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "arrive": {
+      "word": "arrive",
+      "translation": "到达",
+      "phonetic": "əˈraɪv",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "When does the train arrive?",
+          "zh": "火车什么时候到达？"
+        },
+        {
+          "en": "They arrived at the airport early.",
+          "zh": "他们早早到达了机场。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["come", "reach", "get"],
+      "phrases": [
+        {
+          "phrase": "arrive at",
+          "translation": "到达（某地）",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "arrive on time",
+          "translation": "准时到达",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "begin": {
+      "word": "begin",
+      "translation": "开始",
+      "phonetic": "bɪˈɡɪn",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The meeting begins at 9 AM.",
+          "zh": "会议早上9点开始。"
+        },
+        {
+          "en": "Let's begin our work.",
+          "zh": "让我们开始工作吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["start", "commence", "initiate"],
+      "phrases": [
+        {
+          "phrase": "begin with",
+          "translation": "从...开始",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "to begin with",
+          "translation": "首先，开始时",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "break": {
+      "word": "break",
+      "translation": "打破",
+      "phonetic": "breɪk",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Be careful not to break the glass.",
+          "zh": "小心别打破玻璃。"
+        },
+        {
+          "en": "The window broke during the storm.",
+          "zh": "窗户在暴风雨中破了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["crack", "shatter", "smash"],
+      "phrases": [
+        {
+          "phrase": "break down",
+          "translation": "故障；崩溃",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "take a break",
+          "translation": "休息一下",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bring": {
+      "word": "bring",
+      "translation": "带来",
+      "phonetic": "brɪŋ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please bring your book to class.",
+          "zh": "请把你的书带到课堂。"
+        },
+        {
+          "en": "Did you bring an umbrella?",
+          "zh": "你带雨伞了吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["carry", "take", "fetch"],
+      "phrases": [
+        {
+          "phrase": "bring up",
+          "translation": "提出；抚养",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "bring back",
+          "translation": "带回；使想起",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "buy": {
+      "word": "buy",
+      "translation": "购买",
+      "phonetic": "baɪ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to buy some food.",
+          "zh": "我需要买些食物。"
+        },
+        {
+          "en": "Where did you buy that shirt?",
+          "zh": "你在哪里买的那件衬衫？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["purchase", "get", "shop"],
+      "phrases": [
+        {
+          "phrase": "buy something for",
+          "translation": "为...买东西",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "buy in bulk",
+          "translation": "批量购买",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "call": {
+      "word": "call",
+      "translation": "打电话",
+      "phonetic": "kɔːl",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'll call you tomorrow.",
+          "zh": "我明天给你打电话。"
+        },
+        {
+          "en": "Please call me back later.",
+          "zh": "请稍后回电给我。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["phone", "ring", "dial"],
+      "phrases": [
+        {
+          "phrase": "call back",
+          "translation": "回电",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "call off",
+          "translation": "取消",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "carry": {
+      "word": "carry",
+      "translation": "携带",
+      "phonetic": "ˈkæri",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Can you help me carry these bags?",
+          "zh": "你能帮我拿这些包吗？"
+        },
+        {
+          "en": "The bus carries fifty passengers.",
+          "zh": "这辆公交车可以载50名乘客。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["bring", "hold", "transport"],
+      "phrases": [
+        {
+          "phrase": "carry on",
+          "translation": "继续；随身携带",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "carry out",
+          "translation": "执行；实施",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "clean": {
+      "word": "clean",
+      "translation": "清洁",
+      "phonetic": "kliːn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to clean my room.",
+          "zh": "我需要打扫我的房间。"
+        },
+        {
+          "en": "Please clean the table after eating.",
+          "zh": "请在吃完后清理桌子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["wash", "tidy", "wipe"],
+      "phrases": [
+        {
+          "phrase": "clean up",
+          "translation": "打扫；整理",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "keep clean",
+          "translation": "保持清洁",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "close": {
+      "word": "close",
+      "translation": "关闭",
+      "phonetic": "kləʊz",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please close the door.",
+          "zh": "请关门。"
+        },
+        {
+          "en": "The shop closes at 6 PM.",
+          "zh": "商店下午6点关门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["shut", "lock", "seal"],
+      "phrases": [
+        {
+          "phrase": "close down",
+          "translation": "关闭；倒闭",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "close to",
+          "translation": "接近；靠近",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "come": {
+      "word": "come",
+      "translation": "来",
+      "phonetic": "kʌm",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Come here, please.",
+          "zh": "请过来。"
+        },
+        {
+          "en": "When will you come back?",
+          "zh": "你什么时候回来？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["arrive", "approach", "return"],
+      "phrases": [
+        {
+          "phrase": "come back",
+          "translation": "回来",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "come on",
+          "translation": "快点；加油",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cook": {
+      "word": "cook",
+      "translation": "烹饪",
+      "phonetic": "kʊk",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I like to cook dinner.",
+          "zh": "我喜欢做晚饭。"
+        },
+        {
+          "en": "Who's cooking tonight?",
+          "zh": "今晚谁做饭？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["prepare", "bake", "make"],
+      "phrases": [
+        {
+          "phrase": "cook for",
+          "translation": "为...做饭",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "home-cooked meal",
+          "translation": "家常饭",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "do": {
+      "word": "do",
+      "translation": "做",
+      "phonetic": "duː",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What do you want to do today?",
+          "zh": "你今天想做什么？"
+        },
+        {
+          "en": "I need to do my homework.",
+          "zh": "我需要做作业。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["make", "perform", "accomplish"],
+      "phrases": [
+        {
+          "phrase": "do homework",
+          "translation": "做作业",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "do one's best",
+          "translation": "尽最大努力",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "drink": {
+      "word": "drink",
+      "translation": "喝",
+      "phonetic": "drɪŋk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like to drink coffee in the morning.",
+          "zh": "我喜欢早上喝咖啡。"
+        },
+        {
+          "en": "Please drink more water.",
+          "zh": "请多喝水。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["sip", "beverage", "thirsty"],
+      "phrases": [
+        {
+          "phrase": "drink up",
+          "translation": "喝完",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "soft drink",
+          "translation": "软饮料",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "eat": {
+      "word": "eat",
+      "translation": "吃",
+      "phonetic": "iːt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's eat lunch together.",
+          "zh": "让我们一起吃午饭。"
+        },
+        {
+          "en": "What do you like to eat?",
+          "zh": "你喜欢吃什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["dine", "food", "meal"],
+      "phrases": [
+        {
+          "phrase": "eat out",
+          "translation": "在外就餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "eat up",
+          "translation": "吃完",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "find": {
+      "word": "find",
+      "translation": "找到",
+      "phonetic": "faɪnd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I can't find my keys.",
+          "zh": "我找不到我的钥匙。"
+        },
+        {
+          "en": "Can you help me find my book?",
+          "zh": "你能帮我找我的书吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["search", "locate", "discover"],
+      "phrases": [
+        {
+          "phrase": "find out",
+          "translation": "发现；查明",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "hard to find",
+          "translation": "难找到的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "finish": {
+      "word": "finish",
+      "translation": "完成",
+      "phonetic": "ˈfɪnɪʃ",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to finish my work.",
+          "zh": "我需要完成我的工作。"
+        },
+        {
+          "en": "Have you finished eating?",
+          "zh": "你吃完了吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["complete", "end", "conclude"]
+    },
+    "get": {
+      "word": "get",
+      "translation": "得到；获得",
+      "phonetic": "ɡet",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to get some groceries.",
+          "zh": "我需要买些食品杂货。"
+        },
+        {
+          "en": "Can you get me a glass of water?",
+          "zh": "你能给我倒杯水吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["obtain", "receive", "acquire"]
+    },
+    "give": {
+      "word": "give",
+      "translation": "给",
+      "phonetic": "ɡɪv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please give me your phone number.",
+          "zh": "请给我你的电话号码。"
+        },
+        {
+          "en": "I want to give you a present.",
+          "zh": "我想给你一个礼物。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["offer", "present", "hand"]
+    },
+    "go": {
+      "word": "go",
+      "translation": "去",
+      "phonetic": "ɡəʊ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to go to work.",
+          "zh": "我需要去上班。"
+        },
+        {
+          "en": "Where do you want to go?",
+          "zh": "你想去哪里？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["travel", "move", "leave"]
+    },
+    "help": {
+      "word": "help",
+      "translation": "帮助",
+      "phonetic": "help",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can you help me, please?",
+          "zh": "你能帮帮我吗？"
+        },
+        {
+          "en": "I want to help you with your work.",
+          "zh": "我想帮你做工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["assist", "aid", "support"],
+      "phrases": [
+        {
+          "phrase": "help out",
+          "translation": "帮忙",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "help with",
+          "translation": "帮助做某事",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "know": {
+      "word": "know",
+      "translation": "知道",
+      "phonetic": "nəʊ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I don't know the answer.",
+          "zh": "我不知道答案。"
+        },
+        {
+          "en": "Do you know where the library is?",
+          "zh": "你知道图书馆在哪里吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["understand", "learn", "recognize"],
+      "phrases": [
+        {
+          "phrase": "get to know",
+          "translation": "了解；认识",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "know about",
+          "translation": "知道；了解",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "learn": {
+      "word": "learn",
+      "translation": "学习",
+      "phonetic": "lɜːn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I want to learn English.",
+          "zh": "我想学习英语。"
+        },
+        {
+          "en": "It's never too late to learn.",
+          "zh": "学习永远不晚。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["study", "master", "understand"],
+      "phrases": [
+        {
+          "phrase": "learn by heart",
+          "translation": "背诵；记住",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "learn from",
+          "translation": "向...学习",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "leave": {
+      "word": "leave",
+      "translation": "离开",
+      "phonetic": "liːv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What time do you leave for work?",
+          "zh": "你什么时候出发去上班？"
+        },
+        {
+          "en": "Don't leave without saying goodbye.",
+          "zh": "别不辞而别。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["depart", "exit", "go"],
+      "phrases": [
+        {
+          "phrase": "leave for",
+          "translation": "出发去",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "leave behind",
+          "translation": "遗留；抛下",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "like": {
+      "word": "like",
+      "translation": "喜欢",
+      "phonetic": "laɪk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like Chinese food.",
+          "zh": "我喜欢中国菜。"
+        },
+        {
+          "en": "What kind of music do you like?",
+          "zh": "你喜欢什么类型的音乐？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["enjoy", "love", "prefer"],
+      "phrases": [
+        {
+          "phrase": "would like to",
+          "translation": "想要",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "like doing",
+          "translation": "喜欢做...",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "listen": {
+      "word": "listen",
+      "translation": "听",
+      "phonetic": "ˈlɪsn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please listen carefully.",
+          "zh": "请仔细听。"
+        },
+        {
+          "en": "I like to listen to music.",
+          "zh": "我喜欢听音乐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["hear", "attend", "concentrate"],
+      "phrases": [
+        {
+          "phrase": "listen to",
+          "translation": "听...",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "listen carefully",
+          "translation": "仔细听",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "live": {
+      "word": "live",
+      "translation": "居住",
+      "phonetic": "lɪv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Where do you live?",
+          "zh": "你住在哪里？"
+        },
+        {
+          "en": "I live in Beijing.",
+          "zh": "我住在北京。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["reside", "dwell", "stay"],
+      "phrases": [
+        {
+          "phrase": "live with",
+          "translation": "和...一起住",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "live alone",
+          "translation": "独居",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "look": {
+      "word": "look",
+      "translation": "看",
+      "phonetic": "lʊk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Look at this picture.",
+          "zh": "看看这张照片。"
+        },
+        {
+          "en": "Can you look for my keys?",
+          "zh": "你能帮我找找钥匙吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["see", "watch", "observe"],
+      "phrases": [
+        {
+          "phrase": "look at",
+          "translation": "看",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "look for",
+          "translation": "寻找",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "make": {
+      "word": "make",
+      "translation": "制作",
+      "phonetic": "meɪk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like to make cakes.",
+          "zh": "我喜欢做蛋糕。"
+        },
+        {
+          "en": "Can you make dinner tonight?",
+          "zh": "你今晚能做晚饭吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["create", "produce", "build"],
+      "phrases": [
+        {
+          "phrase": "make sure",
+          "translation": "确保",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "make up",
+          "translation": "编造；化妆",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "need": {
+      "word": "need",
+      "translation": "需要",
+      "phonetic": "niːd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need your help.",
+          "zh": "我需要你的帮助。"
+        },
+        {
+          "en": "Do you need anything from the store?",
+          "zh": "你需要从商店买什么东西吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["require", "want", "must"],
+      "phrases": [
+        {
+          "phrase": "need to",
+          "translation": "需要做...",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "in need of",
+          "translation": "需要...",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "open": {
+      "word": "open",
+      "translation": "打开",
+      "phonetic": "ˈəʊpən",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please open the window.",
+          "zh": "请打开窗户。"
+        },
+        {
+          "en": "The shop opens at 9 AM.",
+          "zh": "商店早上9点开门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["unlock", "unfold", "start"],
+      "phrases": [
+        {
+          "phrase": "open up",
+          "translation": "打开；开业",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "be open",
+          "translation": "开着；营业",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "put": {
+      "word": "put",
+      "translation": "放",
+      "phonetic": "pʊt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Put your books on the table.",
+          "zh": "把你的书放在桌子上。"
+        },
+        {
+          "en": "Where should I put this?",
+          "zh": "我应该把这个放在哪里？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["place", "set", "lay"],
+      "phrases": [
+        {
+          "phrase": "put on",
+          "translation": "穿上；戴上",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "put away",
+          "translation": "收起；放好",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "read": {
+      "word": "read",
+      "translation": "阅读",
+      "phonetic": "riːd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like to read books.",
+          "zh": "我喜欢读书。"
+        },
+        {
+          "en": "Can you read this for me?",
+          "zh": "你能帮我读一下这个吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["study", "learn", "understand"],
+      "phrases": [
+        {
+          "phrase": "read out",
+          "translation": "朗读",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "read through",
+          "translation": "通读",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "run": {
+      "word": "run",
+      "translation": "跑",
+      "phonetic": "rʌn",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I run every morning.",
+          "zh": "我每天早上跑步。"
+        },
+        {
+          "en": "Don't run in the hallway.",
+          "zh": "不要在走廊里跑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["jog", "sprint", "dash"],
+      "phrases": [
+        {
+          "phrase": "run away",
+          "translation": "逃跑",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "go for a run",
+          "translation": "去跑步",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "say": {
+      "word": "say",
+      "translation": "说",
+      "phonetic": "seɪ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What did you say?",
+          "zh": "你说什么？"
+        },
+        {
+          "en": "Please say it again.",
+          "zh": "请再说一遍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["tell", "speak", "express"],
+      "phrases": [
+        {
+          "phrase": "say goodbye",
+          "translation": "说再见",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "that is to say",
+          "translation": "也就是说",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "see": {
+      "word": "see",
+      "translation": "看见",
+      "phonetic": "siː",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I can see the mountains from here.",
+          "zh": "我从这里能看见山。"
+        },
+        {
+          "en": "Did you see that movie?",
+          "zh": "你看过那部电影吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["look", "watch", "observe"],
+      "phrases": [
+        {
+          "phrase": "go to see",
+          "translation": "去看",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "let me see",
+          "translation": "让我看看",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "send": {
+      "word": "send",
+      "translation": "发送",
+      "phonetic": "send",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'll send you an email.",
+          "zh": "我会给你发一封电子邮件。"
+        },
+        {
+          "en": "Can you send this package to China?",
+          "zh": "你能把这个包裹寄到中国吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["mail", "deliver", "transmit"],
+      "phrases": [
+        {
+          "phrase": "send out",
+          "translation": "发出；寄出",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "send back",
+          "translation": "寄回；退回",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "show": {
+      "word": "show",
+      "translation": "展示",
+      "phonetic": "ʃəʊ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can you show me the way?",
+          "zh": "你能给我指路吗？"
+        },
+        {
+          "en": "Let me show you how to do it.",
+          "zh": "让我给你演示怎么做。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["display", "demonstrate", "present"],
+      "phrases": [
+        {
+          "phrase": "show up",
+          "translation": "出现；露面",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "show off",
+          "translation": "炫耀",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sit": {
+      "word": "sit",
+      "translation": "坐",
+      "phonetic": "sɪt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please sit down.",
+          "zh": "请坐。"
+        },
+        {
+          "en": "Where do you want to sit?",
+          "zh": "你想坐在哪里？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["seat", "rest", "settle"],
+      "phrases": [
+        {
+          "phrase": "sit down",
+          "translation": "坐下",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "sit up",
+          "translation": "坐直；起床",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sleep": {
+      "word": "sleep",
+      "translation": "睡觉",
+      "phonetic": "sliːp",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to sleep early tonight.",
+          "zh": "我今晚需要早点睡觉。"
+        },
+        {
+          "en": "How many hours do you sleep?",
+          "zh": "你睡几个小时？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["rest", "nap", "doze"],
+      "phrases": [
+        {
+          "phrase": "fall asleep",
+          "translation": "入睡",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "sleep in",
+          "translation": "睡懒觉",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "speak": {
+      "word": "speak",
+      "translation": "说话",
+      "phonetic": "spiːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Do you speak English?",
+          "zh": "你会说英语吗？"
+        },
+        {
+          "en": "Please speak slowly.",
+          "zh": "请说慢一点。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["talk", "say", "tell"],
+      "phrases": [
+        {
+          "phrase": "speak up",
+          "translation": "大声说；说出来",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "speak to",
+          "translation": "对...说话",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "stand": {
+      "word": "stand",
+      "translation": "站",
+      "phonetic": "stænd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please stand in line.",
+          "zh": "请站队。"
+        },
+        {
+          "en": "Don't stand too close to the edge.",
+          "zh": "不要站得太靠近边缘。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["rise", "get up", "position"],
+      "phrases": [
+        {
+          "phrase": "stand up",
+          "translation": "站起来",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "stand by",
+          "translation": "支持；准备",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "start": {
+      "word": "start",
+      "translation": "开始",
+      "phonetic": "stɑːt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "When does the movie start?",
+          "zh": "电影什么时候开始？"
+        },
+        {
+          "en": "Let's start our homework.",
+          "zh": "让我们开始做作业吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["begin", "commence", "initiate"],
+      "phrases": [
+        {
+          "phrase": "start off",
+          "translation": "开始；出发",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "get started",
+          "translation": "开始",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "stop": {
+      "word": "stop",
+      "translation": "停止",
+      "phonetic": "stɒp",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please stop talking.",
+          "zh": "请停止说话。"
+        },
+        {
+          "en": "The rain has stopped.",
+          "zh": "雨停了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["halt", "cease", "end"],
+      "phrases": [
+        {
+          "phrase": "stop by",
+          "translation": "顺便拜访",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "stop doing",
+          "translation": "停止做...",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "study": {
+      "word": "study",
+      "translation": "学习",
+      "phonetic": "ˈstʌdi",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I study English every day.",
+          "zh": "我每天学习英语。"
+        },
+        {
+          "en": "Where do you like to study?",
+          "zh": "你喜欢在哪里学习？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["learn", "read", "research"],
+      "phrases": [
+        {
+          "phrase": "study abroad",
+          "translation": "出国留学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "study hard",
+          "translation": "努力学习",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "take": {
+      "word": "take",
+      "translation": "拿",
+      "phonetic": "teɪk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Take your umbrella with you.",
+          "zh": "带上你的雨伞。"
+        },
+        {
+          "en": "Can I take your order?",
+          "zh": "我可以给您点单吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["get", "carry", "bring"],
+      "phrases": [
+        {
+          "phrase": "take care",
+          "translation": "保重；照顾",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "take time",
+          "translation": "花时间",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "talk": {
+      "word": "talk",
+      "translation": "谈话",
+      "phonetic": "tɔːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can we talk later?",
+          "zh": "我们待会儿能谈谈吗？"
+        },
+        {
+          "en": "She likes to talk on the phone.",
+          "zh": "她喜欢打电话聊天。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["speak", "chat", "discuss"],
+      "phrases": [
+        {
+          "phrase": "talk about",
+          "translation": "谈论",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "talk to",
+          "translation": "和...谈话",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "tell": {
+      "word": "tell",
+      "translation": "告诉",
+      "phonetic": "tel",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please tell me the truth.",
+          "zh": "请告诉我真相。"
+        },
+        {
+          "en": "Can you tell me the way to the station?",
+          "zh": "你能告诉我去车站的路吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["say", "inform", "explain"],
+      "phrases": [
+        {
+          "phrase": "tell the truth",
+          "translation": "说实话",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "tell a story",
+          "translation": "讲故事",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "think": {
+      "word": "think",
+      "translation": "思考",
+      "phonetic": "θɪŋk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let me think about it.",
+          "zh": "让我想想。"
+        },
+        {
+          "en": "What do you think of this idea?",
+          "zh": "你觉得这个想法怎么样？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["consider", "reflect", "ponder"],
+      "phrases": [
+        {
+          "phrase": "think about",
+          "translation": "考虑；思考",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "think of",
+          "translation": "想到；认为",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "try": {
+      "word": "try",
+      "translation": "尝试",
+      "phonetic": "traɪ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Try your best.",
+          "zh": "尽你最大的努力。"
+        },
+        {
+          "en": "Would you like to try this dish?",
+          "zh": "你想尝尝这道菜吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["attempt", "endeavor", "test"],
+      "phrases": [
+        {
+          "phrase": "try on",
+          "translation": "试穿",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "try out",
+          "translation": "试用；尝试",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "use": {
+      "word": "use",
+      "translation": "使用",
+      "phonetic": "juːz",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "How do you use this machine?",
+          "zh": "这台机器怎么用？"
+        },
+        {
+          "en": "Can I use your phone?",
+          "zh": "我能用一下你的电话吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["utilize", "employ", "operate"],
+      "phrases": [
+        {
+          "phrase": "make use of",
+          "translation": "利用",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "used to",
+          "translation": "过去常常；习惯于",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "wait": {
+      "word": "wait",
+      "translation": "等待",
+      "phonetic": "weɪt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please wait a moment.",
+          "zh": "请稍等。"
+        },
+        {
+          "en": "I don't like to wait in line.",
+          "zh": "我不喜欢排队等待。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["stay", "remain", "pause"],
+      "phrases": [
+        {
+          "phrase": "wait for",
+          "translation": "等待",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "can't wait",
+          "translation": "迫不及待",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "walk": {
+      "word": "walk",
+      "translation": "走路",
+      "phonetic": "wɔːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like to walk in the park.",
+          "zh": "我喜欢在公园里散步。"
+        },
+        {
+          "en": "Let's walk to school.",
+          "zh": "让我们走路去学校吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["stroll", "hike", "move"],
+      "phrases": [
+        {
+          "phrase": "go for a walk",
+          "translation": "去散步",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "walk away",
+          "translation": "走开",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "want": {
+      "word": "want",
+      "translation": "想要",
+      "phonetic": "wɒnt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What do you want for dinner?",
+          "zh": "你晚饭想吃什么？"
+        },
+        {
+          "en": "I want to learn Chinese.",
+          "zh": "我想学中文。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["desire", "wish", "need"],
+      "phrases": [
+        {
+          "phrase": "want to",
+          "translation": "想要",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "want for",
+          "translation": "缺少；需要",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "wash": {
+      "word": "wash",
+      "translation": "洗",
+      "phonetic": "wɒʃ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Remember to wash your hands.",
+          "zh": "记得洗手。"
+        },
+        {
+          "en": "I need to wash my clothes.",
+          "zh": "我需要洗衣服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["clean", "rinse", "scrub"],
+      "phrases": [
+        {
+          "phrase": "wash up",
+          "translation": "洗碗；洗漱",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "wash off",
+          "translation": "冲洗掉",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "work": {
+      "word": "work",
+      "translation": "工作",
+      "phonetic": "wɜːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I work in a hospital.",
+          "zh": "我在医院工作。"
+        },
+        {
+          "en": "Do you work on weekends?",
+          "zh": "你周末工作吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life"],
+      "category": "基本动作",
+      "related_words": ["labor", "job", "employment"],
+      "phrases": [
+        {
+          "phrase": "work out",
+          "translation": "锻炼；解决",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "work hard",
+          "translation": "努力工作",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 
