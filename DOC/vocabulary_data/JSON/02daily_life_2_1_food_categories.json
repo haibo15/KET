@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Fruit"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["fruit", "banana", "orange"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Fruit"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["fruit", "apple", "orange"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Staple Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["food", "sandwich", "cake"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Dessert"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["dessert", "bread", "ice cream"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Dairy"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["milk", "dairy", "sandwich"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Meat"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["meat", "food", "fish"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Beverage"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["tea", "drink", "milk"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["breakfast", "food", "chicken"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Meat"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["meat", "food", "chicken"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["meal", "eat", "drink"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["apple", "banana", "orange"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Dessert"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["dessert", "sweet", "cake"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["chicken", "fish", "food"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Beverage"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["drink", "coffee", "tea"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Fruit"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["fruit", "apple", "banana"],
       "phrases": [
@@ -522,7 +522,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Staple Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["food", "bread", "noodles"],
       "phrases": [
@@ -555,7 +555,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["bread", "cheese", "food"],
       "phrases": [
@@ -588,7 +588,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["sweet", "coffee", "tea"],
       "phrases": [
@@ -621,7 +621,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Beverage"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["drink", "coffee", "milk"],
       "phrases": [
@@ -654,7 +654,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["food", "fruit", "healthy"],
       "phrases": [
@@ -687,7 +687,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Beverage"],
+      "topics": ["Daily Life"],
       "category": "食物类别",
       "related_words": ["drink", "tea", "coffee"],
       "phrases": [

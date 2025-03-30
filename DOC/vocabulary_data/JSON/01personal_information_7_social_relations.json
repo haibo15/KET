@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Relationships"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["companion", "mate", "buddy"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Social", "Connections"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["connection", "bond", "friendship"],
       "phrases": [
@@ -88,7 +88,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Business"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["companion", "associate", "colleague"],
       "phrases": [
@@ -116,7 +116,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Work", "Social"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["co-worker", "workmate", "associate"],
       "phrases": [
@@ -144,7 +144,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Entertainment"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["celebration", "gathering", "event"],
       "phrases": [
@@ -172,7 +172,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Business"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["appointment", "gathering", "conference"],
       "phrases": [
@@ -200,7 +200,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Activities"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["call on", "drop by", "see"],
       "phrases": [
@@ -228,7 +228,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Communication"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["talk", "conversation", "discuss"],
       "phrases": [
@@ -256,7 +256,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Manners"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["welcome", "say hello", "acknowledge"],
       "phrases": [
@@ -284,7 +284,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Communication"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["present", "recommend", "acquaint"],
       "phrases": [
@@ -312,7 +312,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Manners"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["appreciate", "grateful", "acknowledge"],
       "phrases": [
@@ -340,7 +340,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social", "Manners"],
+      "topics": ["Personal Information"],
       "category": "社交关系",
       "related_words": ["sorry", "excuse", "regret"],
       "phrases": [

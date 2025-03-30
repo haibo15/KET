@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Education", "Achievement"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["diploma", "degree", "qualification"],
       "phrases": [
@@ -55,7 +55,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Education", "Achievement"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["certificate", "degree", "qualification"],
       "phrases": [
@@ -83,7 +83,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Education", "Achievement"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["diploma", "certificate", "qualification"],
       "phrases": [
@@ -111,7 +111,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Achievement", "Recognition"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["prize", "reward", "honor"],
       "phrases": [
@@ -139,7 +139,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Achievement", "Recognition"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["award", "reward", "trophy"],
       "phrases": [
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Achievement", "Development"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["improvement", "development", "advancement"],
       "phrases": [
@@ -195,7 +195,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Achievement", "Goals"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["achievement", "accomplishment", "victory"],
       "phrases": [
@@ -223,7 +223,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Achievement", "Planning"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["aim", "target", "objective"],
       "phrases": [
@@ -251,7 +251,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Planning", "Future"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["schedule", "arrangement", "strategy"],
       "phrases": [
@@ -279,7 +279,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time", "Planning"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["prospect", "tomorrow", "ahead"],
       "phrases": [
@@ -307,7 +307,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Goals", "Aspirations"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["ambition", "hope", "aspiration"],
       "phrases": [
@@ -335,7 +335,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Work", "Future"],
+      "topics": ["Personal Information"],
       "category": "个人成就",
       "related_words": ["job", "profession", "occupation"],
       "phrases": [

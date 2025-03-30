@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Nature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["cloudy", "overcast", "sky"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Temperature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["chilly", "freezing", "cool"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Temperature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["warm", "boiling", "heat"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Nature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["rainfall", "shower", "precipitation"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Nature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["snowfall", "blizzard", "winter"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Nature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["sunshine", "sunlight", "sunny"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["bright", "clear", "sun"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Temperature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["mild", "pleasant", "hot"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["climate", "temperature", "forecast"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather", "Nature"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["breeze", "gust", "windy"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Weather"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["breezy", "gusty", "wind"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["noon", "midday", "evening"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time", "Objects"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["watch", "timepiece", "time"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["daytime", "daily", "date"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["dusk", "twilight", "night"],
       "phrases": [
@@ -522,7 +522,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["hourly", "o'clock", "time"],
       "phrases": [
@@ -555,7 +555,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["moment", "instant", "second"],
       "phrases": [
@@ -588,7 +588,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["monthly", "calendar", "year"],
       "phrases": [
@@ -621,7 +621,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["dawn", "sunrise", "early"],
       "phrases": [
@@ -654,7 +654,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["midnight", "darkness", "evening"],
       "phrases": [
@@ -687,7 +687,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["timing", "schedule", "clock"],
       "phrases": [
@@ -720,7 +720,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["present", "nowadays", "current"],
       "phrases": [
@@ -753,7 +753,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["next day", "following day", "future"],
       "phrases": [
@@ -786,7 +786,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["weekly", "weekend", "weekday"],
       "phrases": [
@@ -819,7 +819,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["yearly", "annual", "month"],
       "phrases": [
@@ -852,7 +852,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["previous day", "last day", "past"],
       "phrases": [
@@ -885,7 +885,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Seasons", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["season", "March", "April", "May"],
       "phrases": [
@@ -918,7 +918,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Seasons", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["season", "June", "July", "August"],
       "phrases": [
@@ -951,7 +951,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Seasons", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["fall", "season", "September", "October", "November"],
       "phrases": [
@@ -984,7 +984,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Seasons", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["season", "December", "January", "February"],
       "phrases": [
@@ -1017,7 +1017,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["winter", "month", "New Year"],
       "phrases": [
@@ -1050,7 +1050,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["winter", "month", "Valentine"],
       "phrases": [
@@ -1083,7 +1083,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["spring", "month", "season"],
       "phrases": [
@@ -1116,7 +1116,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["spring", "month", "rain"],
       "phrases": [
@@ -1149,7 +1149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["spring", "month", "flower"],
       "phrases": [
@@ -1182,7 +1182,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["summer", "month", "wedding"],
       "phrases": [
@@ -1215,7 +1215,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["summer", "month", "hot"],
       "phrases": [
@@ -1248,7 +1248,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["summer", "month", "vacation"],
       "phrases": [
@@ -1281,7 +1281,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["autumn", "month", "fall"],
       "phrases": [
@@ -1314,7 +1314,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["autumn", "month", "Halloween"],
       "phrases": [
@@ -1347,7 +1347,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["autumn", "month", "Thanksgiving"],
       "phrases": [
@@ -1380,7 +1380,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Months", "Time"],
+      "topics": ["Daily Life"],
       "category": "天气和时间",
       "related_words": ["winter", "month", "Christmas"],
       "phrases": [

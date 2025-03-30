@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Core Family Members"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["dad", "daddy", "parent"],
       "phrases": [
@@ -55,7 +55,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Core Family Members"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["mum", "mummy", "parent"],
       "phrases": [
@@ -83,7 +83,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Core Family Members"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["brother", "sibling"],
       "phrases": [
@@ -116,7 +116,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Core Family Members"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["sister", "sibling"],
       "phrases": [
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Extended Family"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["grandpa", "grandparent"],
       "phrases": [
@@ -182,7 +182,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Extended Family"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["grandma", "grandparent"],
       "phrases": [
@@ -215,7 +215,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Extended Family"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["aunt", "relative"],
       "phrases": [
@@ -248,7 +248,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Extended Family"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["uncle", "relative"],
       "phrases": [
@@ -281,7 +281,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Extended Family"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["relative", "family"],
       "phrases": [
@@ -309,7 +309,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Marriage"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["wife", "spouse"],
       "phrases": [
@@ -337,7 +337,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Marriage"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["husband", "spouse"],
       "phrases": [
@@ -365,7 +365,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Core Family Members"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["father", "mother"],
       "phrases": [
@@ -393,7 +393,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Family", "Relationships"],
+      "topics": ["Personal Information"],
       "category": "家庭成员",
       "related_words": ["home", "relative", "household"],
       "phrases": [

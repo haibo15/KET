@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Items", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["dental care", "hygiene", "bathroom"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Items", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["wash", "clean", "hygiene"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Items", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["bathroom", "dry", "cloth"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Items", "Weather"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["rain", "weather", "protection"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Items", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["paper", "napkin", "wipe"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Stationery", "Study"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["write", "ink", "stationery"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Stationery", "Study"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["draw", "write", "stationery"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Stationery", "Study"],
+      "topics": ["Daily Life"],
       "category": "日常用品",
       "related_words": ["rubber", "pencil", "correction"],
       "phrases": [

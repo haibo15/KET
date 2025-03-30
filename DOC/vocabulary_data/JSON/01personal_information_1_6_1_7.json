@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "工作经历",
       "related_words": ["skill", "ability", "knowledge"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "工作经历",
       "related_words": ["job", "work", "career"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "工作经历",
       "related_words": ["wage", "income", "pay"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "工作经历",
       "related_words": ["application", "resume", "job"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Lifestyle"],
+      "topics": ["Personal Information"],
       "category": "个人习惯",
       "related_words": ["routine", "custom", "practice"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Time"],
+      "topics": ["Personal Information"],
       "category": "个人习惯",
       "related_words": ["timetable", "plan", "routine"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Time"],
+      "topics": ["Personal Information"],
       "category": "个人习惯",
       "related_words": ["hour", "minute", "schedule"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Daily Life"],
+      "topics": ["Personal Information"],
       "category": "个人习惯",
       "related_words": ["rest", "bed", "nap"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Food"],
+      "topics": ["Personal Information"],
       "category": "个人习惯",
       "related_words": ["food", "meal", "drink"],
       "phrases": [

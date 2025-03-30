@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Places", "Food and Drink"],
+      "topics": ["Daily Life"],
       "category": "餐饮场所",
       "related_words": ["coffee shop", "restaurant", "cafeteria"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Places", "Food and Drink"],
+      "topics": ["Daily Life"],
       "category": "餐饮场所",
       "related_words": ["dining room", "café", "eatery"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Places", "Shopping"],
+      "topics": ["Daily Life"],
       "category": "餐饮场所",
       "related_words": ["store", "market", "supermarket"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Places", "Shopping"],
+      "topics": ["Daily Life"],
       "category": "餐饮场所",
       "related_words": ["grocery store", "shop", "convenience store"],
       "phrases": [

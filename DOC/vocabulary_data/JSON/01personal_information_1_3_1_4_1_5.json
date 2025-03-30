@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "职业类词汇",
       "related_words": ["job", "career", "profession"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "职业类词汇",
       "related_words": ["work", "career", "occupation"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "职业类词汇",
       "related_words": ["job", "career", "employment"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Work"],
+      "topics": ["Personal Information"],
       "category": "职业类词汇",
       "related_words": ["job", "profession", "occupation"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Work", "Education"],
+      "topics": ["Personal Information"],
       "category": "职业类词汇",
       "related_words": ["student", "professor", "instructor"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Work", "Health"],
+      "topics": ["Personal Information"],
       "category": "职业类词汇",
       "related_words": ["nurse", "patient", "hospital"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Status"],
+      "topics": ["Personal Information"],
       "category": "状态类词汇",
       "related_words": ["married", "divorced", "engaged"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Status"],
+      "topics": ["Personal Information"],
       "category": "状态类词汇",
       "related_words": ["single", "divorced", "wedding"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Status", "Work"],
+      "topics": ["Personal Information"],
       "category": "状态类词汇",
       "related_words": ["free", "occupied", "available"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Education"],
+      "topics": ["Personal Information"],
       "category": "教育背景",
       "related_words": ["school", "study", "learning"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Education"],
+      "topics": ["Personal Information"],
       "category": "教育背景",
       "related_words": ["student", "teacher", "classroom"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Education"],
+      "topics": ["Personal Information"],
       "category": "教育背景",
       "related_words": ["college", "campus", "student"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Education"],
+      "topics": ["Personal Information"],
       "category": "教育背景",
       "related_words": ["learn", "teach", "education"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Education"],
+      "topics": ["Personal Information"],
       "category": "教育背景",
       "related_words": ["course", "lesson", "class"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Education"],
+      "topics": ["Personal Information"],
       "category": "教育背景",
       "related_words": ["score", "mark", "level"],
       "phrases": [

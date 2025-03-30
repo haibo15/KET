@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["home", "location", "place"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Technology"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["telephone", "mobile", "call"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Technology"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["mail", "message", "internet"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Communication"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["connection", "communication", "touch"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Communication"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["phone", "telephone", "dial"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Communication"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["text", "note", "information"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Technology", "Internet"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["internet", "web", "online"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Contact", "Technology", "Internet"],
+      "topics": ["Personal Information"],
       "category": "联系类词汇",
       "related_words": ["internet", "web", "digital"],
       "phrases": [

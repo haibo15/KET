@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Preferences", "Feelings"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["love", "enjoy", "prefer"],
       "phrases": [
@@ -55,7 +55,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Preferences", "Feelings"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["like", "adore", "enjoy"],
       "phrases": [
@@ -83,7 +83,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Preferences", "Feelings"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["dislike", "detest", "can't stand"],
       "phrases": [
@@ -111,7 +111,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Preferences", "Activities"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["like", "love", "appreciate"],
       "phrases": [
@@ -139,7 +139,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Preferences", "Choices"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["like", "favor", "choose"],
       "phrases": [
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Hobbies", "Activities"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["hobby", "passion", "enthusiasm"],
       "phrases": [
@@ -195,7 +195,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Leisure", "Activities"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["interest", "pastime", "leisure"],
       "phrases": [
@@ -223,7 +223,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Activities", "Exercise"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["exercise", "game", "activity"],
       "phrases": [
@@ -251,7 +251,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Entertainment"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["song", "melody", "tune"],
       "phrases": [
@@ -279,7 +279,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Entertainment", "Leisure"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["film", "cinema", "show"],
       "phrases": [
@@ -307,7 +307,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Activities", "Education"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["study", "books", "literature"],
       "phrases": [
@@ -335,7 +335,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Activities", "Leisure"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["journey", "trip", "tour"],
       "phrases": [
@@ -363,7 +363,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Preferences", "Choices"],
+      "topics": ["Personal Information"],
       "category": "个人喜好",
       "related_words": ["preferred", "best-liked", "cherished"],
       "phrases": [

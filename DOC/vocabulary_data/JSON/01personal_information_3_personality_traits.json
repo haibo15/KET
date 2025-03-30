@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Ability"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["capable", "skilled", "talented"],
       "phrases": [
@@ -55,7 +55,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Appearance", "Description"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["pretty", "handsome", "lovely"],
       "phrases": [
@@ -83,7 +83,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Character"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["courageous", "fearless", "bold"],
       "phrases": [
@@ -111,7 +111,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Behavior"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["cautious", "attentive", "prudent"],
       "phrases": [
@@ -139,7 +139,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Intelligence"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["smart", "intelligent", "bright"],
       "phrases": [
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Social"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["kind", "nice", "welcoming"],
       "phrases": [
@@ -195,7 +195,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Character"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["truthful", "sincere", "trustworthy"],
       "phrases": [
@@ -223,7 +223,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Character"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["nice", "gentle", "caring"],
       "phrases": [
@@ -251,7 +251,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Negative Traits"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["idle", "inactive", "sluggish"],
       "phrases": [
@@ -279,7 +279,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Behavior"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["silent", "peaceful", "calm"],
       "phrases": [
@@ -307,7 +307,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Attitude"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["solemn", "grave", "earnest"],
       "phrases": [
@@ -335,7 +335,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Social"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["timid", "bashful", "reserved"],
       "phrases": [
@@ -363,7 +363,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personality", "Attitude"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["self-assured", "positive", "certain"],
       "phrases": [
@@ -391,7 +391,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personality", "Character"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["tolerant", "understanding", "calm"],
       "phrases": [
@@ -419,7 +419,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Lifestyle"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["energetic", "dynamic", "lively"],
       "phrases": [
@@ -447,7 +447,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personality", "Work Ethic"],
+      "topics": ["Personal Information"],
       "category": "性格特征",
       "related_words": ["diligent", "industrious", "dedicated"],
       "phrases": [

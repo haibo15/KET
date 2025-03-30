@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["transport", "vehicle", "travel"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["vehicle", "drive", "parking"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["cab", "vehicle", "transport"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["railway", "station", "track"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Sports"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["bike", "cycle", "wheel"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["plane", "flight", "terminal"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Places"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["stop", "terminal", "platform"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Places"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["street", "path", "way"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Infrastructure"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["cross", "structure", "river"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Places"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["park", "car", "space"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["come", "reach", "get to"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["leave", "go", "start"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["journey", "trip", "tour"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Travel"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["reserve", "ticket", "arrange"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Transportation", "Daily Life"],
+      "topics": ["Daily Life"],
       "category": "交通出行",
       "related_words": ["stay", "expect", "delay"],
       "phrases": [

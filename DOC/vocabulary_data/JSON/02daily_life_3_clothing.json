@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Shopping"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["clothing", "garment", "wear"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["jacket", "overcoat", "clothes"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["gown", "frock", "skirt"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["denim", "pants", "trousers"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["blouse", "top", "T-shirt"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Accessories"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["footwear", "boots", "sandals"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["dress", "mini skirt", "long skirt"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["pants", "slacks", "jeans"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["shirt", "top", "casual wear"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Accessories"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["handbag", "backpack", "purse"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Accessories"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["spectacles", "sunglasses", "eyewear"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Accessories"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["cap", "beanie", "headwear"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Accessories"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["wristwatch", "clock", "time"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Actions"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["switch", "alter", "dress"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Actions"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["dress", "wear", "change"],
       "phrases": [
@@ -522,7 +522,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Actions"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["remove", "undress", "change"],
       "phrases": [
@@ -555,7 +555,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Actions"],
+      "topics": ["Daily Life"],
       "category": "衣着",
       "related_words": ["dress", "put on", "clothes"],
       "phrases": [

@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Daily Activities"],
+      "topics": ["Daily Life"],
       "category": "用餐相关",
       "related_words": ["prepare", "bake", "fry"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Daily Activities"],
+      "topics": ["Daily Life"],
       "category": "用餐相关",
       "related_words": ["food", "meal", "drink"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Daily Activities"],
+      "topics": ["Daily Life"],
       "category": "用餐相关",
       "related_words": ["beverage", "water", "thirsty"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Feelings"],
+      "topics": ["Daily Life"],
       "category": "用餐相关",
       "related_words": ["starving", "appetite", "eat"],
       "phrases": [

@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Positive"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["pleased", "glad", "cheerful"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Negative"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["unhappy", "upset", "sorrowful"],
       "phrases": [
@@ -88,7 +88,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Negative"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["mad", "cross", "furious"],
       "phrases": [
@@ -116,7 +116,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Fear"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["scared", "frightened", "fearful"],
       "phrases": [
@@ -144,7 +144,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Concern"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["anxious", "concerned", "troubled"],
       "phrases": [
@@ -172,7 +172,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Positive"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["thrilled", "enthusiastic", "eager"],
       "phrases": [
@@ -200,7 +200,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Physical State"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["exhausted", "sleepy", "weary"],
       "phrases": [
@@ -228,7 +228,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Actions", "Positive"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["laugh", "grin", "beam"],
       "phrases": [
@@ -256,7 +256,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Actions", "Positive"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["smile", "giggle", "chuckle"],
       "phrases": [
@@ -284,7 +284,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Actions", "Negative"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["weep", "sob", "tears"],
       "phrases": [
@@ -312,7 +312,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Feelings", "Relationships"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["adore", "care", "like"],
       "phrases": [
@@ -340,7 +340,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Social", "Politeness"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["appreciate", "grateful"],
       "phrases": [
@@ -368,7 +368,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Emotions", "Social", "Apology"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["apologetic", "regretful"],
       "phrases": [
@@ -396,7 +396,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Emotions", "State of Mind"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["calm", "peaceful", "comfortable"],
       "phrases": [
@@ -424,7 +424,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Emotions", "Mental State"],
+      "topics": ["Personal Information"],
       "category": "情感表达",
       "related_words": ["worried", "anxious", "tense"],
       "phrases": [

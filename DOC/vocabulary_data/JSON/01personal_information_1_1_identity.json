@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["first name", "last name", "surname"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["old", "young", "year"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["country", "citizen", "nation"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["birth", "birthday", "birthplace"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["grown-up", "mature", "person"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity", "Travel"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["ID", "document", "visa"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["nationality", "resident", "person"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["identification", "document", "card"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["man", "boy", "gender"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["woman", "girl", "gender"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["youth", "youthful", "age"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["elderly", "aged", "senior"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["youth", "teen", "adolescent"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["people", "individual", "human"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["person", "crowd", "population"],
       "phrases": [
@@ -522,7 +522,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["born", "birthday", "birthplace"],
       "phrases": [
@@ -555,7 +555,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity", "Geography"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["nation", "homeland", "state"],
       "phrases": [
@@ -588,7 +588,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["ID", "identification", "document"],
       "phrases": [
@@ -621,7 +621,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Personal Information", "Identity", "Education"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["classmate", "schoolmate", "learner"],
       "phrases": [
@@ -654,7 +654,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Personal Information", "Identity"],
+      "topics": ["Personal Information"],
       "category": "身份类词汇",
       "related_words": ["inhabitant", "citizen", "local"],
       "phrases": [

@@ -27,7 +27,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Housing", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["flat", "suite", "home"],
       "phrases": [
@@ -60,7 +60,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Housing", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["residence", "dwelling", "house"],
       "phrases": [
@@ -93,7 +93,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Housing", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["building", "property", "home"],
       "phrases": [
@@ -126,7 +126,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Housing", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["chamber", "quarters", "space"],
       "phrases": [
@@ -159,7 +159,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Furniture", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["mattress", "bunk bed", "bedroom"],
       "phrases": [
@@ -192,7 +192,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Furniture", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["seat", "stool", "furniture"],
       "phrases": [
@@ -225,7 +225,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Furniture", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["gate", "entrance", "doorway"],
       "phrases": [
@@ -258,7 +258,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Furniture", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["ground", "carpet", "surface"],
       "phrases": [
@@ -291,7 +291,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Outdoor", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["yard", "lawn", "plants"],
       "phrases": [
@@ -324,7 +324,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Household Items", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["lock", "keychain", "door"],
       "phrases": [
@@ -357,7 +357,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Household Items", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["lamp", "lighting", "bulb"],
       "phrases": [
@@ -390,7 +390,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Furniture", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["desk", "counter", "furniture"],
       "phrases": [
@@ -423,7 +423,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Building", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["partition", "barrier", "structure"],
       "phrases": [
@@ -456,7 +456,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Building", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["windowpane", "curtain", "glass"],
       "phrases": [
@@ -489,7 +489,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Rooms", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["toilet", "washroom", "shower"],
       "phrases": [
@@ -522,7 +522,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Rooms", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["sleeping room", "dormitory", "bed"],
       "phrases": [
@@ -555,7 +555,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Rooms", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["cooking area", "pantry", "stove"],
       "phrases": [
@@ -588,7 +588,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Rooms", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["lounge", "sitting room", "family room"],
       "phrases": [
@@ -621,7 +621,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Rooms", "Accommodation"],
+      "topics": ["Daily Life"],
       "category": "住宿",
       "related_words": ["restroom", "WC", "bathroom"],
       "phrases": [
