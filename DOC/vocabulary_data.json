@@ -1,0 +1,72 @@
+{
+  "Personal Information": {
+    "name": {
+      "word": "name",
+      "translation": "名字",
+      "phonetic": "neɪm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your name?",
+          "zh": "你叫什么名字？"
+        },
+        {
+          "en": "My name is John.",
+          "zh": "我叫约翰。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"]
+    },
+    "age": {
+      "word": "age",
+      "translation": "年龄",
+      "phonetic": "eɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your age?",
+          "zh": "你多大年龄？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"]
+    }
+  },
+  "Daily Life": {
+    "breakfast": {
+      "word": "breakfast",
+      "translation": "早餐",
+      "phonetic": "ˈbrekfəst",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "What do you usually have for breakfast?",
+          "zh": "你早餐通常吃什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Life", "Food and Drink"]
+    }
+  },
+  "Education": {
+    "school": {
+      "word": "school",
+      "translation": "学校",
+      "phonetic": "skuːl",
+      "part_of_speech": "n",
+      "frequency": 98,
+      "examples": [
+        {
+          "en": "I go to school by bus.",
+          "zh": "我坐公交车去学校。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"]
+    }
+  }
+} 

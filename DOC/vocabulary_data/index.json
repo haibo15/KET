@@ -1,0 +1,128 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-03-29",
+  "topics": {
+    "Personal Information": {
+      "file": "personal_information.json",
+      "word_count": 3,
+      "target_count": 300,
+      "categories": [
+        "个人基本信息",
+        "家庭成员",
+        "性格特征",
+        "情感表达",
+        "个人喜好"
+      ]
+    },
+    "Daily Life": {
+      "file": "daily_life.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "日常活动",
+        "饮食",
+        "衣着",
+        "住宿",
+        "天气和时间"
+      ]
+    },
+    "Education": {
+      "file": "education.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "学校生活",
+        "课程科目",
+        "学习用品",
+        "考试与成绩",
+        "教育活动"
+      ]
+    },
+    "Work": {
+      "file": "work.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "职业类型",
+        "工作场所",
+        "工作活动",
+        "职场交际",
+        "求职面试"
+      ]
+    },
+    "Transportation": {
+      "file": "transportation.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "交通工具",
+        "路线方向",
+        "旅行计划",
+        "票务预订",
+        "交通规则"
+      ]
+    },
+    "Entertainment": {
+      "file": "entertainment.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "兴趣爱好",
+        "体育运动",
+        "文化活动",
+        "节日庆典",
+        "社交活动"
+      ]
+    },
+    "Shopping": {
+      "file": "shopping.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "商品类别",
+        "价格支付",
+        "购物场所",
+        "服务咨询",
+        "退换货物"
+      ]
+    },
+    "Health": {
+      "file": "health.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "身体部位",
+        "疾病症状",
+        "医疗服务",
+        "健康生活",
+        "急救处理"
+      ]
+    },
+    "Technology": {
+      "file": "technology.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "电子设备",
+        "网络通讯",
+        "社交媒体",
+        "数码产品",
+        "技术操作"
+      ]
+    },
+    "Services": {
+      "file": "services.json",
+      "word_count": 0,
+      "target_count": 300,
+      "categories": [
+        "公共设施",
+        "银行服务",
+        "邮政服务",
+        "维修服务",
+        "咨询服务"
+      ]
+    }
+  },
+  "total_words": 3,
+  "target_total": 3000
+} 

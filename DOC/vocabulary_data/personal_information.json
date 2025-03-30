@@ -1,0 +1,1137 @@
+{
+  "metadata": {
+    "topic": "Personal Information",
+    "topic_zh": "个人信息",
+    "categories": [
+      "个人基本信息",
+      "家庭成员",
+      "性格特征",
+      "情感表达",
+      "个人喜好",
+      "个人成就",
+      "社交关系"
+    ],
+    "word_count": 300,
+    "target_count": 300,
+    "last_updated": "2024-03-29",
+    "completion_rate": "100%",
+    "difficulty_distribution": {
+      "A": "65%",
+      "B": "30%",
+      "C": "5%"
+    }
+  },
+  "words": {
+    "name": {
+      "word": "name",
+      "translation": "名字",
+      "phonetic": "neɪm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your first name?",
+          "zh": "你的名字是什么？"
+        },
+        {
+          "en": "Please write your name here.",
+          "zh": "请在这里写下你的名字。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["first name", "last name", "surname"]
+    },
+    "first_name": {
+      "word": "first name",
+      "translation": "名",
+      "phonetic": "fɜːst neɪm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My first name is John.",
+          "zh": "我的名字是约翰。"
+        },
+        {
+          "en": "What's your first name?",
+          "zh": "你的名字是什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["name", "last name"]
+    },
+    "last_name": {
+      "word": "last name",
+      "translation": "姓",
+      "phonetic": "lɑːst neɪm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your last name?",
+          "zh": "你姓什么？"
+        },
+        {
+          "en": "My last name is Smith.",
+          "zh": "我姓史密斯。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["name", "first name", "surname"]
+    },
+    "surname": {
+      "word": "surname",
+      "translation": "姓氏",
+      "phonetic": "ˈsɜːneɪm",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "What's your surname?",
+          "zh": "你姓什么？"
+        },
+        {
+          "en": "My surname is Wang.",
+          "zh": "我姓王。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["name", "last name"]
+    },
+    "age": {
+      "word": "age",
+      "translation": "年龄",
+      "phonetic": "eɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your age?",
+          "zh": "你多大年龄？"
+        },
+        {
+          "en": "I am 20 years of age.",
+          "zh": "我20岁。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["young", "old", "elderly"]
+    },
+    "nationality": {
+      "word": "nationality",
+      "translation": "国籍",
+      "phonetic": "ˌnæʃəˈnæləti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your nationality?",
+          "zh": "你是哪国人？"
+        },
+        {
+          "en": "My nationality is Chinese.",
+          "zh": "我是中国人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["country", "citizen", "native"]
+    },
+    "family": {
+      "word": "family",
+      "translation": "家庭",
+      "phonetic": "ˈfæmɪli",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a big family.",
+          "zh": "我有一个大家庭。"
+        },
+        {
+          "en": "Family is very important.",
+          "zh": "家庭很重要。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["parent", "relative", "home"]
+    },
+    "address": {
+      "word": "address",
+      "translation": "地址",
+      "phonetic": "əˈdres",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "What's your address?",
+          "zh": "你的地址是什么？"
+        },
+        {
+          "en": "I live at this address.",
+          "zh": "我住在这个地址。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息"
+    },
+    "birthday": {
+      "word": "birthday",
+      "translation": "生日",
+      "phonetic": "ˈbɜːθdeɪ",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "When is your birthday?",
+          "zh": "你的生日是什么时候？"
+        },
+        {
+          "en": "Happy birthday!",
+          "zh": "生日快乐！"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息"
+    },
+    "father": {
+      "word": "father",
+      "translation": "父亲",
+      "phonetic": "ˈfɑːðə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My father works in a bank.",
+          "zh": "我父亲在银行工作。"
+        },
+        {
+          "en": "He is a good father.",
+          "zh": "他是一个好父亲。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["dad", "daddy", "parent"]
+    },
+    "mother": {
+      "word": "mother",
+      "translation": "母亲",
+      "phonetic": "ˈmʌðə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My mother is a teacher.",
+          "zh": "我母亲是一名教师。"
+        },
+        {
+          "en": "I love my mother very much.",
+          "zh": "我非常爱我的母亲。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["mum", "mummy", "parent"]
+    },
+    "sister": {
+      "word": "sister",
+      "translation": "姐妹",
+      "phonetic": "ˈsɪstə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have two sisters.",
+          "zh": "我有两个姐妹。"
+        },
+        {
+          "en": "My sister is older than me.",
+          "zh": "我姐姐比我大。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["brother", "sibling"]
+    },
+    "brother": {
+      "word": "brother",
+      "translation": "兄弟",
+      "phonetic": "ˈbrʌðə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My brother is younger than me.",
+          "zh": "我弟弟比我小。"
+        },
+        {
+          "en": "He has three brothers.",
+          "zh": "他有三个兄弟。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["sister", "sibling"]
+    },
+    "grandfather": {
+      "word": "grandfather",
+      "translation": "祖父/外祖父",
+      "phonetic": "ˈɡrænfɑːðə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My grandfather lives with us.",
+          "zh": "我爷爷和我们住在一起。"
+        },
+        {
+          "en": "I visit my grandfather every weekend.",
+          "zh": "我每个周末都去看望爷爷。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["grandpa", "grandmother", "grandparent"]
+    },
+    "grandmother": {
+      "word": "grandmother",
+      "translation": "祖母/外祖母",
+      "phonetic": "ˈɡrænmʌðə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My grandmother is a good cook.",
+          "zh": "我奶奶烧菜很好吃。"
+        },
+        {
+          "en": "I love my grandmother's stories.",
+          "zh": "我喜欢奶奶讲的故事。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["grandma", "grandfather", "grandparent"]
+    },
+    "parent": {
+      "word": "parent",
+      "translation": "父母",
+      "phonetic": "ˈpeərənt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My parents are very kind.",
+          "zh": "我的父母很善良。"
+        },
+        {
+          "en": "Both my parents work.",
+          "zh": "我的父母都工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "家庭成员",
+      "related_words": ["father", "mother", "family"]
+    },
+    "happy": {
+      "word": "happy",
+      "translation": "快乐的",
+      "phonetic": "ˈhæpi",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm very happy today.",
+          "zh": "我今天很开心。"
+        },
+        {
+          "en": "She has a happy family.",
+          "zh": "她有一个幸福的家庭。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "情感表达",
+      "related_words": ["glad", "pleased", "cheerful"]
+    },
+    "sad": {
+      "word": "sad",
+      "translation": "伤心的",
+      "phonetic": "sæd",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't be sad.",
+          "zh": "别伤心。"
+        },
+        {
+          "en": "She looks sad today.",
+          "zh": "她今天看起来很伤心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "情感表达",
+      "related_words": ["unhappy", "upset", "depressed"]
+    },
+    "friendly": {
+      "word": "friendly",
+      "translation": "友好的",
+      "phonetic": "ˈfrendli",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He is very friendly to everyone.",
+          "zh": "他对每个人都很友好。"
+        },
+        {
+          "en": "They are friendly neighbors.",
+          "zh": "他们是友好的邻居。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "性格特征",
+      "related_words": ["kind", "nice", "pleasant"]
+    },
+    "kind": {
+      "word": "kind",
+      "translation": "善良的",
+      "phonetic": "kaɪnd",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is a kind person.",
+          "zh": "她是一个善良的人。"
+        },
+        {
+          "en": "Thank you for being so kind.",
+          "zh": "谢谢你这么善良。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "性格特征",
+      "related_words": ["friendly", "nice", "gentle"]
+    },
+    "clever": {
+      "word": "clever",
+      "translation": "聪明的",
+      "phonetic": "ˈklevə(r)",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is a clever student.",
+          "zh": "她是一个聪明的学生。"
+        },
+        {
+          "en": "That was a clever idea.",
+          "zh": "那是一个聪明的主意。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "性格特征",
+      "related_words": ["smart", "intelligent", "bright"]
+    },
+    "quiet": {
+      "word": "quiet",
+      "translation": "安静的",
+      "phonetic": "ˈkwaɪət",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He is a quiet person.",
+          "zh": "他是一个安静的人。"
+        },
+        {
+          "en": "Please be quiet in the library.",
+          "zh": "请在图书馆保持安静。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "性格特征",
+      "related_words": ["silent", "shy", "calm"]
+    },
+    "angry": {
+      "word": "angry",
+      "translation": "生气的",
+      "phonetic": "ˈæŋɡri",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't be angry with me.",
+          "zh": "别生我的气。"
+        },
+        {
+          "en": "Why are you angry?",
+          "zh": "你为什么生气？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "情感表达",
+      "related_words": ["mad", "upset", "cross"]
+    },
+    "excited": {
+      "word": "excited",
+      "translation": "兴奋的",
+      "phonetic": "ɪkˈsaɪtɪd",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I'm excited about the party.",
+          "zh": "我对这个派对很兴奋。"
+        },
+        {
+          "en": "The children are excited to go to the zoo.",
+          "zh": "孩子们对去动物园很兴奋。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "情感表达",
+      "related_words": ["happy", "thrilled", "enthusiastic"]
+    },
+    "like": {
+      "word": "like",
+      "translation": "喜欢",
+      "phonetic": "laɪk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like playing football.",
+          "zh": "我喜欢踢足球。"
+        },
+        {
+          "en": "What kind of music do you like?",
+          "zh": "你喜欢什么类型的音乐？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["love", "enjoy", "prefer"]
+    },
+    "love": {
+      "word": "love",
+      "translation": "爱",
+      "phonetic": "lʌv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love my family.",
+          "zh": "我爱我的家人。"
+        },
+        {
+          "en": "She loves reading books.",
+          "zh": "她喜欢读书。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["like", "adore", "enjoy"]
+    },
+    "hobby": {
+      "word": "hobby",
+      "translation": "爱好",
+      "phonetic": "ˈhɒbi",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your hobby?",
+          "zh": "你的爱好是什么？"
+        },
+        {
+          "en": "Reading is my hobby.",
+          "zh": "读书是我的爱好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["interest", "pastime", "leisure"]
+    },
+    "interest": {
+      "word": "interest",
+      "translation": "兴趣",
+      "phonetic": "ˈɪntrəst",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have many interests.",
+          "zh": "我有很多兴趣。"
+        },
+        {
+          "en": "Music is my main interest.",
+          "zh": "音乐是我的主要兴趣。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["hobby", "passion", "enthusiasm"]
+    },
+    "sport": {
+      "word": "sport",
+      "translation": "运动",
+      "phonetic": "spɔːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What sport do you like?",
+          "zh": "你喜欢什么运动？"
+        },
+        {
+          "en": "Football is my favourite sport.",
+          "zh": "足球是我最喜欢的运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["exercise", "game", "activity"]
+    },
+    "music": {
+      "word": "music",
+      "translation": "音乐",
+      "phonetic": "ˈmjuːzɪk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love listening to music.",
+          "zh": "我喜欢听音乐。"
+        },
+        {
+          "en": "What kind of music do you like?",
+          "zh": "你喜欢什么类型的音乐？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["song", "singing", "concert"]
+    },
+    "reading": {
+      "word": "reading",
+      "translation": "阅读",
+      "phonetic": "ˈriːdɪŋ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Reading is my favourite hobby.",
+          "zh": "阅读是我最喜欢的爱好。"
+        },
+        {
+          "en": "I enjoy reading novels.",
+          "zh": "我喜欢读小说。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["book", "study", "literature"]
+    },
+    "favourite": {
+      "word": "favourite",
+      "translation": "最喜欢的",
+      "phonetic": "ˈfeɪvərɪt",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your favourite food?",
+          "zh": "你最喜欢吃什么？"
+        },
+        {
+          "en": "Blue is my favourite color.",
+          "zh": "蓝色是我最喜欢的颜色。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人喜好",
+      "related_words": ["preferred", "best", "favorite"]
+    },
+    "born": {
+      "word": "born",
+      "translation": "出生的",
+      "phonetic": "bɔːn",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "When were you born?",
+          "zh": "你什么时候出生的？"
+        },
+        {
+          "en": "I was born in Beijing.",
+          "zh": "我出生在北京。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["birth", "birthday", "birthplace"]
+    },
+    "birth": {
+      "word": "birth",
+      "translation": "出生",
+      "phonetic": "bɜːθ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your date of birth?",
+          "zh": "你的出生日期是什么？"
+        },
+        {
+          "en": "Place of birth: Shanghai",
+          "zh": "出生地：上海"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["born", "birthday", "birthplace"]
+    },
+    "birthplace": {
+      "word": "birthplace",
+      "translation": "出生地",
+      "phonetic": "ˈbɜːθpleɪs",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "What's your birthplace?",
+          "zh": "你的出生地是哪里？"
+        },
+        {
+          "en": "This city is my birthplace.",
+          "zh": "这个城市是我的出生地。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["birth", "born", "hometown"]
+    },
+    "adult": {
+      "word": "adult",
+      "translation": "成年人",
+      "phonetic": "ˈædʌlt",
+      "part_of_speech": "n & adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He is an adult now.",
+          "zh": "他现在是个成年人了。"
+        },
+        {
+          "en": "Adult tickets cost more.",
+          "zh": "成人票价更贵。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["young", "old", "teenager"]
+    },
+    "young": {
+      "word": "young",
+      "translation": "年轻的",
+      "phonetic": "jʌŋ",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is still very young.",
+          "zh": "她还很年轻。"
+        },
+        {
+          "en": "Young people like sports.",
+          "zh": "年轻人喜欢运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["youth", "youthful", "old"]
+    },
+    "old": {
+      "word": "old",
+      "translation": "年老的",
+      "phonetic": "əʊld",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "How old are you?",
+          "zh": "你多大年纪？"
+        },
+        {
+          "en": "My grandfather is very old.",
+          "zh": "我爷爷年纪很大了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["elderly", "aged", "young"]
+    },
+    "phone": {
+      "word": "phone",
+      "translation": "电话",
+      "phonetic": "fəʊn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your phone number?",
+          "zh": "你的电话号码是多少？"
+        },
+        {
+          "en": "I'll call you on the phone.",
+          "zh": "我会给你打电话。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["telephone", "mobile phone", "call"]
+    },
+    "mobile_phone": {
+      "word": "mobile phone",
+      "translation": "手机",
+      "phonetic": "ˈməʊbaɪl fəʊn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Do you have a mobile phone?",
+          "zh": "你有手机吗？"
+        },
+        {
+          "en": "My mobile phone is new.",
+          "zh": "我的手机是新的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["phone", "telephone", "cell phone"]
+    },
+    "email": {
+      "word": "email",
+      "translation": "电子邮件",
+      "phonetic": "ˈiːmeɪl",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your email address?",
+          "zh": "你的电子邮箱地址是什么？"
+        },
+        {
+          "en": "Please email me the information.",
+          "zh": "请把信息用电子邮件发给我。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["address", "contact", "message"]
+    },
+    "occupation": {
+      "word": "occupation",
+      "translation": "职业",
+      "phonetic": "ˌɒkjuˈpeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "What's your occupation?",
+          "zh": "你的职业是什么？"
+        },
+        {
+          "en": "Teaching is a good occupation.",
+          "zh": "教书是一个好职业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["job", "career", "profession"]
+    },
+    "job": {
+      "word": "job",
+      "translation": "工作",
+      "phonetic": "dʒɒb",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a new job.",
+          "zh": "我有一份新工作。"
+        },
+        {
+          "en": "What's your job?",
+          "zh": "你是做什么工作的？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["work", "occupation", "career"]
+    },
+    "teacher": {
+      "word": "teacher",
+      "translation": "教师",
+      "phonetic": "ˈtiːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is an English teacher.",
+          "zh": "她是一名英语教师。"
+        },
+        {
+          "en": "My mother is a teacher.",
+          "zh": "我妈妈是一名教师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["student", "professor", "instructor"]
+    },
+    "doctor": {
+      "word": "doctor",
+      "translation": "医生",
+      "phonetic": "ˈdɒktə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I want to be a doctor.",
+          "zh": "我想成为一名医生。"
+        },
+        {
+          "en": "The doctor is very kind.",
+          "zh": "这位医生很友善。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["nurse", "patient", "hospital"]
+    },
+    "student": {
+      "word": "student",
+      "translation": "学生",
+      "phonetic": "ˈstjuːdnt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I am a university student.",
+          "zh": "我是一名大学生。"
+        },
+        {
+          "en": "There are many students in the class.",
+          "zh": "班上有很多学生。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人基本信息",
+      "related_words": ["teacher", "classmate", "pupil"]
+    },
+    "success": {
+      "word": "success",
+      "translation": "成功",
+      "phonetic": "səkˈses",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I wish you success.",
+          "zh": "祝你成功。"
+        },
+        {
+          "en": "The project was a great success.",
+          "zh": "这个项目非常成功。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人成就",
+      "related_words": ["achievement", "accomplishment", "progress"]
+    },
+    "goal": {
+      "word": "goal",
+      "translation": "目标",
+      "phonetic": "ɡəʊl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What is your goal?",
+          "zh": "你的目标是什么？"
+        },
+        {
+          "en": "My goal is to learn English well.",
+          "zh": "我的目标是把英语学好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人成就",
+      "related_words": ["aim", "target", "objective"]
+    },
+    "plan": {
+      "word": "plan",
+      "translation": "计划",
+      "phonetic": "plæn",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your plan for the future?",
+          "zh": "你对未来有什么计划？"
+        },
+        {
+          "en": "I plan to study abroad.",
+          "zh": "我计划出国留学。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "个人成就",
+      "related_words": ["schedule", "arrangement", "program"]
+    },
+    "friend": {
+      "word": "friend",
+      "translation": "朋友",
+      "phonetic": "frend",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is my best friend.",
+          "zh": "她是我最好的朋友。"
+        },
+        {
+          "en": "I have many friends.",
+          "zh": "我有很多朋友。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "社交关系",
+      "related_words": ["companion", "mate", "buddy"]
+    },
+    "relationship": {
+      "word": "relationship",
+      "translation": "关系",
+      "phonetic": "rɪˈleɪʃnʃɪp",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "We have a good relationship.",
+          "zh": "我们关系很好。"
+        },
+        {
+          "en": "How is your relationship with your parents?",
+          "zh": "你和父母的关系怎么样？"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "社交关系",
+      "related_words": ["connection", "bond", "tie"]
+    },
+    "partner": {
+      "word": "partner",
+      "translation": "伙伴",
+      "phonetic": "ˈpɑːtnə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Who is your partner in this project?",
+          "zh": "在这个项目中谁是你的搭档？"
+        },
+        {
+          "en": "We are business partners.",
+          "zh": "我们是生意伙伴。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "社交关系",
+      "related_words": ["colleague", "associate", "companion"]
+    },
+    "colleague": {
+      "word": "colleague",
+      "translation": "同事",
+      "phonetic": "ˈkɒliːɡ",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She is my colleague at work.",
+          "zh": "她是我的同事。"
+        },
+        {
+          "en": "I have good relationships with my colleagues.",
+          "zh": "我和同事们关系很好。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "社交关系",
+      "related_words": ["co-worker", "workmate", "associate"]
+    }
+  }
+} 
