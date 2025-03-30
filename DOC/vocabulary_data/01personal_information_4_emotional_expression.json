@@ -1,0 +1,439 @@
+{
+  "metadata": {
+    "category": "Emotional Expression",
+    "category_cn": "情感表达",
+    "word_count": 45,
+    "difficulty_distribution": {
+      "A": 65,
+      "B": 35,
+      "C": 0
+    }
+  },
+  "words": {
+    "happy": {
+      "word": "happy",
+      "translation": "快乐的",
+      "phonetic": "ˈhæpi",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm very happy today.",
+          "zh": "我今天很开心。"
+        },
+        {
+          "en": "They are a happy family.",
+          "zh": "他们是一个幸福的家庭。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Positive"],
+      "category": "情感表达",
+      "related_words": ["pleased", "glad", "cheerful"],
+      "phrases": [
+        {
+          "phrase": "happy birthday",
+          "translation": "生日快乐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "happy to help",
+          "translation": "很乐意帮忙",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sad": {
+      "word": "sad",
+      "translation": "伤心的",
+      "phonetic": "sæd",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She felt sad when her friend left.",
+          "zh": "当她的朋友离开时她感到伤心。"
+        },
+        {
+          "en": "It's a sad story.",
+          "zh": "这是一个悲伤的故事。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Negative"],
+      "category": "情感表达",
+      "related_words": ["unhappy", "upset", "sorrowful"],
+      "phrases": [
+        {
+          "phrase": "feel sad",
+          "translation": "感到伤心",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "angry": {
+      "word": "angry",
+      "translation": "生气的",
+      "phonetic": "ˈæŋɡri",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't make him angry.",
+          "zh": "别惹他生气。"
+        },
+        {
+          "en": "She was angry about the mistake.",
+          "zh": "她对这个错误很生气。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Negative"],
+      "category": "情感表达",
+      "related_words": ["mad", "cross", "furious"],
+      "phrases": [
+        {
+          "phrase": "get angry",
+          "translation": "生气",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "afraid": {
+      "word": "afraid",
+      "translation": "害怕的",
+      "phonetic": "əˈfreɪd",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't be afraid, I'm here with you.",
+          "zh": "别害怕，我在这里陪着你。"
+        },
+        {
+          "en": "She is afraid of spiders.",
+          "zh": "她害怕蜘蛛。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Fear"],
+      "category": "情感表达",
+      "related_words": ["scared", "frightened", "fearful"],
+      "phrases": [
+        {
+          "phrase": "be afraid of",
+          "translation": "害怕...",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "worried": {
+      "word": "worried",
+      "translation": "担心的",
+      "phonetic": "ˈwʌrid",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I'm worried about my exam.",
+          "zh": "我担心我的考试。"
+        },
+        {
+          "en": "Don't be worried, everything will be fine.",
+          "zh": "别担心，一切都会好的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Concern"],
+      "category": "情感表达",
+      "related_words": ["anxious", "concerned", "troubled"],
+      "phrases": [
+        {
+          "phrase": "worried about",
+          "translation": "担心...",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "excited": {
+      "word": "excited",
+      "translation": "兴奋的",
+      "phonetic": "ɪkˈsaɪtɪd",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The children are excited about Christmas.",
+          "zh": "孩子们对圣诞节很兴奋。"
+        },
+        {
+          "en": "I'm so excited to see you!",
+          "zh": "见到你我太兴奋了！"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Positive"],
+      "category": "情感表达",
+      "related_words": ["thrilled", "enthusiastic", "eager"],
+      "phrases": [
+        {
+          "phrase": "get excited",
+          "translation": "变得兴奋",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "tired": {
+      "word": "tired",
+      "translation": "疲倦的",
+      "phonetic": "ˈtaɪəd",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm tired after work.",
+          "zh": "工作后我很累。"
+        },
+        {
+          "en": "She looks tired today.",
+          "zh": "她今天看起来很疲惫。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Physical State"],
+      "category": "情感表达",
+      "related_words": ["exhausted", "sleepy", "weary"],
+      "phrases": [
+        {
+          "phrase": "feel tired",
+          "translation": "感到疲倦",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "smile": {
+      "word": "smile",
+      "translation": "微笑",
+      "phonetic": "smaɪl",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She smiled at me.",
+          "zh": "她对我笑了笑。"
+        },
+        {
+          "en": "He has a nice smile.",
+          "zh": "他有一个好看的笑容。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Actions", "Positive"],
+      "category": "情感表达",
+      "related_words": ["laugh", "grin", "beam"],
+      "phrases": [
+        {
+          "phrase": "big smile",
+          "translation": "灿烂的笑容",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "laugh": {
+      "word": "laugh",
+      "translation": "笑",
+      "phonetic": "lɑːf",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The joke made everyone laugh.",
+          "zh": "这个笑话让每个人都笑了。"
+        },
+        {
+          "en": "Don't laugh at others.",
+          "zh": "不要嘲笑别人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Actions", "Positive"],
+      "category": "情感表达",
+      "related_words": ["smile", "giggle", "chuckle"],
+      "phrases": [
+        {
+          "phrase": "laugh at",
+          "translation": "嘲笑",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cry": {
+      "word": "cry",
+      "translation": "哭",
+      "phonetic": "kraɪ",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The baby is crying.",
+          "zh": "婴儿在哭。"
+        },
+        {
+          "en": "She cried when she heard the news.",
+          "zh": "她听到这个消息时哭了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Actions", "Negative"],
+      "category": "情感表达",
+      "related_words": ["weep", "sob", "tears"],
+      "phrases": [
+        {
+          "phrase": "cry out",
+          "translation": "喊叫",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "love": {
+      "word": "love",
+      "translation": "爱",
+      "phonetic": "lʌv",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love my family.",
+          "zh": "我爱我的家人。"
+        },
+        {
+          "en": "Love makes the world go round.",
+          "zh": "爱让世界转动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Feelings", "Relationships"],
+      "category": "情感表达",
+      "related_words": ["adore", "care", "like"],
+      "phrases": [
+        {
+          "phrase": "fall in love",
+          "translation": "恋爱",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "thank": {
+      "word": "thank",
+      "translation": "感谢",
+      "phonetic": "θæŋk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Thank you for your help.",
+          "zh": "谢谢你的帮助。"
+        },
+        {
+          "en": "I want to thank everyone.",
+          "zh": "我想感谢每个人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Social", "Politeness"],
+      "category": "情感表达",
+      "related_words": ["appreciate", "grateful"],
+      "phrases": [
+        {
+          "phrase": "thank you",
+          "translation": "谢谢你",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sorry": {
+      "word": "sorry",
+      "translation": "抱歉的",
+      "phonetic": "ˈsɒri",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm sorry for being late.",
+          "zh": "对不起我迟到了。"
+        },
+        {
+          "en": "She felt sorry about the mistake.",
+          "zh": "她对这个错误感到抱歉。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emotions", "Social", "Apology"],
+      "category": "情感表达",
+      "related_words": ["apologetic", "regretful"],
+      "phrases": [
+        {
+          "phrase": "I'm sorry",
+          "translation": "对不起",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "relaxed": {
+      "word": "relaxed",
+      "translation": "放松的",
+      "phonetic": "rɪˈlækst",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "I feel relaxed after yoga.",
+          "zh": "瑜伽后我感觉很放松。"
+        },
+        {
+          "en": "He has a relaxed attitude to life.",
+          "zh": "他对生活态度很放松。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Emotions", "State of Mind"],
+      "category": "情感表达",
+      "related_words": ["calm", "peaceful", "comfortable"],
+      "phrases": [
+        {
+          "phrase": "feel relaxed",
+          "translation": "感到放松",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "stressed": {
+      "word": "stressed",
+      "translation": "压力大的",
+      "phonetic": "strest",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She's stressed about her exams.",
+          "zh": "她对考试感到压力很大。"
+        },
+        {
+          "en": "Don't get too stressed.",
+          "zh": "别太有压力。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Emotions", "Mental State"],
+      "category": "情感表达",
+      "related_words": ["worried", "anxious", "tense"],
+      "phrases": [
+        {
+          "phrase": "stressed out",
+          "translation": "压力很大",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

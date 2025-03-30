@@ -1,0 +1,674 @@
+{
+  "metadata": {
+    "category": "Identity",
+    "category_cn": "身份类词汇",
+    "word_count": 25,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 30,
+      "C": 0
+    }
+  },
+  "words": {
+    "name": {
+      "word": "name",
+      "translation": "名字",
+      "phonetic": "neɪm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your name?",
+          "zh": "你叫什么名字？"
+        },
+        {
+          "en": "Please write your name here.",
+          "zh": "请在这里写下你的名字。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["first name", "last name", "surname"],
+      "phrases": [
+        {
+          "phrase": "first name",
+          "translation": "名",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "last name",
+          "translation": "姓",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "age": {
+      "word": "age",
+      "translation": "年龄",
+      "phonetic": "eɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your age?",
+          "zh": "你多大年龄？"
+        },
+        {
+          "en": "He is of school age.",
+          "zh": "他到了上学的年龄。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["old", "young", "year"],
+      "phrases": [
+        {
+          "phrase": "at the age of",
+          "translation": "在...岁时",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "school age",
+          "translation": "学龄",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "nationality": {
+      "word": "nationality",
+      "translation": "国籍",
+      "phonetic": "ˌnæʃəˈnæləti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your nationality?",
+          "zh": "你是什么国籍？"
+        },
+        {
+          "en": "She has dual nationality.",
+          "zh": "她有双重国籍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["country", "citizen", "nation"],
+      "phrases": [
+        {
+          "phrase": "dual nationality",
+          "translation": "双重国籍",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "change nationality",
+          "translation": "改变国籍",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "born": {
+      "word": "born",
+      "translation": "出生的",
+      "phonetic": "bɔːn",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "When were you born?",
+          "zh": "你什么时候出生的？"
+        },
+        {
+          "en": "He was born in Beijing.",
+          "zh": "他出生在北京。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["birth", "birthday", "birthplace"],
+      "phrases": [
+        {
+          "phrase": "be born in",
+          "translation": "出生在",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "born on",
+          "translation": "出生于",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "adult": {
+      "word": "adult",
+      "translation": "成年人",
+      "phonetic": "ˈædʌlt",
+      "part_of_speech": "n & adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "You need to be an adult to drive.",
+          "zh": "开车需要是成年人。"
+        },
+        {
+          "en": "She is now an adult.",
+          "zh": "她现在是个成年人了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["grown-up", "mature", "person"],
+      "phrases": [
+        {
+          "phrase": "young adult",
+          "translation": "青年人",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "adult life",
+          "translation": "成年生活",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "passport": {
+      "word": "passport",
+      "translation": "护照",
+      "phonetic": "ˈpɑːspɔːt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Show me your passport, please.",
+          "zh": "请出示你的护照。"
+        },
+        {
+          "en": "My passport is valid for five years.",
+          "zh": "我的护照有效期为五年。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity", "Travel"],
+      "category": "身份类词汇",
+      "related_words": ["ID", "document", "visa"],
+      "phrases": [
+        {
+          "phrase": "passport number",
+          "translation": "护照号码",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "valid passport",
+          "translation": "有效护照",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "citizen": {
+      "word": "citizen",
+      "translation": "公民",
+      "phonetic": "ˈsɪtɪzn",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "He became a British citizen last year.",
+          "zh": "他去年成为英国公民。"
+        },
+        {
+          "en": "All citizens have the right to vote.",
+          "zh": "所有公民都有投票权。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["nationality", "resident", "person"],
+      "phrases": [
+        {
+          "phrase": "senior citizen",
+          "translation": "老年人",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "citizenship",
+          "translation": "公民身份",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "ID": {
+      "word": "ID",
+      "translation": "身份证",
+      "phonetic": "ˌaɪˈdiː",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Can I see your ID, please?",
+          "zh": "请出示你的身份证。"
+        },
+        {
+          "en": "You must carry your ID with you.",
+          "zh": "你必须随身携带身份证。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["identification", "document", "card"],
+      "phrases": [
+        {
+          "phrase": "ID card",
+          "translation": "身份证",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "ID number",
+          "translation": "身份证号码",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "male": {
+      "word": "male",
+      "translation": "男性的；男性",
+      "phonetic": "meɪl",
+      "part_of_speech": "adj & n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Is the patient male or female?",
+          "zh": "病人是男性还是女性？"
+        },
+        {
+          "en": "The male students are in this class.",
+          "zh": "男学生在这个班级。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["man", "boy", "gender"],
+      "phrases": [
+        {
+          "phrase": "male student",
+          "translation": "男学生",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "male voice",
+          "translation": "男声",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "female": {
+      "word": "female",
+      "translation": "女性的；女性",
+      "phonetic": "ˈfiːmeɪl",
+      "part_of_speech": "adj & n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is the only female doctor here.",
+          "zh": "她是这里唯一的女医生。"
+        },
+        {
+          "en": "The female population is increasing.",
+          "zh": "女性人口在增加。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["woman", "girl", "gender"],
+      "phrases": [
+        {
+          "phrase": "female student",
+          "translation": "女学生",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "female voice",
+          "translation": "女声",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "young": {
+      "word": "young",
+      "translation": "年轻的",
+      "phonetic": "jʌŋ",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She looks very young for her age.",
+          "zh": "就她的年龄来说她看起来很年轻。"
+        },
+        {
+          "en": "They are a young couple.",
+          "zh": "他们是一对年轻的夫妇。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["youth", "youthful", "age"],
+      "phrases": [
+        {
+          "phrase": "young people",
+          "translation": "年轻人",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "young adult",
+          "translation": "青年人",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "old": {
+      "word": "old",
+      "translation": "年老的",
+      "phonetic": "əʊld",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "How old are you?",
+          "zh": "你多大年纪？"
+        },
+        {
+          "en": "My grandfather is very old now.",
+          "zh": "我的祖父现在很老了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["elderly", "aged", "senior"],
+      "phrases": [
+        {
+          "phrase": "old age",
+          "translation": "老年",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "grow old",
+          "translation": "变老",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "teenager": {
+      "word": "teenager",
+      "translation": "青少年",
+      "phonetic": "ˈtiːneɪdʒə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Most teenagers like pop music.",
+          "zh": "大多数青少年喜欢流行音乐。"
+        },
+        {
+          "en": "She is a typical teenager.",
+          "zh": "她是一个典型的青少年。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["youth", "teen", "adolescent"],
+      "phrases": [
+        {
+          "phrase": "teenage years",
+          "translation": "青少年时期",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "teenage life",
+          "translation": "青少年生活",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "person": {
+      "word": "person",
+      "translation": "人",
+      "phonetic": "ˈpɜːsn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is a very nice person.",
+          "zh": "她是一个很好的人。"
+        },
+        {
+          "en": "One person can make a difference.",
+          "zh": "一个人也能带来改变。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["people", "individual", "human"],
+      "phrases": [
+        {
+          "phrase": "in person",
+          "translation": "亲自",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "personal",
+          "translation": "个人的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "people": {
+      "word": "people",
+      "translation": "人们",
+      "phonetic": "ˈpiːpl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Many people like to travel.",
+          "zh": "许多人喜欢旅行。"
+        },
+        {
+          "en": "Young people often use social media.",
+          "zh": "年轻人经常使用社交媒体。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["person", "crowd", "population"],
+      "phrases": [
+        {
+          "phrase": "young people",
+          "translation": "年轻人",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "old people",
+          "translation": "老年人",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "birth": {
+      "word": "birth",
+      "translation": "出生",
+      "phonetic": "bɜːθ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What is your date of birth?",
+          "zh": "你的出生日期是什么？"
+        },
+        {
+          "en": "She gave birth to twins.",
+          "zh": "她生了双胞胎。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["born", "birthday", "birthplace"],
+      "phrases": [
+        {
+          "phrase": "date of birth",
+          "translation": "出生日期",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "birth certificate",
+          "translation": "出生证明",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "country": {
+      "word": "country",
+      "translation": "国家",
+      "phonetic": "ˈkʌntri",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Which country are you from?",
+          "zh": "你来自哪个国家？"
+        },
+        {
+          "en": "China is a big country.",
+          "zh": "中国是一个大国。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity", "Geography"],
+      "category": "身份类词汇",
+      "related_words": ["nation", "homeland", "state"],
+      "phrases": [
+        {
+          "phrase": "home country",
+          "translation": "祖国",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "foreign country",
+          "translation": "外国",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "identity": {
+      "word": "identity",
+      "translation": "身份",
+      "phonetic": "aɪˈdentəti",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "You need to prove your identity.",
+          "zh": "你需要证明你的身份。"
+        },
+        {
+          "en": "Keep your identity documents safe.",
+          "zh": "保管好你的身份证件。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["ID", "identification", "document"],
+      "phrases": [
+        {
+          "phrase": "identity card",
+          "translation": "身份证",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "proof of identity",
+          "translation": "身份证明",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "student": {
+      "word": "student",
+      "translation": "学生",
+      "phonetic": "ˈstjuːdnt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He is a university student.",
+          "zh": "他是一名大学生。"
+        },
+        {
+          "en": "All students must wear uniforms.",
+          "zh": "所有学生必须穿校服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Identity", "Education"],
+      "category": "身份类词汇",
+      "related_words": ["classmate", "schoolmate", "learner"],
+      "phrases": [
+        {
+          "phrase": "foreign student",
+          "translation": "留学生",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "student life",
+          "translation": "学生生活",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "resident": {
+      "word": "resident",
+      "translation": "居民",
+      "phonetic": "ˈrezɪdənt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He has been a resident here for ten years.",
+          "zh": "他在这里居住了十年。"
+        },
+        {
+          "en": "Local residents complained about the noise.",
+          "zh": "当地居民投诉噪音问题。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Identity"],
+      "category": "身份类词汇",
+      "related_words": ["inhabitant", "citizen", "local"],
+      "phrases": [
+        {
+          "phrase": "permanent resident",
+          "translation": "永久居民",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "local resident",
+          "translation": "当地居民",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

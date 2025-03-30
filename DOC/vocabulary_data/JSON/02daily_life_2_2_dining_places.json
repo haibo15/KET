@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "category": "Dining Places",
+    "category_cn": "餐饮场所",
+    "word_count": 4,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 25,
+      "C": 0
+    }
+  },
+  "words": {
+    "cafe": {
+      "word": "café",
+      "translation": "咖啡馆",
+      "phonetic": "ˈkæfeɪ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Let's meet at the café.",
+          "zh": "让我们在咖啡馆见面。"
+        },
+        {
+          "en": "This café serves great coffee.",
+          "zh": "这家咖啡馆的咖啡很棒。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Places", "Food and Drink"],
+      "category": "餐饮场所",
+      "related_words": ["coffee shop", "restaurant", "cafeteria"],
+      "phrases": [
+        {
+          "phrase": "coffee shop",
+          "translation": "咖啡店",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "cafeteria",
+          "translation": "自助餐厅",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "restaurant": {
+      "word": "restaurant",
+      "translation": "餐厅",
+      "phonetic": "ˈrestrɒnt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "This restaurant is always busy.",
+          "zh": "这家餐厅总是很忙。"
+        },
+        {
+          "en": "We had dinner at a Chinese restaurant.",
+          "zh": "我们在一家中餐厅吃晚餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Places", "Food and Drink"],
+      "category": "餐饮场所",
+      "related_words": ["dining room", "café", "eatery"],
+      "phrases": [
+        {
+          "phrase": "dining room",
+          "translation": "餐厅",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "eatery",
+          "translation": "小餐馆",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "shop": {
+      "word": "shop",
+      "translation": "商店",
+      "phonetic": "ʃɒp",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to go to the shop to buy some food.",
+          "zh": "我需要去商店买些食物。"
+        },
+        {
+          "en": "The shop closes at 9 PM.",
+          "zh": "这家商店晚上9点关门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Places", "Shopping"],
+      "category": "餐饮场所",
+      "related_words": ["store", "market", "supermarket"],
+      "phrases": [
+        {
+          "phrase": "store",
+          "translation": "商店",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "market",
+          "translation": "市场",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "supermarket": {
+      "word": "supermarket",
+      "translation": "超市",
+      "phonetic": "ˈsuːpəmɑːkɪt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I buy my groceries at the supermarket.",
+          "zh": "我在超市买日用品。"
+        },
+        {
+          "en": "The supermarket has a wide selection of fresh fruit.",
+          "zh": "这家超市有各种新鲜水果。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Places", "Shopping"],
+      "category": "餐饮场所",
+      "related_words": ["grocery store", "shop", "convenience store"],
+      "phrases": [
+        {
+          "phrase": "grocery store",
+          "translation": "杂货店",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "convenience store",
+          "translation": "便利店",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

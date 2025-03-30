@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "category": "Occupation, Status and Education",
+    "category_cn": "职业、状态和教育词汇",
+    "word_count": 60,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 30,
+      "C": 0
+    }
+  },
+  "words": {
+    "occupation": {
+      "word": "occupation",
+      "translation": "职业",
+      "phonetic": "ˌɒkjuˈpeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "What's your occupation?",
+          "zh": "你的职业是什么？"
+        },
+        {
+          "en": "Teaching is a noble occupation.",
+          "zh": "教书是一个崇高的职业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Work"],
+      "category": "职业类词汇",
+      "related_words": ["job", "career", "profession"],
+      "phrases": [
+        {
+          "phrase": "main occupation",
+          "translation": "主要职业",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "current occupation",
+          "translation": "当前职业",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "job": {
+      "word": "job",
+      "translation": "工作",
+      "phonetic": "dʒɒb",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I got a new job.",
+          "zh": "我找到了一份新工作。"
+        },
+        {
+          "en": "He lost his job last month.",
+          "zh": "他上个月失业了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Work"],
+      "category": "职业类词汇",
+      "related_words": ["work", "career", "occupation"],
+      "phrases": [
+        {
+          "phrase": "full-time job",
+          "translation": "全职工作",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "part-time job",
+          "translation": "兼职工作",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "work": {
+      "word": "work",
+      "translation": "工作",
+      "phonetic": "wɜːk",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Where do you work?",
+          "zh": "你在哪里工作？"
+        },
+        {
+          "en": "I work in a bank.",
+          "zh": "我在银行工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Work"],
+      "category": "职业类词汇",
+      "related_words": ["job", "career", "employment"],
+      "phrases": [
+        {
+          "phrase": "go to work",
+          "translation": "去上班",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "work experience",
+          "translation": "工作经验",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "career": {
+      "word": "career",
+      "translation": "职业生涯",
+      "phonetic": "kəˈrɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She has a successful career.",
+          "zh": "她有一个成功的职业生涯。"
+        },
+        {
+          "en": "He changed his career last year.",
+          "zh": "他去年改变了职业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Work"],
+      "category": "职业类词汇",
+      "related_words": ["job", "profession", "occupation"],
+      "phrases": [
+        {
+          "phrase": "career path",
+          "translation": "职业发展道路",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "career choice",
+          "translation": "职业选择",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "teacher": {
+      "word": "teacher",
+      "translation": "教师",
+      "phonetic": "ˈtiːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My English teacher is very kind.",
+          "zh": "我的英语老师很友善。"
+        },
+        {
+          "en": "She wants to be a teacher.",
+          "zh": "她想成为一名教师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Work", "Education"],
+      "category": "职业类词汇",
+      "related_words": ["student", "professor", "instructor"],
+      "phrases": [
+        {
+          "phrase": "language teacher",
+          "translation": "语言教师",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "school teacher",
+          "translation": "学校教师",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "doctor": {
+      "word": "doctor",
+      "translation": "医生",
+      "phonetic": "ˈdɒktə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to see a doctor.",
+          "zh": "我需要看医生。"
+        },
+        {
+          "en": "The doctor is very experienced.",
+          "zh": "这位医生很有经验。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Work", "Health"],
+      "category": "职业类词汇",
+      "related_words": ["nurse", "patient", "hospital"],
+      "phrases": [
+        {
+          "phrase": "family doctor",
+          "translation": "家庭医生",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "see a doctor",
+          "translation": "看医生",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "single": {
+      "word": "single",
+      "translation": "单身的",
+      "phonetic": "ˈsɪŋɡl",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Are you single or married?",
+          "zh": "你是单身还是已婚？"
+        },
+        {
+          "en": "He's still single.",
+          "zh": "他还是单身。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Status"],
+      "category": "状态类词汇",
+      "related_words": ["married", "divorced", "engaged"],
+      "phrases": [
+        {
+          "phrase": "single person",
+          "translation": "单身人士",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "single life",
+          "translation": "单身生活",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "married": {
+      "word": "married",
+      "translation": "已婚的",
+      "phonetic": "ˈmærid",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They got married last year.",
+          "zh": "他们去年结婚了。"
+        },
+        {
+          "en": "How long have you been married?",
+          "zh": "你结婚多久了？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Status"],
+      "category": "状态类词汇",
+      "related_words": ["single", "divorced", "wedding"],
+      "phrases": [
+        {
+          "phrase": "get married",
+          "translation": "结婚",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "married life",
+          "translation": "婚姻生活",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "busy": {
+      "word": "busy",
+      "translation": "忙的",
+      "phonetic": "ˈbɪzi",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Sorry, I'm very busy now.",
+          "zh": "抱歉，我现在很忙。"
+        },
+        {
+          "en": "The restaurant is always busy.",
+          "zh": "这家餐厅总是很忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Status", "Work"],
+      "category": "状态类词汇",
+      "related_words": ["free", "occupied", "available"],
+      "phrases": [
+        {
+          "phrase": "too busy",
+          "translation": "太忙了",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "busy with",
+          "translation": "忙于",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "education": {
+      "word": "education",
+      "translation": "教育",
+      "phonetic": "ˌedʒuˈkeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Education is very important.",
+          "zh": "教育很重要。"
+        },
+        {
+          "en": "He has a good education.",
+          "zh": "他受过良好的教育。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Education"],
+      "category": "教育背景",
+      "related_words": ["school", "study", "learning"],
+      "phrases": [
+        {
+          "phrase": "higher education",
+          "translation": "高等教育",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "education system",
+          "translation": "教育系统",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "school": {
+      "word": "school",
+      "translation": "学校",
+      "phonetic": "skuːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My school is near my home.",
+          "zh": "我的学校离家很近。"
+        },
+        {
+          "en": "She goes to school by bus.",
+          "zh": "她坐公交车去学校。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Education"],
+      "category": "教育背景",
+      "related_words": ["student", "teacher", "classroom"],
+      "phrases": [
+        {
+          "phrase": "primary school",
+          "translation": "小学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "high school",
+          "translation": "高中",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "university": {
+      "word": "university",
+      "translation": "大学",
+      "phonetic": "ˌjuːnɪˈvɜːsəti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He studies at the university.",
+          "zh": "他在大学学习。"
+        },
+        {
+          "en": "Which university did you go to?",
+          "zh": "你上的是哪所大学？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Education"],
+      "category": "教育背景",
+      "related_words": ["college", "campus", "student"],
+      "phrases": [
+        {
+          "phrase": "go to university",
+          "translation": "上大学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "university degree",
+          "translation": "大学学位",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "study": {
+      "word": "study",
+      "translation": "学习",
+      "phonetic": "ˈstʌdi",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I study English every day.",
+          "zh": "我每天学习英语。"
+        },
+        {
+          "en": "What do you want to study?",
+          "zh": "你想学习什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Education"],
+      "category": "教育背景",
+      "related_words": ["learn", "teach", "education"],
+      "phrases": [
+        {
+          "phrase": "study hard",
+          "translation": "努力学习",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "study abroad",
+          "translation": "出国留学",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "subject": {
+      "word": "subject",
+      "translation": "科目",
+      "phonetic": "ˈsʌbdʒɪkt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your favorite subject?",
+          "zh": "你最喜欢的科目是什么？"
+        },
+        {
+          "en": "Math is a difficult subject.",
+          "zh": "数学是一个难的科目。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Education"],
+      "category": "教育背景",
+      "related_words": ["course", "lesson", "class"],
+      "phrases": [
+        {
+          "phrase": "main subject",
+          "translation": "主修科目",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "school subject",
+          "translation": "学校科目",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "grade": {
+      "word": "grade",
+      "translation": "年级；成绩",
+      "phonetic": "ɡreɪd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What grade are you in?",
+          "zh": "你在几年级？"
+        },
+        {
+          "en": "She got good grades in all subjects.",
+          "zh": "她所有科目都取得了好成绩。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Education"],
+      "category": "教育背景",
+      "related_words": ["score", "mark", "level"],
+      "phrases": [
+        {
+          "phrase": "good grade",
+          "translation": "好成绩",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "grade level",
+          "translation": "年级水平",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

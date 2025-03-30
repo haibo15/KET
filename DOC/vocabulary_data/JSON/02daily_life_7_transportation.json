@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "category": "Transportation",
+    "category_cn": "交通出行",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 80,
+      "B": 20,
+      "C": 0
+    }
+  },
+  "words": {
+    "bus": {
+      "word": "bus",
+      "translation": "公共汽车",
+      "phonetic": "bʌs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I take the bus to work every morning.",
+          "zh": "我每天早上坐公交车去上班。"
+        },
+        {
+          "en": "The bus stop is just around the corner.",
+          "zh": "公交车站就在拐角处。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Daily Life"],
+      "category": "交通出行",
+      "related_words": ["transport", "vehicle", "travel"],
+      "phrases": [
+        {
+          "phrase": "take the bus",
+          "translation": "乘公交车",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "bus stop",
+          "translation": "公交车站",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "car": {
+      "word": "car",
+      "translation": "汽车",
+      "phonetic": "kɑː(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My father drives his car to work.",
+          "zh": "我父亲开车去上班。"
+        },
+        {
+          "en": "We need to park the car here.",
+          "zh": "我们需要把车停在这里。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Daily Life"],
+      "category": "交通出行",
+      "related_words": ["vehicle", "drive", "parking"],
+      "phrases": [
+        {
+          "phrase": "drive a car",
+          "translation": "开车",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "parking",
+          "translation": "停车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "taxi": {
+      "word": "taxi",
+      "translation": "出租车",
+      "phonetic": "ˈtæksi",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Let's take a taxi to the airport.",
+          "zh": "我们坐出租车去机场吧。"
+        },
+        {
+          "en": "The taxi fare is quite expensive.",
+          "zh": "出租车费很贵。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["cab", "vehicle", "transport"],
+      "phrases": [
+        {
+          "phrase": "cab",
+          "translation": "出租车",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fare",
+          "translation": "车费",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "train": {
+      "word": "train",
+      "translation": "火车",
+      "phonetic": "treɪn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The train to London leaves at 9 AM.",
+          "zh": "去伦敦的火车早上9点发车。"
+        },
+        {
+          "en": "We need to catch the last train home.",
+          "zh": "我们需要赶最后一班回家的火车。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["railway", "station", "track"],
+      "phrases": [
+        {
+          "phrase": "railway",
+          "translation": "铁路",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "station",
+          "translation": "车站",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bicycle": {
+      "word": "bicycle",
+      "translation": "自行车",
+      "phonetic": "ˈbaɪsɪkl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I ride my bicycle to school when the weather is nice.",
+          "zh": "天气好的时候我骑自行车去学校。"
+        },
+        {
+          "en": "My bicycle needs repairing.",
+          "zh": "我的自行车需要修理。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Sports"],
+      "category": "交通出行",
+      "related_words": ["bike", "cycle", "wheel"],
+      "phrases": [
+        {
+          "phrase": "bike",
+          "translation": "自行车",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "cycle",
+          "translation": "骑自行车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "airport": {
+      "word": "airport",
+      "translation": "机场",
+      "phonetic": "ˈeəpɔːt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We arrived at the airport two hours before the flight.",
+          "zh": "我们在航班起飞前两小时到达机场。"
+        },
+        {
+          "en": "The airport is very busy today.",
+          "zh": "今天机场很忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["plane", "flight", "terminal"],
+      "phrases": [
+        {
+          "phrase": "terminal",
+          "translation": "航站楼",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "flight",
+          "translation": "航班",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "station": {
+      "word": "station",
+      "translation": "车站",
+      "phonetic": "ˈsteɪʃn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Meet me at the train station at 3 PM.",
+          "zh": "下午3点在火车站见。"
+        },
+        {
+          "en": "The bus station is very crowded.",
+          "zh": "公交车站很拥挤。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Places"],
+      "category": "交通出行",
+      "related_words": ["stop", "terminal", "platform"],
+      "phrases": [
+        {
+          "phrase": "bus station",
+          "translation": "公交车站",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "train station",
+          "translation": "火车站",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "road": {
+      "word": "road",
+      "translation": "道路",
+      "phonetic": "rəʊd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This road leads to the city center.",
+          "zh": "这条路通往市中心。"
+        },
+        {
+          "en": "The road is very busy during rush hour.",
+          "zh": "这条路在高峰时段很繁忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Places"],
+      "category": "交通出行",
+      "related_words": ["street", "path", "way"],
+      "phrases": [
+        {
+          "phrase": "street",
+          "translation": "街道",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "highway",
+          "translation": "高速公路",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bridge": {
+      "word": "bridge",
+      "translation": "桥",
+      "phonetic": "brɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We crossed the bridge to get to the other side.",
+          "zh": "我们过桥到对岸。"
+        },
+        {
+          "en": "The bridge is closed for repairs.",
+          "zh": "这座桥因维修而关闭。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Infrastructure"],
+      "category": "交通出行",
+      "related_words": ["cross", "structure", "river"],
+      "phrases": [
+        {
+          "phrase": "cross",
+          "translation": "穿过",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "under the bridge",
+          "translation": "桥下",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "parking lot": {
+      "word": "parking lot",
+      "translation": "停车场",
+      "phonetic": "ˈpɑːkɪŋ lɒt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The parking lot is full, we need to find another one.",
+          "zh": "停车场已满，我们需要找另一个。"
+        },
+        {
+          "en": "There's a free parking lot near the mall.",
+          "zh": "商场附近有一个免费停车场。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Places"],
+      "category": "交通出行",
+      "related_words": ["park", "car", "space"],
+      "phrases": [
+        {
+          "phrase": "car park",
+          "translation": "停车场",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "park",
+          "translation": "停车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "arrive": {
+      "word": "arrive",
+      "translation": "到达",
+      "phonetic": "əˈraɪv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What time does your train arrive?",
+          "zh": "你的火车什么时候到达？"
+        },
+        {
+          "en": "We arrived at the hotel late at night.",
+          "zh": "我们深夜到达酒店。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["come", "reach", "get to"],
+      "phrases": [
+        {
+          "phrase": "get to",
+          "translation": "到达",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "reach",
+          "translation": "抵达",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "depart": {
+      "word": "depart",
+      "translation": "出发",
+      "phonetic": "dɪˈpɑːt",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The bus departs from the station every hour.",
+          "zh": "公交车每小时从车站发出一班。"
+        },
+        {
+          "en": "When do we depart for the airport?",
+          "zh": "我们什么时候出发去机场？"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["leave", "go", "start"],
+      "phrases": [
+        {
+          "phrase": "leave",
+          "translation": "离开",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "set off",
+          "translation": "启程",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "travel": {
+      "word": "travel",
+      "translation": "旅行",
+      "phonetic": "ˈtrævl",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love to travel to different countries.",
+          "zh": "我喜欢去不同的国家旅行。"
+        },
+        {
+          "en": "How do you usually travel to work?",
+          "zh": "你通常怎么去上班？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["journey", "trip", "tour"],
+      "phrases": [
+        {
+          "phrase": "journey",
+          "translation": "旅程",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "trip",
+          "translation": "旅行",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "book": {
+      "word": "book",
+      "translation": "预订",
+      "phonetic": "bʊk",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to book my flight tickets early.",
+          "zh": "我需要提前预订机票。"
+        },
+        {
+          "en": "Have you booked the train tickets yet?",
+          "zh": "你订火车票了吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Travel"],
+      "category": "交通出行",
+      "related_words": ["reserve", "ticket", "arrange"],
+      "phrases": [
+        {
+          "phrase": "reserve",
+          "translation": "预约",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "ticket",
+          "translation": "票",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "wait": {
+      "word": "wait",
+      "translation": "等待",
+      "phonetic": "weɪt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We had to wait for the next bus.",
+          "zh": "我们不得不等下一班公交车。"
+        },
+        {
+          "en": "Don't wait too long at the bus stop.",
+          "zh": "不要在公交车站等太久。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation", "Daily Life"],
+      "category": "交通出行",
+      "related_words": ["stay", "expect", "delay"],
+      "phrases": [
+        {
+          "phrase": "queue",
+          "translation": "排队",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "line up",
+          "translation": "排队",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

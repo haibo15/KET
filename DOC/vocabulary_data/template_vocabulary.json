@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "category": "类别英文名",
+    "category_cn": "类别中文名",
+    "word_count": 0,
+    "difficulty_distribution": {
+      "A": 0,
+      "B": 0,
+      "C": 0
+    }
+  },
+  "words": {
+    "word_example": {
+      "word": "英文单词",
+      "translation": "中文翻译",
+      "phonetic": "音标",
+      "part_of_speech": "词性",
+      "frequency": 0,
+      "examples": [
+        {
+          "en": "英文例句1",
+          "zh": "中文翻译1"
+        },
+        {
+          "en": "英文例句2",
+          "zh": "中文翻译2"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["相关主题"],
+      "category": "所属类别",
+      "related_words": ["相关词1", "相关词2", "相关词3"],
+      "phrases": [
+        {
+          "phrase": "相关短语1",
+          "translation": "短语翻译1",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "相关短语2",
+          "translation": "短语翻译2",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+}

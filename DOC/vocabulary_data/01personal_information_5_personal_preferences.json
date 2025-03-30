@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "category": "Personal Preferences",
+    "category_cn": "个人喜好",
+    "word_count": 40,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 30,
+      "C": 0
+    }
+  },
+  "words": {
+    "like": {
+      "word": "like",
+      "translation": "喜欢",
+      "phonetic": "laɪk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like playing basketball.",
+          "zh": "我喜欢打篮球。"
+        },
+        {
+          "en": "She likes Chinese food.",
+          "zh": "她喜欢中国菜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Preferences", "Feelings"],
+      "category": "个人喜好",
+      "related_words": ["love", "enjoy", "prefer"],
+      "phrases": [
+        {
+          "phrase": "would like to",
+          "translation": "想要",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "love": {
+      "word": "love",
+      "translation": "喜爱",
+      "phonetic": "lʌv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love watching movies.",
+          "zh": "我喜爱看电影。"
+        },
+        {
+          "en": "She loves reading books.",
+          "zh": "她喜爱读书。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Preferences", "Feelings"],
+      "category": "个人喜好",
+      "related_words": ["like", "adore", "enjoy"],
+      "phrases": [
+        {
+          "phrase": "would love to",
+          "translation": "非常想要",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hate": {
+      "word": "hate",
+      "translation": "讨厌",
+      "phonetic": "heɪt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I hate getting up early.",
+          "zh": "我讨厌早起。"
+        },
+        {
+          "en": "He hates waiting in line.",
+          "zh": "他讨厌排队。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Preferences", "Feelings"],
+      "category": "个人喜好",
+      "related_words": ["dislike", "detest", "can't stand"],
+      "phrases": [
+        {
+          "phrase": "hate doing",
+          "translation": "讨厌做某事",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "enjoy": {
+      "word": "enjoy",
+      "translation": "享受",
+      "phonetic": "ɪnˈdʒɔɪ",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I enjoy swimming.",
+          "zh": "我享受游泳。"
+        },
+        {
+          "en": "She enjoys cooking.",
+          "zh": "她享受烹饪。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Preferences", "Activities"],
+      "category": "个人喜好",
+      "related_words": ["like", "love", "appreciate"],
+      "phrases": [
+        {
+          "phrase": "enjoy yourself",
+          "translation": "玩得开心",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "prefer": {
+      "word": "prefer",
+      "translation": "更喜欢",
+      "phonetic": "prɪˈfɜː(r)",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "I prefer tea to coffee.",
+          "zh": "我更喜欢茶而不是咖啡。"
+        },
+        {
+          "en": "She prefers studying at home.",
+          "zh": "她更喜欢在家学习。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Preferences", "Choices"],
+      "category": "个人喜好",
+      "related_words": ["like", "favor", "choose"],
+      "phrases": [
+        {
+          "phrase": "would prefer",
+          "translation": "更愿意",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "interest": {
+      "word": "interest",
+      "translation": "兴趣",
+      "phonetic": "ˈɪntrəst",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Music is my main interest.",
+          "zh": "音乐是我的主要兴趣。"
+        },
+        {
+          "en": "She has many interests.",
+          "zh": "她有很多兴趣。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Hobbies", "Activities"],
+      "category": "个人喜好",
+      "related_words": ["hobby", "passion", "enthusiasm"],
+      "phrases": [
+        {
+          "phrase": "take an interest in",
+          "translation": "对...感兴趣",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "hobby": {
+      "word": "hobby",
+      "translation": "爱好",
+      "phonetic": "ˈhɒbi",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Reading is my hobby.",
+          "zh": "读书是我的爱好。"
+        },
+        {
+          "en": "What are your hobbies?",
+          "zh": "你有什么爱好？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Leisure", "Activities"],
+      "category": "个人喜好",
+      "related_words": ["interest", "pastime", "leisure"],
+      "phrases": [
+        {
+          "phrase": "take up a hobby",
+          "translation": "培养一个爱好",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sport": {
+      "word": "sport",
+      "translation": "运动",
+      "phonetic": "spɔːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Football is my favorite sport.",
+          "zh": "足球是我最喜欢的运动。"
+        },
+        {
+          "en": "He's good at sports.",
+          "zh": "他擅长运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Activities", "Exercise"],
+      "category": "个人喜好",
+      "related_words": ["exercise", "game", "activity"],
+      "phrases": [
+        {
+          "phrase": "do sport",
+          "translation": "做运动",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "music": {
+      "word": "music",
+      "translation": "音乐",
+      "phonetic": "ˈmjuːzɪk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love listening to music.",
+          "zh": "我喜欢听音乐。"
+        },
+        {
+          "en": "She studies music at university.",
+          "zh": "她在大学学习音乐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Entertainment"],
+      "category": "个人喜好",
+      "related_words": ["song", "melody", "tune"],
+      "phrases": [
+        {
+          "phrase": "play music",
+          "translation": "演奏音乐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "movie": {
+      "word": "movie",
+      "translation": "电影",
+      "phonetic": "ˈmuːvi",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's watch a movie tonight.",
+          "zh": "今晚我们看电影吧。"
+        },
+        {
+          "en": "This is my favorite movie.",
+          "zh": "这是我最喜欢的电影。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Entertainment", "Leisure"],
+      "category": "个人喜好",
+      "related_words": ["film", "cinema", "show"],
+      "phrases": [
+        {
+          "phrase": "watch a movie",
+          "translation": "看电影",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "reading": {
+      "word": "reading",
+      "translation": "阅读",
+      "phonetic": "ˈriːdɪŋ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Reading is my favorite hobby.",
+          "zh": "阅读是我最喜欢的爱好。"
+        },
+        {
+          "en": "She enjoys reading novels.",
+          "zh": "她喜欢读小说。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Activities", "Education"],
+      "category": "个人喜好",
+      "related_words": ["study", "books", "literature"],
+      "phrases": [
+        {
+          "phrase": "reading habit",
+          "translation": "阅读习惯",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "travel": {
+      "word": "travel",
+      "translation": "旅行",
+      "phonetic": "ˈtrævl",
+      "part_of_speech": "v & n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I love to travel.",
+          "zh": "我喜欢旅行。"
+        },
+        {
+          "en": "She travels a lot for work.",
+          "zh": "她因工作经常旅行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Activities", "Leisure"],
+      "category": "个人喜好",
+      "related_words": ["journey", "trip", "tour"],
+      "phrases": [
+        {
+          "phrase": "travel abroad",
+          "translation": "出国旅行",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "favourite": {
+      "word": "favourite",
+      "translation": "最喜欢的",
+      "phonetic": "ˈfeɪvərɪt",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your favourite food?",
+          "zh": "你最喜欢什么食物？"
+        },
+        {
+          "en": "Blue is my favourite color.",
+          "zh": "蓝色是我最喜欢的颜色。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Preferences", "Choices"],
+      "category": "个人喜好",
+      "related_words": ["preferred", "best-liked", "cherished"],
+      "phrases": [
+        {
+          "phrase": "all-time favourite",
+          "translation": "最喜欢的",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

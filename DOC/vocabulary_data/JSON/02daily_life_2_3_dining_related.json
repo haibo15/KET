@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "category": "Dining Related",
+    "category_cn": "用餐相关",
+    "word_count": 4,
+    "difficulty_distribution": {
+      "A": 80,
+      "B": 20,
+      "C": 0
+    }
+  },
+  "words": {
+    "cook": {
+      "word": "cook",
+      "translation": "烹饪",
+      "phonetic": "kʊk",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I like to cook dinner for my family.",
+          "zh": "我喜欢为家人做晚餐。"
+        },
+        {
+          "en": "He's learning how to cook Chinese food.",
+          "zh": "他正在学习如何烹饪中国菜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Daily Activities"],
+      "category": "用餐相关",
+      "related_words": ["prepare", "bake", "fry"],
+      "phrases": [
+        {
+          "phrase": "prepare food",
+          "translation": "准备食物",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "make meals",
+          "translation": "做饭",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "eat": {
+      "word": "eat",
+      "translation": "吃",
+      "phonetic": "iːt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We usually eat dinner at 7 PM.",
+          "zh": "我们通常在晚上7点吃晚餐。"
+        },
+        {
+          "en": "Don't eat too fast.",
+          "zh": "不要吃得太快。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Daily Activities"],
+      "category": "用餐相关",
+      "related_words": ["food", "meal", "drink"],
+      "phrases": [
+        {
+          "phrase": "have a meal",
+          "translation": "用餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "dine",
+          "translation": "进餐",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "drink": {
+      "word": "drink",
+      "translation": "喝",
+      "phonetic": "drɪŋk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Remember to drink plenty of water.",
+          "zh": "记得多喝水。"
+        },
+        {
+          "en": "Would you like to drink some tea?",
+          "zh": "你想喝点茶吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Daily Activities"],
+      "category": "用餐相关",
+      "related_words": ["beverage", "water", "thirsty"],
+      "phrases": [
+        {
+          "phrase": "beverage",
+          "translation": "饮料",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "thirsty",
+          "translation": "口渴的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hungry": {
+      "word": "hungry",
+      "translation": "饿的",
+      "phonetic": "ˈhʌŋɡri",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm really hungry, let's get something to eat.",
+          "zh": "我很饿，我们去吃点东西吧。"
+        },
+        {
+          "en": "The children are hungry after playing.",
+          "zh": "孩子们玩耍后都饿了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Feelings"],
+      "category": "用餐相关",
+      "related_words": ["starving", "appetite", "eat"],
+      "phrases": [
+        {
+          "phrase": "starving",
+          "translation": "饥饿的",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "appetite",
+          "translation": "胃口",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "category": "Personal Achievements",
+    "category_cn": "个人成就",
+    "word_count": 35,
+    "difficulty_distribution": {
+      "A": 60,
+      "B": 40,
+      "C": 0
+    }
+  },
+  "words": {
+    "certificate": {
+      "word": "certificate",
+      "translation": "证书",
+      "phonetic": "səˈtɪfɪkət",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She got a certificate in English.",
+          "zh": "她获得了英语证书。"
+        },
+        {
+          "en": "This is my graduation certificate.",
+          "zh": "这是我的毕业证书。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education", "Achievement"],
+      "category": "个人成就",
+      "related_words": ["diploma", "degree", "qualification"],
+      "phrases": [
+        {
+          "phrase": "language certificate",
+          "translation": "语言证书",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "diploma": {
+      "word": "diploma",
+      "translation": "文凭",
+      "phonetic": "dɪˈpləʊmə",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He received his diploma last year.",
+          "zh": "他去年获得了文凭。"
+        },
+        {
+          "en": "This diploma is from a good university.",
+          "zh": "这个文凭是从一所好大学获得的。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education", "Achievement"],
+      "category": "个人成就",
+      "related_words": ["certificate", "degree", "qualification"],
+      "phrases": [
+        {
+          "phrase": "get a diploma",
+          "translation": "获得文凭",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "degree": {
+      "word": "degree",
+      "translation": "学位",
+      "phonetic": "dɪˈɡriː",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She has a degree in mathematics.",
+          "zh": "她有数学学位。"
+        },
+        {
+          "en": "He's studying for his master's degree.",
+          "zh": "他正在攻读硕士学位。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education", "Achievement"],
+      "category": "个人成就",
+      "related_words": ["diploma", "certificate", "qualification"],
+      "phrases": [
+        {
+          "phrase": "bachelor's degree",
+          "translation": "学士学位",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "award": {
+      "word": "award",
+      "translation": "奖项",
+      "phonetic": "əˈwɔːd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He won an award for his research.",
+          "zh": "他的研究获得了奖项。"
+        },
+        {
+          "en": "She received many awards at school.",
+          "zh": "她在学校获得了很多奖项。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Achievement", "Recognition"],
+      "category": "个人成就",
+      "related_words": ["prize", "reward", "honor"],
+      "phrases": [
+        {
+          "phrase": "win an award",
+          "translation": "获得奖项",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "prize": {
+      "word": "prize",
+      "translation": "奖品",
+      "phonetic": "praɪz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She won first prize in the competition.",
+          "zh": "她在比赛中获得了一等奖。"
+        },
+        {
+          "en": "The prize includes a trip to Paris.",
+          "zh": "奖品包括一次巴黎旅行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Achievement", "Recognition"],
+      "category": "个人成就",
+      "related_words": ["award", "reward", "trophy"],
+      "phrases": [
+        {
+          "phrase": "first prize",
+          "translation": "一等奖",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "progress": {
+      "word": "progress",
+      "translation": "进步",
+      "phonetic": "ˈprəʊɡres",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She's making good progress in English.",
+          "zh": "她的英语正在取得良好的进步。"
+        },
+        {
+          "en": "We can see his progress every day.",
+          "zh": "我们每天都能看到他的进步。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Achievement", "Development"],
+      "category": "个人成就",
+      "related_words": ["improvement", "development", "advancement"],
+      "phrases": [
+        {
+          "phrase": "make progress",
+          "translation": "取得进步",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "success": {
+      "word": "success",
+      "translation": "成功",
+      "phonetic": "səkˈses",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Hard work leads to success.",
+          "zh": "努力会带来成功。"
+        },
+        {
+          "en": "The project was a great success.",
+          "zh": "这个项目非常成功。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Achievement", "Goals"],
+      "category": "个人成就",
+      "related_words": ["achievement", "accomplishment", "victory"],
+      "phrases": [
+        {
+          "phrase": "achieve success",
+          "translation": "取得成功",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "goal": {
+      "word": "goal",
+      "translation": "目标",
+      "phonetic": "ɡəʊl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My goal is to learn English well.",
+          "zh": "我的目标是把英语学好。"
+        },
+        {
+          "en": "She achieved her goal last year.",
+          "zh": "她去年实现了她的目标。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Achievement", "Planning"],
+      "category": "个人成就",
+      "related_words": ["aim", "target", "objective"],
+      "phrases": [
+        {
+          "phrase": "set a goal",
+          "translation": "设定目标",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "plan": {
+      "word": "plan",
+      "translation": "计划",
+      "phonetic": "plæn",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your plan for the future?",
+          "zh": "你对未来有什么计划？"
+        },
+        {
+          "en": "We need to plan carefully.",
+          "zh": "我们需要仔细计划。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Planning", "Future"],
+      "category": "个人成就",
+      "related_words": ["schedule", "arrangement", "strategy"],
+      "phrases": [
+        {
+          "phrase": "make plans",
+          "translation": "制定计划",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "future": {
+      "word": "future",
+      "translation": "未来",
+      "phonetic": "ˈfjuːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She's thinking about her future.",
+          "zh": "她在思考她的未来。"
+        },
+        {
+          "en": "What are your plans for the future?",
+          "zh": "你对未来有什么计划？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time", "Planning"],
+      "category": "个人成就",
+      "related_words": ["prospect", "tomorrow", "ahead"],
+      "phrases": [
+        {
+          "phrase": "in the future",
+          "translation": "在未来",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "dream": {
+      "word": "dream",
+      "translation": "梦想",
+      "phonetic": "driːm",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Her dream is to become a doctor.",
+          "zh": "她的梦想是成为一名医生。"
+        },
+        {
+          "en": "Never give up on your dreams.",
+          "zh": "永远不要放弃你的梦想。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Goals", "Aspirations"],
+      "category": "个人成就",
+      "related_words": ["ambition", "hope", "aspiration"],
+      "phrases": [
+        {
+          "phrase": "dream come true",
+          "translation": "梦想成真",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "career": {
+      "word": "career",
+      "translation": "职业生涯",
+      "phonetic": "kəˈrɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She has a successful career.",
+          "zh": "她有一个成功的职业生涯。"
+        },
+        {
+          "en": "He's planning his future career.",
+          "zh": "他正在规划他的未来职业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work", "Future"],
+      "category": "个人成就",
+      "related_words": ["job", "profession", "occupation"],
+      "phrases": [
+        {
+          "phrase": "career path",
+          "translation": "职业道路",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

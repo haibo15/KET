@@ -1,0 +1,575 @@
+{
+  "metadata": {
+    "category": "Clothing",
+    "category_cn": "衣着",
+    "word_count": 18,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "clothes": {
+      "word": "clothes",
+      "translation": "衣服",
+      "phonetic": "kləʊðz",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to buy some new clothes.",
+          "zh": "我需要买一些新衣服。"
+        },
+        {
+          "en": "These clothes are too small for me.",
+          "zh": "这些衣服对我来说太小了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Shopping"],
+      "category": "衣着",
+      "related_words": ["clothing", "garment", "wear"],
+      "phrases": [
+        {
+          "phrase": "clothing",
+          "translation": "服装",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "garment",
+          "translation": "服装",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "coat": {
+      "word": "coat",
+      "translation": "外套",
+      "phonetic": "kəʊt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It's cold outside, wear your coat.",
+          "zh": "外面很冷，穿上你的外套。"
+        },
+        {
+          "en": "She bought a new winter coat.",
+          "zh": "她买了一件新的冬季外套。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["jacket", "overcoat", "clothes"],
+      "phrases": [
+        {
+          "phrase": "jacket",
+          "translation": "夹克",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "overcoat",
+          "translation": "大衣",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "dress": {
+      "word": "dress",
+      "translation": "连衣裙",
+      "phonetic": "dres",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She wore a beautiful dress to the party.",
+          "zh": "她穿了一件漂亮的连衣裙去参加派对。"
+        },
+        {
+          "en": "This dress is too expensive.",
+          "zh": "这件连衣裙太贵了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["gown", "frock", "skirt"],
+      "phrases": [
+        {
+          "phrase": "gown",
+          "translation": "礼服",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "frock",
+          "translation": "连衣裙",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "jeans": {
+      "word": "jeans",
+      "translation": "牛仔裤",
+      "phonetic": "dʒiːnz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I wear jeans almost every day.",
+          "zh": "我几乎每天都穿牛仔裤。"
+        },
+        {
+          "en": "These jeans are too tight.",
+          "zh": "这条牛仔裤太紧了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["denim", "pants", "trousers"],
+      "phrases": [
+        {
+          "phrase": "denim",
+          "translation": "牛仔布",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "pants",
+          "translation": "裤子",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "shirt": {
+      "word": "shirt",
+      "translation": "衬衫",
+      "phonetic": "ʃɜːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He always wears a white shirt to work.",
+          "zh": "他总是穿白衬衫去上班。"
+        },
+        {
+          "en": "This shirt needs ironing.",
+          "zh": "这件衬衫需要熨烫。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["blouse", "top", "T-shirt"],
+      "phrases": [
+        {
+          "phrase": "blouse",
+          "translation": "女式衬衫",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "top",
+          "translation": "上衣",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "shoes": {
+      "word": "shoes",
+      "translation": "鞋子",
+      "phonetic": "ʃuːz",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "These shoes are very comfortable.",
+          "zh": "这双鞋子很舒服。"
+        },
+        {
+          "en": "My shoes are too small.",
+          "zh": "我的鞋子太小了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Accessories"],
+      "category": "衣着",
+      "related_words": ["footwear", "boots", "sandals"],
+      "phrases": [
+        {
+          "phrase": "footwear",
+          "translation": "鞋类",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "boots",
+          "translation": "靴子",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "skirt": {
+      "word": "skirt",
+      "translation": "裙子",
+      "phonetic": "skɜːt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She bought a new skirt yesterday.",
+          "zh": "她昨天买了一条新裙子。"
+        },
+        {
+          "en": "This skirt is too long.",
+          "zh": "这条裙子太长了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["dress", "mini skirt", "long skirt"],
+      "phrases": [
+        {
+          "phrase": "mini skirt",
+          "translation": "迷你裙",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "long skirt",
+          "translation": "长裙",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "trousers": {
+      "word": "trousers",
+      "translation": "裤子",
+      "phonetic": "ˈtraʊzəz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "These trousers are too long.",
+          "zh": "这条裤子太长了。"
+        },
+        {
+          "en": "I need to buy new trousers.",
+          "zh": "我需要买新裤子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["pants", "slacks", "jeans"],
+      "phrases": [
+        {
+          "phrase": "pants",
+          "translation": "裤子",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "slacks",
+          "translation": "休闲裤",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "T-shirt": {
+      "word": "T-shirt",
+      "translation": "T恤",
+      "phonetic": "ˈtiː ʃɜːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like wearing T-shirts in summer.",
+          "zh": "我喜欢在夏天穿T恤。"
+        },
+        {
+          "en": "This T-shirt is too big for me.",
+          "zh": "这件T恤对我来说太大了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing"],
+      "category": "衣着",
+      "related_words": ["shirt", "top", "casual wear"],
+      "phrases": [
+        {
+          "phrase": "tee",
+          "translation": "T恤",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "casual shirt",
+          "translation": "休闲衫",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "bag": {
+      "word": "bag",
+      "translation": "包",
+      "phonetic": "bæɡ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I carry my books in my bag.",
+          "zh": "我把书放在包里。"
+        },
+        {
+          "en": "This bag is too heavy.",
+          "zh": "这个包太重了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Accessories"],
+      "category": "衣着",
+      "related_words": ["handbag", "backpack", "purse"],
+      "phrases": [
+        {
+          "phrase": "handbag",
+          "translation": "手提包",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "backpack",
+          "translation": "背包",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "glasses": {
+      "word": "glasses",
+      "translation": "眼镜",
+      "phonetic": "ˈɡlɑːsɪz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I can't read without my glasses.",
+          "zh": "没有眼镜我看不了书。"
+        },
+        {
+          "en": "These are new glasses.",
+          "zh": "这是新眼镜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Accessories"],
+      "category": "衣着",
+      "related_words": ["spectacles", "sunglasses", "eyewear"],
+      "phrases": [
+        {
+          "phrase": "spectacles",
+          "translation": "眼镜",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "sunglasses",
+          "translation": "太阳镜",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hat": {
+      "word": "hat",
+      "translation": "帽子",
+      "phonetic": "hæt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Wear a hat when it's sunny.",
+          "zh": "天晴时戴帽子。"
+        },
+        {
+          "en": "This hat is too small for me.",
+          "zh": "这顶帽子对我来说太小了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Accessories"],
+      "category": "衣着",
+      "related_words": ["cap", "beanie", "headwear"],
+      "phrases": [
+        {
+          "phrase": "cap",
+          "translation": "鸭舌帽",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "beanie",
+          "translation": "无檐帽",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "watch": {
+      "word": "watch",
+      "translation": "手表",
+      "phonetic": "wɒtʃ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My watch is broken.",
+          "zh": "我的手表坏了。"
+        },
+        {
+          "en": "This is an expensive watch.",
+          "zh": "这是一块昂贵的手表。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Accessories"],
+      "category": "衣着",
+      "related_words": ["wristwatch", "clock", "time"],
+      "phrases": [
+        {
+          "phrase": "wristwatch",
+          "translation": "手表",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "clock",
+          "translation": "时钟",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "change": {
+      "word": "change",
+      "translation": "更换",
+      "phonetic": "tʃeɪndʒ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to change my clothes.",
+          "zh": "我需要换衣服。"
+        },
+        {
+          "en": "She changed into her pajamas.",
+          "zh": "她换上了睡衣。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Actions"],
+      "category": "衣着",
+      "related_words": ["switch", "alter", "dress"],
+      "phrases": [
+        {
+          "phrase": "switch",
+          "translation": "转换",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "alter",
+          "translation": "改变",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "put on": {
+      "word": "put on",
+      "translation": "穿上",
+      "phonetic": "pʊt ɒn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Put on your coat before going out.",
+          "zh": "出门前穿上你的外套。"
+        },
+        {
+          "en": "She put on her new dress.",
+          "zh": "她穿上了新连衣裙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Actions"],
+      "category": "衣着",
+      "related_words": ["dress", "wear", "change"],
+      "phrases": [
+        {
+          "phrase": "dress",
+          "translation": "穿衣",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "wear",
+          "translation": "穿戴",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "take off": {
+      "word": "take off",
+      "translation": "脱下",
+      "phonetic": "teɪk ɒf",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take off your shoes before entering.",
+          "zh": "进门前脱掉鞋子。"
+        },
+        {
+          "en": "He took off his jacket because it was hot.",
+          "zh": "因为天热，他脱掉了夹克。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Actions"],
+      "category": "衣着",
+      "related_words": ["remove", "undress", "change"],
+      "phrases": [
+        {
+          "phrase": "remove",
+          "translation": "移除",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "undress",
+          "translation": "脱衣",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "wear": {
+      "word": "wear",
+      "translation": "穿戴",
+      "phonetic": "weə(r)",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What should I wear to the party?",
+          "zh": "我该穿什么去参加派对？"
+        },
+        {
+          "en": "She likes to wear bright colors.",
+          "zh": "她喜欢穿鲜艳的颜色。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Actions"],
+      "category": "衣着",
+      "related_words": ["dress", "put on", "clothes"],
+      "phrases": [
+        {
+          "phrase": "don",
+          "translation": "穿上",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "sport",
+          "translation": "穿着",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

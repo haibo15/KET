@@ -1,0 +1,1400 @@
+{
+  "metadata": {
+    "category": "Weather and Time",
+    "category_cn": "天气和时间",
+    "word_count": 54,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "cloud": {
+      "word": "cloud",
+      "translation": "云",
+      "phonetic": "klaʊd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The sky is full of clouds today.",
+          "zh": "今天天空布满了云。"
+        },
+        {
+          "en": "Dark clouds mean it might rain.",
+          "zh": "乌云意味着可能要下雨。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Nature"],
+      "category": "天气和时间",
+      "related_words": ["cloudy", "overcast", "sky"],
+      "phrases": [
+        {
+          "phrase": "cloudy",
+          "translation": "多云的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "overcast",
+          "translation": "阴天的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "cold": {
+      "word": "cold",
+      "translation": "寒冷的",
+      "phonetic": "kəʊld",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "It's very cold in winter.",
+          "zh": "冬天很寒冷。"
+        },
+        {
+          "en": "Please close the window, it's cold.",
+          "zh": "请关窗，很冷。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Temperature"],
+      "category": "天气和时间",
+      "related_words": ["chilly", "freezing", "cool"],
+      "phrases": [
+        {
+          "phrase": "chilly",
+          "translation": "冷的",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "freezing",
+          "translation": "冰冷的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hot": {
+      "word": "hot",
+      "translation": "炎热的",
+      "phonetic": "hɒt",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Summer is very hot here.",
+          "zh": "这里的夏天很炎热。"
+        },
+        {
+          "en": "It's too hot to go outside.",
+          "zh": "太热了，不适合出门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Temperature"],
+      "category": "天气和时间",
+      "related_words": ["warm", "boiling", "heat"],
+      "phrases": [
+        {
+          "phrase": "warm",
+          "translation": "温暖的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "boiling",
+          "translation": "炎热的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "rain": {
+      "word": "rain",
+      "translation": "雨；下雨",
+      "phonetic": "reɪn",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "It often rains in spring.",
+          "zh": "春天经常下雨。"
+        },
+        {
+          "en": "The rain is very heavy today.",
+          "zh": "今天雨下得很大。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Nature"],
+      "category": "天气和时间",
+      "related_words": ["rainfall", "shower", "precipitation"],
+      "phrases": [
+        {
+          "phrase": "rainfall",
+          "translation": "降雨",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "shower",
+          "translation": "阵雨",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "snow": {
+      "word": "snow",
+      "translation": "雪；下雪",
+      "phonetic": "snəʊ",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It snows a lot in winter.",
+          "zh": "冬天经常下雪。"
+        },
+        {
+          "en": "The snow is very deep.",
+          "zh": "雪很厚。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Nature"],
+      "category": "天气和时间",
+      "related_words": ["snowfall", "blizzard", "winter"],
+      "phrases": [
+        {
+          "phrase": "snowfall",
+          "translation": "降雪",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "blizzard",
+          "translation": "暴风雪",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sun": {
+      "word": "sun",
+      "translation": "太阳",
+      "phonetic": "sʌn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The sun is very bright today.",
+          "zh": "今天太阳很晒。"
+        },
+        {
+          "en": "Don't look directly at the sun.",
+          "zh": "不要直视太阳。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Nature"],
+      "category": "天气和时间",
+      "related_words": ["sunshine", "sunlight", "sunny"],
+      "phrases": [
+        {
+          "phrase": "sunshine",
+          "translation": "阳光",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "sunlight",
+          "translation": "日光",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sunny": {
+      "word": "sunny",
+      "translation": "晴朗的",
+      "phonetic": "ˈsʌni",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It's a sunny day today.",
+          "zh": "今天是晴天。"
+        },
+        {
+          "en": "The weather is sunny and warm.",
+          "zh": "天气晴朗温暖。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather"],
+      "category": "天气和时间",
+      "related_words": ["bright", "clear", "sun"],
+      "phrases": [
+        {
+          "phrase": "bright",
+          "translation": "明亮的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "clear",
+          "translation": "晴朗的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "warm": {
+      "word": "warm",
+      "translation": "温暖的",
+      "phonetic": "wɔːm",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Spring days are usually warm.",
+          "zh": "春天的日子通常很温暖。"
+        },
+        {
+          "en": "Put on a warm coat.",
+          "zh": "穿上一件暖和的外套。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Temperature"],
+      "category": "天气和时间",
+      "related_words": ["mild", "pleasant", "hot"],
+      "phrases": [
+        {
+          "phrase": "mild",
+          "translation": "温和的",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "pleasant",
+          "translation": "宜人的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "weather": {
+      "word": "weather",
+      "translation": "天气",
+      "phonetic": "ˈweðə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's the weather like today?",
+          "zh": "今天天气怎么样？"
+        },
+        {
+          "en": "The weather is changing.",
+          "zh": "天气在变化。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather"],
+      "category": "天气和时间",
+      "related_words": ["climate", "temperature", "forecast"],
+      "phrases": [
+        {
+          "phrase": "climate",
+          "translation": "气候",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "temperature",
+          "translation": "温度",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "wind": {
+      "word": "wind",
+      "translation": "风",
+      "phonetic": "wɪnd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The wind is very strong today.",
+          "zh": "今天风很大。"
+        },
+        {
+          "en": "There's a cool wind blowing.",
+          "zh": "有凉风吹来。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather", "Nature"],
+      "category": "天气和时间",
+      "related_words": ["breeze", "gust", "windy"],
+      "phrases": [
+        {
+          "phrase": "breeze",
+          "translation": "微风",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "gust",
+          "translation": "阵风",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "windy": {
+      "word": "windy",
+      "translation": "有风的",
+      "phonetic": "ˈwɪndi",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It's very windy outside.",
+          "zh": "外面风很大。"
+        },
+        {
+          "en": "Today is a windy day.",
+          "zh": "今天是个大风天。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Weather"],
+      "category": "天气和时间",
+      "related_words": ["breezy", "gusty", "wind"],
+      "phrases": [
+        {
+          "phrase": "breezy",
+          "translation": "有微风的",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "gusty",
+          "translation": "阵风的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "afternoon": {
+      "word": "afternoon",
+      "translation": "下午",
+      "phonetic": "ˌɑːftəˈnuːn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'll see you this afternoon.",
+          "zh": "我下午见你。"
+        },
+        {
+          "en": "She works in the afternoon.",
+          "zh": "她下午工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["noon", "midday", "evening"],
+      "phrases": [
+        {
+          "phrase": "noon",
+          "translation": "中午",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "midday",
+          "translation": "正午",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "clock": {
+      "word": "clock",
+      "translation": "时钟",
+      "phonetic": "klɒk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The clock shows 3 o'clock.",
+          "zh": "时钟显示3点钟。"
+        },
+        {
+          "en": "That clock is slow.",
+          "zh": "那个时钟慢了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time", "Objects"],
+      "category": "天气和时间",
+      "related_words": ["watch", "timepiece", "time"],
+      "phrases": [
+        {
+          "phrase": "watch",
+          "translation": "手表",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "timepiece",
+          "translation": "计时器",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "day": {
+      "word": "day",
+      "translation": "天",
+      "phonetic": "deɪ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Have a nice day!",
+          "zh": "祝你今天愉快！"
+        },
+        {
+          "en": "It's a beautiful day.",
+          "zh": "今天天气真好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["daytime", "daily", "date"],
+      "phrases": [
+        {
+          "phrase": "daytime",
+          "translation": "白天",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "daily",
+          "translation": "每日的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "evening": {
+      "word": "evening",
+      "translation": "晚上",
+      "phonetic": "ˈiːvnɪŋ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Good evening!",
+          "zh": "晚上好！"
+        },
+        {
+          "en": "I study in the evening.",
+          "zh": "我晚上学习。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["dusk", "twilight", "night"],
+      "phrases": [
+        {
+          "phrase": "dusk",
+          "translation": "黄昏",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "twilight",
+          "translation": "黄昏",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "hour": {
+      "word": "hour",
+      "translation": "小时",
+      "phonetic": "ˈaʊə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The meeting lasted two hours.",
+          "zh": "会议持续了两个小时。"
+        },
+        {
+          "en": "I'll be there in an hour.",
+          "zh": "我一小时后到那里。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["hourly", "o'clock", "time"],
+      "phrases": [
+        {
+          "phrase": "hourly",
+          "translation": "每小时的",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "o'clock",
+          "translation": "...点钟",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "minute": {
+      "word": "minute",
+      "translation": "分钟",
+      "phonetic": "ˈmɪnɪt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Wait a minute, please.",
+          "zh": "请等一分钟。"
+        },
+        {
+          "en": "The train leaves in five minutes.",
+          "zh": "火车五分钟后出发。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["moment", "instant", "second"],
+      "phrases": [
+        {
+          "phrase": "moment",
+          "translation": "片刻",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "instant",
+          "translation": "瞬间",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "month": {
+      "word": "month",
+      "translation": "月",
+      "phonetic": "mʌnθ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "There are twelve months in a year.",
+          "zh": "一年有十二个月。"
+        },
+        {
+          "en": "I'll see you next month.",
+          "zh": "我下个月见你。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["monthly", "calendar", "year"],
+      "phrases": [
+        {
+          "phrase": "monthly",
+          "translation": "每月的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "calendar",
+          "translation": "日历",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "morning": {
+      "word": "morning",
+      "translation": "早上",
+      "phonetic": "ˈmɔːnɪŋ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Good morning!",
+          "zh": "早上好！"
+        },
+        {
+          "en": "I like to exercise in the morning.",
+          "zh": "我喜欢早上锻炼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["dawn", "sunrise", "early"],
+      "phrases": [
+        {
+          "phrase": "dawn",
+          "translation": "黎明",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "sunrise",
+          "translation": "日出",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "night": {
+      "word": "night",
+      "translation": "夜晚",
+      "phonetic": "naɪt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Good night!",
+          "zh": "晚安！"
+        },
+        {
+          "en": "It's dark at night.",
+          "zh": "夜晚很黑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["midnight", "darkness", "evening"],
+      "phrases": [
+        {
+          "phrase": "midnight",
+          "translation": "午夜",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "darkness",
+          "translation": "黑暗",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "time": {
+      "word": "time",
+      "translation": "时间",
+      "phonetic": "taɪm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What time is it?",
+          "zh": "现在几点了？"
+        },
+        {
+          "en": "Time flies.",
+          "zh": "时光飞逝。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["timing", "schedule", "clock"],
+      "phrases": [
+        {
+          "phrase": "timing",
+          "translation": "时机",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "schedule",
+          "translation": "时间表",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "today": {
+      "word": "today",
+      "translation": "今天",
+      "phonetic": "təˈdeɪ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's the date today?",
+          "zh": "今天几号？"
+        },
+        {
+          "en": "I'm busy today.",
+          "zh": "我今天很忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["present", "nowadays", "current"],
+      "phrases": [
+        {
+          "phrase": "present",
+          "translation": "现在",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "nowadays",
+          "translation": "现今",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "tomorrow": {
+      "word": "tomorrow",
+      "translation": "明天",
+      "phonetic": "təˈmɒrəʊ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "See you tomorrow!",
+          "zh": "明天见！"
+        },
+        {
+          "en": "What are your plans for tomorrow?",
+          "zh": "你明天有什么计划？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["next day", "following day", "future"],
+      "phrases": [
+        {
+          "phrase": "next day",
+          "translation": "第二天",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "following day",
+          "translation": "次日",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "week": {
+      "word": "week",
+      "translation": "周",
+      "phonetic": "wiːk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "There are seven days in a week.",
+          "zh": "一周有七天。"
+        },
+        {
+          "en": "See you next week.",
+          "zh": "下周见。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["weekly", "weekend", "weekday"],
+      "phrases": [
+        {
+          "phrase": "weekly",
+          "translation": "每周的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "weekend",
+          "translation": "周末",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "year": {
+      "word": "year",
+      "translation": "年",
+      "phonetic": "jɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Happy New Year!",
+          "zh": "新年快乐！"
+        },
+        {
+          "en": "I'm twenty years old.",
+          "zh": "我二十岁了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["yearly", "annual", "month"],
+      "phrases": [
+        {
+          "phrase": "yearly",
+          "translation": "每年的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "annual",
+          "translation": "年度的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "yesterday": {
+      "word": "yesterday",
+      "translation": "昨天",
+      "phonetic": "ˈjestədeɪ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I saw him yesterday.",
+          "zh": "我昨天见到他了。"
+        },
+        {
+          "en": "Yesterday was Sunday.",
+          "zh": "昨天是星期天。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Time"],
+      "category": "天气和时间",
+      "related_words": ["previous day", "last day", "past"],
+      "phrases": [
+        {
+          "phrase": "previous day",
+          "translation": "前一天",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "last day",
+          "translation": "昨天",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "spring": {
+      "word": "spring",
+      "translation": "春天",
+      "phonetic": "sprɪŋ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Spring is my favorite season.",
+          "zh": "春天是我最喜欢的季节。"
+        },
+        {
+          "en": "Flowers bloom in spring.",
+          "zh": "花儿在春天开放。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Seasons", "Time"],
+      "category": "天气和时间",
+      "related_words": ["season", "March", "April", "May"],
+      "phrases": [
+        {
+          "phrase": "early spring",
+          "translation": "初春",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "spring festival",
+          "translation": "春节",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "summer": {
+      "word": "summer",
+      "translation": "夏天",
+      "phonetic": "ˈsʌmə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Summer is very hot here.",
+          "zh": "这里的夏天很热。"
+        },
+        {
+          "en": "We have summer vacation in July.",
+          "zh": "我们七月有暑假。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Seasons", "Time"],
+      "category": "天气和时间",
+      "related_words": ["season", "June", "July", "August"],
+      "phrases": [
+        {
+          "phrase": "summer holiday",
+          "translation": "暑假",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "midsummer",
+          "translation": "盛夏",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "autumn": {
+      "word": "autumn",
+      "translation": "秋天",
+      "phonetic": "ˈɔːtəm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Leaves turn yellow in autumn.",
+          "zh": "树叶在秋天变黄。"
+        },
+        {
+          "en": "Autumn is harvest season.",
+          "zh": "秋天是收获的季节。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Seasons", "Time"],
+      "category": "天气和时间",
+      "related_words": ["fall", "season", "September", "October", "November"],
+      "phrases": [
+        {
+          "phrase": "fall",
+          "translation": "秋天（美式英语）",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "autumn harvest",
+          "translation": "秋收",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "winter": {
+      "word": "winter",
+      "translation": "冬天",
+      "phonetic": "ˈwɪntə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "It snows in winter.",
+          "zh": "冬天下雪。"
+        },
+        {
+          "en": "Winter is very cold.",
+          "zh": "冬天很冷。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Seasons", "Time"],
+      "category": "天气和时间",
+      "related_words": ["season", "December", "January", "February"],
+      "phrases": [
+        {
+          "phrase": "winter holiday",
+          "translation": "寒假",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "midwinter",
+          "translation": "隆冬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "January": {
+      "word": "January",
+      "translation": "一月",
+      "phonetic": "ˈdʒænjuəri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "January is the first month of the year.",
+          "zh": "一月是一年的第一个月。"
+        },
+        {
+          "en": "It's very cold in January.",
+          "zh": "一月份很冷。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["winter", "month", "New Year"],
+      "phrases": [
+        {
+          "phrase": "early January",
+          "translation": "一月初",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mid-January",
+          "translation": "一月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "February": {
+      "word": "February",
+      "translation": "二月",
+      "phonetic": "ˈfebruəri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "February is the shortest month.",
+          "zh": "二月是最短的月份。"
+        },
+        {
+          "en": "Valentine's Day is in February.",
+          "zh": "情人节在二月。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["winter", "month", "Valentine"],
+      "phrases": [
+        {
+          "phrase": "late February",
+          "translation": "二月底",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mid-February",
+          "translation": "二月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "March": {
+      "word": "March",
+      "translation": "三月",
+      "phonetic": "mɑːtʃ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Spring begins in March.",
+          "zh": "春天从三月开始。"
+        },
+        {
+          "en": "March is often windy.",
+          "zh": "三月常常刮风。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["spring", "month", "season"],
+      "phrases": [
+        {
+          "phrase": "early March",
+          "translation": "三月初",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mid-March",
+          "translation": "三月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "April": {
+      "word": "April",
+      "translation": "四月",
+      "phonetic": "ˈeɪprəl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "April showers bring May flowers.",
+          "zh": "四月雨带来五月花。"
+        },
+        {
+          "en": "April Fool's Day is on April 1st.",
+          "zh": "愚人节是在四月一日。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["spring", "month", "rain"],
+      "phrases": [
+        {
+          "phrase": "April Fool's Day",
+          "translation": "愚人节",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mid-April",
+          "translation": "四月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "May": {
+      "word": "May",
+      "translation": "五月",
+      "phonetic": "meɪ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "May is a beautiful month.",
+          "zh": "五月是个美丽的月份。"
+        },
+        {
+          "en": "The weather is warm in May.",
+          "zh": "五月天气温暖。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["spring", "month", "flower"],
+      "phrases": [
+        {
+          "phrase": "May Day",
+          "translation": "五一劳动节",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "early May",
+          "translation": "五月初",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "June": {
+      "word": "June",
+      "translation": "六月",
+      "phonetic": "dʒuːn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Summer starts in June.",
+          "zh": "夏天从六月开始。"
+        },
+        {
+          "en": "Many people get married in June.",
+          "zh": "许多人在六月结婚。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["summer", "month", "wedding"],
+      "phrases": [
+        {
+          "phrase": "June bride",
+          "translation": "六月新娘",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mid-June",
+          "translation": "六月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "July": {
+      "word": "July",
+      "translation": "七月",
+      "phonetic": "dʒʊˈlaɪ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "July is usually the hottest month.",
+          "zh": "七月通常是最热的月份。"
+        },
+        {
+          "en": "We have summer vacation in July.",
+          "zh": "我们在七月有暑假。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["summer", "month", "hot"],
+      "phrases": [
+        {
+          "phrase": "early July",
+          "translation": "七月初",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mid-July",
+          "translation": "七月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "August": {
+      "word": "August",
+      "translation": "八月",
+      "phonetic": "ˈɔːɡəst",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "August is a summer month.",
+          "zh": "八月是夏季月份。"
+        },
+        {
+          "en": "School starts in late August.",
+          "zh": "学校在八月底开学。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["summer", "month", "vacation"],
+      "phrases": [
+        {
+          "phrase": "late August",
+          "translation": "八月底",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mid-August",
+          "translation": "八月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "September": {
+      "word": "September",
+      "translation": "九月",
+      "phonetic": "sepˈtembə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "School usually starts in September.",
+          "zh": "学校通常在九月开学。"
+        },
+        {
+          "en": "The weather gets cooler in September.",
+          "zh": "九月天气变凉爽。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["autumn", "month", "fall"],
+      "phrases": [
+        {
+          "phrase": "early September",
+          "translation": "九月初",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mid-September",
+          "translation": "九月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "October": {
+      "word": "October",
+      "translation": "十月",
+      "phonetic": "ɒkˈtəʊbə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The leaves change color in October.",
+          "zh": "树叶在十月变色。"
+        },
+        {
+          "en": "Halloween is in October.",
+          "zh": "万圣节在十月。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["autumn", "month", "Halloween"],
+      "phrases": [
+        {
+          "phrase": "October fest",
+          "translation": "十月节",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mid-October",
+          "translation": "十月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "November": {
+      "word": "November",
+      "translation": "十一月",
+      "phonetic": "nəʊˈvembə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "November is often cold and rainy.",
+          "zh": "十一月常常寒冷多雨。"
+        },
+        {
+          "en": "Thanksgiving is in November.",
+          "zh": "感恩节在十一月。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["autumn", "month", "Thanksgiving"],
+      "phrases": [
+        {
+          "phrase": "early November",
+          "translation": "十一月初",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mid-November",
+          "translation": "十一月中旬",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "December": {
+      "word": "December",
+      "translation": "十二月",
+      "phonetic": "dɪˈsembə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "December is the last month of the year.",
+          "zh": "十二月是一年的最后一个月。"
+        },
+        {
+          "en": "Christmas is in December.",
+          "zh": "圣诞节在十二月。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Months", "Time"],
+      "category": "天气和时间",
+      "related_words": ["winter", "month", "Christmas"],
+      "phrases": [
+        {
+          "phrase": "late December",
+          "translation": "十二月底",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mid-December",
+          "translation": "十二月中旬",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

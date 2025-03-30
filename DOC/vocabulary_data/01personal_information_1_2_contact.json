@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "category": "Contact",
+    "category_cn": "联系类词汇",
+    "word_count": 8,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 25,
+      "C": 0
+    }
+  },
+  "words": {
+    "address": {
+      "word": "address",
+      "translation": "地址",
+      "phonetic": "əˈdres",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your home address?",
+          "zh": "你的家庭住址是什么？"
+        },
+        {
+          "en": "Please write down your address here.",
+          "zh": "请在这里写下你的地址。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact"],
+      "category": "联系类词汇",
+      "related_words": ["home", "location", "place"],
+      "phrases": [
+        {
+          "phrase": "home address",
+          "translation": "家庭住址",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "work address",
+          "translation": "工作地址",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "phone": {
+      "word": "phone",
+      "translation": "电话",
+      "phonetic": "fəʊn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can I have your phone number?",
+          "zh": "我可以要你的电话号码吗？"
+        },
+        {
+          "en": "My phone is ringing.",
+          "zh": "我的电话在响。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Technology"],
+      "category": "联系类词汇",
+      "related_words": ["telephone", "mobile", "call"],
+      "phrases": [
+        {
+          "phrase": "phone number",
+          "translation": "电话号码",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mobile phone",
+          "translation": "手机",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "email": {
+      "word": "email",
+      "translation": "电子邮件",
+      "phonetic": "ˈiːmeɪl",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please send me an email.",
+          "zh": "请给我发一封电子邮件。"
+        },
+        {
+          "en": "What's your email address?",
+          "zh": "你的电子邮件地址是什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Technology"],
+      "category": "联系类词汇",
+      "related_words": ["mail", "message", "internet"],
+      "phrases": [
+        {
+          "phrase": "email address",
+          "translation": "电子邮件地址",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "send an email",
+          "translation": "发送电子邮件",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "contact": {
+      "word": "contact",
+      "translation": "联系",
+      "phonetic": "ˈkɒntækt",
+      "part_of_speech": "n & v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "How can I contact you?",
+          "zh": "我怎么联系你？"
+        },
+        {
+          "en": "Please keep in contact.",
+          "zh": "请保持联系。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Communication"],
+      "category": "联系类词汇",
+      "related_words": ["connection", "communication", "touch"],
+      "phrases": [
+        {
+          "phrase": "keep in contact",
+          "translation": "保持联系",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "contact information",
+          "translation": "联系信息",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "call": {
+      "word": "call",
+      "translation": "打电话",
+      "phonetic": "kɔːl",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'll call you tomorrow.",
+          "zh": "我明天给你打电话。"
+        },
+        {
+          "en": "Please call me back.",
+          "zh": "请给我回电话。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Communication"],
+      "category": "联系类词汇",
+      "related_words": ["phone", "telephone", "dial"],
+      "phrases": [
+        {
+          "phrase": "call back",
+          "translation": "回电话",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "make a call",
+          "translation": "打电话",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "message": {
+      "word": "message",
+      "translation": "消息",
+      "phonetic": "ˈmesɪdʒ",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I'll leave you a message.",
+          "zh": "我会给你留言。"
+        },
+        {
+          "en": "Did you get my message?",
+          "zh": "你收到我的消息了吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Communication"],
+      "category": "联系类词汇",
+      "related_words": ["text", "note", "information"],
+      "phrases": [
+        {
+          "phrase": "leave a message",
+          "translation": "留言",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "text message",
+          "translation": "短信",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "website": {
+      "word": "website",
+      "translation": "网站",
+      "phonetic": "ˈwebsaɪt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Visit our website for more information.",
+          "zh": "访问我们的网站获取更多信息。"
+        },
+        {
+          "en": "The website is under maintenance.",
+          "zh": "该网站正在维护中。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Technology", "Internet"],
+      "category": "联系类词汇",
+      "related_words": ["internet", "web", "online"],
+      "phrases": [
+        {
+          "phrase": "official website",
+          "translation": "官方网站",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "visit a website",
+          "translation": "访问网站",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "online": {
+      "word": "online",
+      "translation": "在线的",
+      "phonetic": "ˈɒnlaɪn",
+      "part_of_speech": "adj & adv",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "You can buy it online.",
+          "zh": "你可以在网上买到它。"
+        },
+        {
+          "en": "The store is both online and offline.",
+          "zh": "这家商店既有线上也有线下。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Contact", "Technology", "Internet"],
+      "category": "联系类词汇",
+      "related_words": ["internet", "web", "digital"],
+      "phrases": [
+        {
+          "phrase": "online shopping",
+          "translation": "网上购物",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "online service",
+          "translation": "在线服务",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

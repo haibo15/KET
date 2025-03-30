@@ -1,0 +1,413 @@
+{
+  "metadata": {
+    "category": "Family Members",
+    "category_cn": "家庭成员",
+    "word_count": 40,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 25,
+      "C": 0
+    }
+  },
+  "words": {
+    "father": {
+      "word": "father",
+      "translation": "父亲",
+      "phonetic": "ˈfɑːðə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My father works in a bank.",
+          "zh": "我父亲在银行工作。"
+        },
+        {
+          "en": "He is a good father to his children.",
+          "zh": "他是个好父亲。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Core Family Members"],
+      "category": "家庭成员",
+      "related_words": ["dad", "daddy", "parent"],
+      "phrases": [
+        {
+          "phrase": "father and mother",
+          "translation": "父母",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "mother": {
+      "word": "mother",
+      "translation": "母亲",
+      "phonetic": "ˈmʌðə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My mother is a teacher.",
+          "zh": "我母亲是一名教师。"
+        },
+        {
+          "en": "She is a caring mother.",
+          "zh": "她是一位慈爱的母亲。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Core Family Members"],
+      "category": "家庭成员",
+      "related_words": ["mum", "mummy", "parent"],
+      "phrases": [
+        {
+          "phrase": "mother tongue",
+          "translation": "母语",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sister": {
+      "word": "sister",
+      "translation": "姐妹",
+      "phonetic": "ˈsɪstə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have two sisters.",
+          "zh": "我有两个姐妹。"
+        },
+        {
+          "en": "My sister is older than me.",
+          "zh": "我姐姐比我大。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Core Family Members"],
+      "category": "家庭成员",
+      "related_words": ["brother", "sibling"],
+      "phrases": [
+        {
+          "phrase": "big sister",
+          "translation": "姐姐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "little sister",
+          "translation": "妹妹",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "brother": {
+      "word": "brother",
+      "translation": "兄弟",
+      "phonetic": "ˈbrʌðə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He is my younger brother.",
+          "zh": "他是我弟弟。"
+        },
+        {
+          "en": "My brother lives in London.",
+          "zh": "我哥哥住在伦敦。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Core Family Members"],
+      "category": "家庭成员",
+      "related_words": ["sister", "sibling"],
+      "phrases": [
+        {
+          "phrase": "big brother",
+          "translation": "哥哥",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "little brother",
+          "translation": "弟弟",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "grandfather": {
+      "word": "grandfather",
+      "translation": "祖父/外祖父",
+      "phonetic": "ˈɡrænfɑːðə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My grandfather likes to tell stories.",
+          "zh": "我爷爷喜欢讲故事。"
+        },
+        {
+          "en": "His grandfather is 80 years old.",
+          "zh": "他爷爷80岁了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Extended Family"],
+      "category": "家庭成员",
+      "related_words": ["grandpa", "grandparent"],
+      "phrases": [
+        {
+          "phrase": "paternal grandfather",
+          "translation": "爷爷",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "maternal grandfather",
+          "translation": "外公",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "grandmother": {
+      "word": "grandmother",
+      "translation": "祖母/外祖母",
+      "phonetic": "ˈɡrænmʌðə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My grandmother makes delicious cookies.",
+          "zh": "我奶奶做的饼干很美味。"
+        },
+        {
+          "en": "We visit our grandmother every weekend.",
+          "zh": "我们每个周末都去看奶奶。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Extended Family"],
+      "category": "家庭成员",
+      "related_words": ["grandma", "grandparent"],
+      "phrases": [
+        {
+          "phrase": "paternal grandmother",
+          "translation": "奶奶",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "maternal grandmother",
+          "translation": "外婆",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "uncle": {
+      "word": "uncle",
+      "translation": "叔叔/舅舅",
+      "phonetic": "ˈʌŋkl",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My uncle is a doctor.",
+          "zh": "我叔叔是医生。"
+        },
+        {
+          "en": "We're going to visit our uncle tomorrow.",
+          "zh": "我们明天要去看舅舅。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Extended Family"],
+      "category": "家庭成员",
+      "related_words": ["aunt", "relative"],
+      "phrases": [
+        {
+          "phrase": "paternal uncle",
+          "translation": "叔叔",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "maternal uncle",
+          "translation": "舅舅",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "aunt": {
+      "word": "aunt",
+      "translation": "阿姨/姑姑",
+      "phonetic": "ɑːnt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My aunt lives in New York.",
+          "zh": "我阿姨住在纽约。"
+        },
+        {
+          "en": "This gift is from my aunt.",
+          "zh": "这个礼物是我姑姑送的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Extended Family"],
+      "category": "家庭成员",
+      "related_words": ["uncle", "relative"],
+      "phrases": [
+        {
+          "phrase": "paternal aunt",
+          "translation": "姑姑",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "maternal aunt",
+          "translation": "阿姨",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "cousin": {
+      "word": "cousin",
+      "translation": "堂/表兄弟姐妹",
+      "phonetic": "ˈkʌzn",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She is my cousin from America.",
+          "zh": "她是我来自美国的表妹。"
+        },
+        {
+          "en": "I have many cousins.",
+          "zh": "我有很多堂兄弟姐妹。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Extended Family"],
+      "category": "家庭成员",
+      "related_words": ["relative", "family"],
+      "phrases": [
+        {
+          "phrase": "first cousin",
+          "translation": "堂/表兄弟姐妹",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "husband": {
+      "word": "husband",
+      "translation": "丈夫",
+      "phonetic": "ˈhʌzbənd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My husband works in a bank.",
+          "zh": "我丈夫在银行工作。"
+        },
+        {
+          "en": "She and her husband live in London.",
+          "zh": "她和她丈夫住在伦敦。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Marriage"],
+      "category": "家庭成员",
+      "related_words": ["wife", "spouse"],
+      "phrases": [
+        {
+          "phrase": "husband and wife",
+          "translation": "夫妻",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "wife": {
+      "word": "wife",
+      "translation": "妻子",
+      "phonetic": "waɪf",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "His wife is a teacher.",
+          "zh": "他的妻子是位教师。"
+        },
+        {
+          "en": "Tom and his wife are both doctors.",
+          "zh": "汤姆和他的妻子都是医生。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Marriage"],
+      "category": "家庭成员",
+      "related_words": ["husband", "spouse"],
+      "phrases": [
+        {
+          "phrase": "housewife",
+          "translation": "家庭主妇",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "parent": {
+      "word": "parent",
+      "translation": "父母",
+      "phonetic": "ˈpeərənt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Both my parents are teachers.",
+          "zh": "我的父母都是教师。"
+        },
+        {
+          "en": "Parents should take care of their children.",
+          "zh": "父母应该照顾他们的孩子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Core Family Members"],
+      "category": "家庭成员",
+      "related_words": ["father", "mother"],
+      "phrases": [
+        {
+          "phrase": "single parent",
+          "translation": "单亲父母",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "family": {
+      "word": "family",
+      "translation": "家庭",
+      "phonetic": "ˈfæmili",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a big family.",
+          "zh": "我有一个大家庭。"
+        },
+        {
+          "en": "Family is the most important thing in life.",
+          "zh": "家庭是生活中最重要的事。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Family", "Relationships"],
+      "category": "家庭成员",
+      "related_words": ["home", "relative", "household"],
+      "phrases": [
+        {
+          "phrase": "family member",
+          "translation": "家庭成员",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "happy family",
+          "translation": "幸福的家庭",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "category": "Daily Necessities",
+    "category_cn": "日常用品",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 25,
+      "C": 0
+    }
+  },
+  "words": {
+    "toothbrush": {
+      "word": "toothbrush",
+      "translation": "牙刷",
+      "phonetic": "ˈtuːθbrʌʃ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I brush my teeth with my toothbrush twice a day.",
+          "zh": "我每天用牙刷刷两次牙。"
+        },
+        {
+          "en": "Don't forget to pack your toothbrush.",
+          "zh": "别忘了带上你的牙刷。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Items", "Daily Life"],
+      "category": "日常用品",
+      "related_words": ["dental care", "hygiene", "bathroom"],
+      "phrases": [
+        {
+          "phrase": "electric toothbrush",
+          "translation": "电动牙刷",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "dental care",
+          "translation": "牙齿护理",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "soap": {
+      "word": "soap",
+      "translation": "肥皂",
+      "phonetic": "səʊp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please wash your hands with soap.",
+          "zh": "请用肥皂洗手。"
+        },
+        {
+          "en": "We need to buy more soap.",
+          "zh": "我们需要买更多肥皂。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Items", "Daily Life"],
+      "category": "日常用品",
+      "related_words": ["wash", "clean", "hygiene"],
+      "phrases": [
+        {
+          "phrase": "hand soap",
+          "translation": "洗手液",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "body wash",
+          "translation": "沐浴露",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "towel": {
+      "word": "towel",
+      "translation": "毛巾",
+      "phonetic": "ˈtaʊəl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Hang your wet towel on the rack to dry.",
+          "zh": "把湿毛巾挂在架子上晾干。"
+        },
+        {
+          "en": "I need a clean towel.",
+          "zh": "我需要一条干净的毛巾。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Items", "Daily Life"],
+      "category": "日常用品",
+      "related_words": ["bathroom", "dry", "cloth"],
+      "phrases": [
+        {
+          "phrase": "bath towel",
+          "translation": "浴巾",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "hand towel",
+          "translation": "手巾",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "umbrella": {
+      "word": "umbrella",
+      "translation": "雨伞",
+      "phonetic": "ʌmˈbrelə",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take an umbrella with you, it might rain later.",
+          "zh": "带把伞，待会可能会下雨。"
+        },
+        {
+          "en": "My umbrella is broken.",
+          "zh": "我的雨伞坏了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Items", "Weather"],
+      "category": "日常用品",
+      "related_words": ["rain", "weather", "protection"],
+      "phrases": [
+        {
+          "phrase": "parasol",
+          "translation": "遮阳伞",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "fold",
+          "translation": "折叠",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "tissue": {
+      "word": "tissue",
+      "translation": "纸巾",
+      "phonetic": "ˈtɪʃuː",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She took a tissue from her bag to wipe her nose.",
+          "zh": "她从包里拿出一张纸巾擦鼻子。"
+        },
+        {
+          "en": "Do you have any tissues?",
+          "zh": "你有纸巾吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Items", "Daily Life"],
+      "category": "日常用品",
+      "related_words": ["paper", "napkin", "wipe"],
+      "phrases": [
+        {
+          "phrase": "paper tissue",
+          "translation": "纸巾",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "napkin",
+          "translation": "餐巾",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "pen": {
+      "word": "pen",
+      "translation": "钢笔",
+      "phonetic": "pen",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I always write with a blue pen.",
+          "zh": "我总是用蓝色钢笔写字。"
+        },
+        {
+          "en": "Can I borrow your pen?",
+          "zh": "我能借用你的钢笔吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Stationery", "Study"],
+      "category": "日常用品",
+      "related_words": ["write", "ink", "stationery"],
+      "phrases": [
+        {
+          "phrase": "ballpoint pen",
+          "translation": "圆珠笔",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fountain pen",
+          "translation": "钢笔",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "pencil": {
+      "word": "pencil",
+      "translation": "铅笔",
+      "phonetic": "ˈpensl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Use a pencil to draw the sketch.",
+          "zh": "用铅笔画草图。"
+        },
+        {
+          "en": "This pencil needs sharpening.",
+          "zh": "这支铅笔需要削一削。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Stationery", "Study"],
+      "category": "日常用品",
+      "related_words": ["draw", "write", "stationery"],
+      "phrases": [
+        {
+          "phrase": "mechanical pencil",
+          "translation": "自动铅笔",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "lead",
+          "translation": "铅芯",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "eraser": {
+      "word": "eraser",
+      "translation": "橡皮擦",
+      "phonetic": "ɪˈreɪzə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "If you make a mistake, use an eraser to correct it.",
+          "zh": "如果你写错了，用橡皮擦改正。"
+        },
+        {
+          "en": "I need a new eraser.",
+          "zh": "我需要一个新的橡皮擦。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Stationery", "Study"],
+      "category": "日常用品",
+      "related_words": ["rubber", "pencil", "correction"],
+      "phrases": [
+        {
+          "phrase": "rubber",
+          "translation": "橡皮",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "pencil eraser",
+          "translation": "铅笔擦",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "notebook": {
+      "word": "notebook",
+      "translation": "笔记本",
+      "phonetic": "ˈnəʊtbʊk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I write my daily notes in my notebook.",
+          "zh": "我在笔记本上记录每天的笔记。"
+        },
+        {
+          "en": "She has a beautiful notebook.",
+          "zh": "她有一个漂亮的笔记本。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Stationery", "Study"],
+      "category": "日常用品",
+      "related_words": ["diary", "journal", "notes"],
+      "phrases": [
+        {
+          "phrase": "diary",
+          "translation": "日记本",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "journal",
+          "translation": "日志",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "scissors": {
+      "word": "scissors",
+      "translation": "剪刀",
+      "phonetic": "ˈsɪzəz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use scissors to cut the paper carefully.",
+          "zh": "用剪刀小心地剪纸。"
+        },
+        {
+          "en": "These scissors are very sharp.",
+          "zh": "这把剪刀很锋利。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Stationery", "Tools"],
+      "category": "日常用品",
+      "related_words": ["cut", "tool", "sharp"],
+      "phrases": [
+        {
+          "phrase": "cut",
+          "translation": "剪切",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "paper scissors",
+          "translation": "剪纸刀",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "phone": {
+      "word": "phone",
+      "translation": "手机",
+      "phonetic": "fəʊn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I use my phone to make calls and send messages.",
+          "zh": "我用手机打电话和发短信。"
+        },
+        {
+          "en": "My phone needs charging.",
+          "zh": "我的手机需要充电。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Communication"],
+      "category": "日常用品",
+      "related_words": ["call", "message", "mobile"],
+      "phrases": [
+        {
+          "phrase": "smartphone",
+          "translation": "智能手机",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "mobile phone",
+          "translation": "移动电话",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "computer": {
+      "word": "computer",
+      "translation": "电脑",
+      "phonetic": "kəmˈpjuːtə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She works on her computer every day.",
+          "zh": "她每天用电脑工作。"
+        },
+        {
+          "en": "My computer is very fast.",
+          "zh": "我的电脑很快。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Technology"],
+      "category": "日常用品",
+      "related_words": ["laptop", "desktop", "technology"],
+      "phrases": [
+        {
+          "phrase": "laptop",
+          "translation": "笔记本电脑",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "desktop",
+          "translation": "台式电脑",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "charger": {
+      "word": "charger",
+      "translation": "充电器",
+      "phonetic": "ˈtʃɑːdʒə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't forget to bring your phone charger.",
+          "zh": "别忘了带上你的手机充电器。"
+        },
+        {
+          "en": "I need a new charger for my laptop.",
+          "zh": "我需要一个新的笔记本电脑充电器。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Technology"],
+      "category": "日常用品",
+      "related_words": ["power", "battery", "electricity"],
+      "phrases": [
+        {
+          "phrase": "power adapter",
+          "translation": "电源适配器",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "cable",
+          "translation": "数据线",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "headphones": {
+      "word": "headphones",
+      "translation": "耳机",
+      "phonetic": "ˈhedfəʊnz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He likes to listen to music with his headphones.",
+          "zh": "他喜欢戴耳机听音乐。"
+        },
+        {
+          "en": "These headphones are wireless.",
+          "zh": "这些是无线耳机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Music"],
+      "category": "日常用品",
+      "related_words": ["music", "audio", "sound"],
+      "phrases": [
+        {
+          "phrase": "earphones",
+          "translation": "耳塞",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "wireless",
+          "translation": "无线的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "camera": {
+      "word": "camera",
+      "translation": "相机",
+      "phonetic": "ˈkæmərə",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She took many pictures with her new camera.",
+          "zh": "她用新相机拍了很多照片。"
+        },
+        {
+          "en": "This camera has a good lens.",
+          "zh": "这个相机有一个好镜头。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Photography"],
+      "category": "日常用品",
+      "related_words": ["photo", "picture", "image"],
+      "phrases": [
+        {
+          "phrase": "digital camera",
+          "translation": "数码相机",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "photograph",
+          "translation": "照片",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

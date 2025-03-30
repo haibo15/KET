@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "category": "Social Relations",
+    "category_cn": "社交关系",
+    "word_count": 30,
+    "difficulty_distribution": {
+      "A": 65,
+      "B": 35,
+      "C": 0
+    }
+  },
+  "words": {
+    "friend": {
+      "word": "friend",
+      "translation": "朋友",
+      "phonetic": "frend",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is my best friend.",
+          "zh": "她是我最好的朋友。"
+        },
+        {
+          "en": "I made many new friends at school.",
+          "zh": "我在学校交了很多新朋友。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Relationships"],
+      "category": "社交关系",
+      "related_words": ["companion", "mate", "buddy"],
+      "phrases": [
+        {
+          "phrase": "best friend",
+          "translation": "最好的朋友",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "close friend",
+          "translation": "密友",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "relationship": {
+      "word": "relationship",
+      "translation": "关系",
+      "phonetic": "rɪˈleɪʃnʃɪp",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "We have a good relationship.",
+          "zh": "我们有很好的关系。"
+        },
+        {
+          "en": "It's important to maintain good relationships with colleagues.",
+          "zh": "与同事保持良好关系很重要。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Social", "Connections"],
+      "category": "社交关系",
+      "related_words": ["connection", "bond", "friendship"],
+      "phrases": [
+        {
+          "phrase": "good relationship",
+          "translation": "良好关系",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "partner": {
+      "word": "partner",
+      "translation": "伙伴",
+      "phonetic": "ˈpɑːtnə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He is my business partner.",
+          "zh": "他是我的生意伙伴。"
+        },
+        {
+          "en": "Find a partner for this activity.",
+          "zh": "为这个活动找一个搭档。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Business"],
+      "category": "社交关系",
+      "related_words": ["companion", "associate", "colleague"],
+      "phrases": [
+        {
+          "phrase": "business partner",
+          "translation": "生意伙伴",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "colleague": {
+      "word": "colleague",
+      "translation": "同事",
+      "phonetic": "ˈkɒliːɡ",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My colleagues are very friendly.",
+          "zh": "我的同事们很友好。"
+        },
+        {
+          "en": "She had lunch with her colleagues.",
+          "zh": "她和同事一起吃午饭。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work", "Social"],
+      "category": "社交关系",
+      "related_words": ["co-worker", "workmate", "associate"],
+      "phrases": [
+        {
+          "phrase": "work colleague",
+          "translation": "工作同事",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "party": {
+      "word": "party",
+      "translation": "聚会",
+      "phonetic": "ˈpɑːti",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We're having a birthday party next week.",
+          "zh": "我们下周要办生日聚会。"
+        },
+        {
+          "en": "The party was very enjoyable.",
+          "zh": "这次聚会很愉快。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Entertainment"],
+      "category": "社交关系",
+      "related_words": ["celebration", "gathering", "event"],
+      "phrases": [
+        {
+          "phrase": "birthday party",
+          "translation": "生日聚会",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "meeting": {
+      "word": "meeting",
+      "translation": "会面",
+      "phonetic": "ˈmiːtɪŋ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a meeting with my teacher tomorrow.",
+          "zh": "我明天要和老师会面。"
+        },
+        {
+          "en": "The meeting lasted for two hours.",
+          "zh": "会面持续了两个小时。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Business"],
+      "category": "社交关系",
+      "related_words": ["appointment", "gathering", "conference"],
+      "phrases": [
+        {
+          "phrase": "business meeting",
+          "translation": "商务会面",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "visit": {
+      "word": "visit",
+      "translation": "拜访",
+      "phonetic": "ˈvɪzɪt",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I will visit my grandparents next week.",
+          "zh": "我下周要去拜访我的祖父母。"
+        },
+        {
+          "en": "Thank you for your visit.",
+          "zh": "感谢你的拜访。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Activities"],
+      "category": "社交关系",
+      "related_words": ["call on", "drop by", "see"],
+      "phrases": [
+        {
+          "phrase": "pay a visit",
+          "translation": "进行拜访",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "chat": {
+      "word": "chat",
+      "translation": "聊天",
+      "phonetic": "tʃæt",
+      "part_of_speech": "v & n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We had a nice chat over coffee.",
+          "zh": "我们一边喝咖啡一边愉快地聊天。"
+        },
+        {
+          "en": "I like chatting with my friends.",
+          "zh": "我喜欢和朋友聊天。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Communication"],
+      "category": "社交关系",
+      "related_words": ["talk", "conversation", "discuss"],
+      "phrases": [
+        {
+          "phrase": "have a chat",
+          "translation": "聊一聊",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "greet": {
+      "word": "greet",
+      "translation": "问候",
+      "phonetic": "ɡriːt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She greeted me with a smile.",
+          "zh": "她微笑着向我问候。"
+        },
+        {
+          "en": "It's polite to greet people when you meet them.",
+          "zh": "见面时问候别人是礼貌的表现。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Manners"],
+      "category": "社交关系",
+      "related_words": ["welcome", "say hello", "acknowledge"],
+      "phrases": [
+        {
+          "phrase": "greet someone warmly",
+          "translation": "热情地问候某人",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "introduce": {
+      "word": "introduce",
+      "translation": "介绍",
+      "phonetic": "ˌɪntrəˈdjuːs",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Let me introduce my friend to you.",
+          "zh": "让我把我的朋友介绍给你。"
+        },
+        {
+          "en": "She introduced herself to the class.",
+          "zh": "她向全班做了自我介绍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Communication"],
+      "category": "社交关系",
+      "related_words": ["present", "recommend", "acquaint"],
+      "phrases": [
+        {
+          "phrase": "self-introduction",
+          "translation": "自我介绍",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "thank": {
+      "word": "thank",
+      "translation": "感谢",
+      "phonetic": "θæŋk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I want to thank you for your help.",
+          "zh": "我想感谢你的帮助。"
+        },
+        {
+          "en": "She thanked everyone for coming.",
+          "zh": "她感谢大家的到来。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Manners"],
+      "category": "社交关系",
+      "related_words": ["appreciate", "grateful", "acknowledge"],
+      "phrases": [
+        {
+          "phrase": "thank you very much",
+          "translation": "非常感谢",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "apologize": {
+      "word": "apologize",
+      "translation": "道歉",
+      "phonetic": "əˈpɒlədʒaɪz",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I apologize for being late.",
+          "zh": "我为迟到道歉。"
+        },
+        {
+          "en": "He apologized for his mistake.",
+          "zh": "他为他的错误道歉。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social", "Manners"],
+      "category": "社交关系",
+      "related_words": ["sorry", "excuse", "regret"],
+      "phrases": [
+        {
+          "phrase": "say sorry",
+          "translation": "说对不起",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "category": "Personality Traits",
+    "category_cn": "性格特征",
+    "word_count": 50,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 30,
+      "C": 0
+    }
+  },
+  "words": {
+    "able": {
+      "word": "able",
+      "translation": "能干的",
+      "phonetic": "ˈeɪbl",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is able to speak three languages.",
+          "zh": "她能说三种语言。"
+        },
+        {
+          "en": "He is a very able student.",
+          "zh": "他是一个很能干的学生。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Ability"],
+      "category": "性格特征",
+      "related_words": ["capable", "skilled", "talented"],
+      "phrases": [
+        {
+          "phrase": "be able to",
+          "translation": "能够",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "beautiful": {
+      "word": "beautiful",
+      "translation": "漂亮的",
+      "phonetic": "ˈbjuːtɪfl",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She has a beautiful smile.",
+          "zh": "她有一个漂亮的笑容。"
+        },
+        {
+          "en": "It's a beautiful day today.",
+          "zh": "今天是个漂亮的日子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Appearance", "Description"],
+      "category": "性格特征",
+      "related_words": ["pretty", "handsome", "lovely"],
+      "phrases": [
+        {
+          "phrase": "beautiful view",
+          "translation": "美丽的景色",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "brave": {
+      "word": "brave",
+      "translation": "勇敢的",
+      "phonetic": "breɪv",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He is a brave firefighter.",
+          "zh": "他是一个勇敢的消防员。"
+        },
+        {
+          "en": "It was brave of you to speak up.",
+          "zh": "你敢于发言是很勇敢的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Character"],
+      "category": "性格特征",
+      "related_words": ["courageous", "fearless", "bold"],
+      "phrases": [
+        {
+          "phrase": "be brave enough",
+          "translation": "足够勇敢",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "careful": {
+      "word": "careful",
+      "translation": "小心的",
+      "phonetic": "ˈkeəfl",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Be careful when you cross the road.",
+          "zh": "过马路时要小心。"
+        },
+        {
+          "en": "She is very careful with her work.",
+          "zh": "她做事很细心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Behavior"],
+      "category": "性格特征",
+      "related_words": ["cautious", "attentive", "prudent"],
+      "phrases": [
+        {
+          "phrase": "be careful with",
+          "translation": "小心对待",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "clever": {
+      "word": "clever",
+      "translation": "聪明的",
+      "phonetic": "ˈklevə(r)",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is a clever student.",
+          "zh": "她是一个聪明的学生。"
+        },
+        {
+          "en": "That was a clever solution to the problem.",
+          "zh": "那是个聪明的解决方案。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Intelligence"],
+      "category": "性格特征",
+      "related_words": ["smart", "intelligent", "bright"],
+      "phrases": [
+        {
+          "phrase": "clever idea",
+          "translation": "聪明的主意",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "friendly": {
+      "word": "friendly",
+      "translation": "友好的",
+      "phonetic": "ˈfrendli",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is very friendly to everyone.",
+          "zh": "她对每个人都很友好。"
+        },
+        {
+          "en": "Our new neighbors are friendly people.",
+          "zh": "我们的新邻居很友好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Social"],
+      "category": "性格特征",
+      "related_words": ["kind", "nice", "welcoming"],
+      "phrases": [
+        {
+          "phrase": "user-friendly",
+          "translation": "用户友好的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "honest": {
+      "word": "honest",
+      "translation": "诚实的",
+      "phonetic": "ˈɒnɪst",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He is always honest with his friends.",
+          "zh": "他对朋友总是很诚实。"
+        },
+        {
+          "en": "To be honest, I don't like this movie.",
+          "zh": "说实话，我不喜欢这部电影。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Character"],
+      "category": "性格特征",
+      "related_words": ["truthful", "sincere", "trustworthy"],
+      "phrases": [
+        {
+          "phrase": "to be honest",
+          "translation": "说实话",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "kind": {
+      "word": "kind",
+      "translation": "善良的",
+      "phonetic": "kaɪnd",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is a very kind person.",
+          "zh": "她是一个很善良的人。"
+        },
+        {
+          "en": "It was kind of you to help.",
+          "zh": "你帮忙真是太好了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Character"],
+      "category": "性格特征",
+      "related_words": ["nice", "gentle", "caring"],
+      "phrases": [
+        {
+          "phrase": "be kind to",
+          "translation": "善待",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "lazy": {
+      "word": "lazy",
+      "translation": "懒惰的",
+      "phonetic": "ˈleɪzi",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Don't be so lazy, do your homework.",
+          "zh": "别这么懒，做你的作业。"
+        },
+        {
+          "en": "He is too lazy to exercise.",
+          "zh": "他太懒了不愿意锻炼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Negative Traits"],
+      "category": "性格特征",
+      "related_words": ["idle", "inactive", "sluggish"],
+      "phrases": [
+        {
+          "phrase": "lazy day",
+          "translation": "悠闲的一天",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "quiet": {
+      "word": "quiet",
+      "translation": "安静的",
+      "phonetic": "ˈkwaɪət",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is a quiet person.",
+          "zh": "她是个安静的人。"
+        },
+        {
+          "en": "Please keep quiet in the library.",
+          "zh": "请在图书馆保持安静。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Behavior"],
+      "category": "性格特征",
+      "related_words": ["silent", "peaceful", "calm"],
+      "phrases": [
+        {
+          "phrase": "keep quiet",
+          "translation": "保持安静",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "serious": {
+      "word": "serious",
+      "translation": "严肃的",
+      "phonetic": "ˈsɪəriəs",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He is always serious about his work.",
+          "zh": "他对工作总是很严肃。"
+        },
+        {
+          "en": "This is a serious matter.",
+          "zh": "这是一件严肃的事情。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Attitude"],
+      "category": "性格特征",
+      "related_words": ["solemn", "grave", "earnest"],
+      "phrases": [
+        {
+          "phrase": "take seriously",
+          "translation": "认真对待",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "shy": {
+      "word": "shy",
+      "translation": "害羞的",
+      "phonetic": "ʃaɪ",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She is too shy to speak in public.",
+          "zh": "她太害羞了不敢在公共场合说话。"
+        },
+        {
+          "en": "Don't be shy, come and join us.",
+          "zh": "别害羞，来加入我们吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Social"],
+      "category": "性格特征",
+      "related_words": ["timid", "bashful", "reserved"],
+      "phrases": [
+        {
+          "phrase": "feel shy",
+          "translation": "感到害羞",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "confident": {
+      "word": "confident",
+      "translation": "自信的",
+      "phonetic": "ˈkɒnfɪdənt",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She is confident about her abilities.",
+          "zh": "她对自己的能力很自信。"
+        },
+        {
+          "en": "You need to be more confident.",
+          "zh": "你需要更自信一些。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personality", "Attitude"],
+      "category": "性格特征",
+      "related_words": ["self-assured", "positive", "certain"],
+      "phrases": [
+        {
+          "phrase": "feel confident",
+          "translation": "感到自信",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "patient": {
+      "word": "patient",
+      "translation": "耐心的",
+      "phonetic": "ˈpeɪʃnt",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She is very patient with children.",
+          "zh": "她对孩子们很有耐心。"
+        },
+        {
+          "en": "You need to be patient when learning a new language.",
+          "zh": "学习新语言时你需要有耐心。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personality", "Character"],
+      "category": "性格特征",
+      "related_words": ["tolerant", "understanding", "calm"],
+      "phrases": [
+        {
+          "phrase": "be patient with",
+          "translation": "对...有耐心",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "active": {
+      "word": "active",
+      "translation": "活跃的",
+      "phonetic": "ˈæktɪv",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He is very active in school activities.",
+          "zh": "他在学校活动中很活跃。"
+        },
+        {
+          "en": "She leads an active lifestyle.",
+          "zh": "她过着积极活跃的生活。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Lifestyle"],
+      "category": "性格特征",
+      "related_words": ["energetic", "dynamic", "lively"],
+      "phrases": [
+        {
+          "phrase": "stay active",
+          "translation": "保持活跃",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hard-working": {
+      "word": "hard-working",
+      "translation": "勤奋的",
+      "phonetic": "ˌhɑːd ˈwɜːkɪŋ",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is a hard-working student.",
+          "zh": "她是一个勤奋的学生。"
+        },
+        {
+          "en": "Hard-working people usually succeed.",
+          "zh": "勤奋的人通常会成功。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personality", "Work Ethic"],
+      "category": "性格特征",
+      "related_words": ["diligent", "industrious", "dedicated"],
+      "phrases": [
+        {
+          "phrase": "hard-working person",
+          "translation": "勤奋的人",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

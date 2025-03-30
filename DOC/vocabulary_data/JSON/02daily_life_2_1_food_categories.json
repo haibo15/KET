@@ -1,0 +1,707 @@
+{
+  "metadata": {
+    "category": "Food Categories",
+    "category_cn": "食物类别",
+    "word_count": 21,
+    "difficulty_distribution": {
+      "A": 95,
+      "B": 5,
+      "C": 0
+    }
+  },
+  "words": {
+    "apple": {
+      "word": "apple",
+      "translation": "苹果",
+      "phonetic": "ˈæpl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I eat an apple every day.",
+          "zh": "我每天吃一个苹果。"
+        },
+        {
+          "en": "These red apples look delicious.",
+          "zh": "这些红苹果看起来很美味。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Fruit"],
+      "category": "食物类别",
+      "related_words": ["fruit", "banana", "orange"],
+      "phrases": [
+        {
+          "phrase": "apple juice",
+          "translation": "苹果汁",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "apple pie",
+          "translation": "苹果派",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "banana": {
+      "word": "banana",
+      "translation": "香蕉",
+      "phonetic": "bəˈnɑːnə",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Monkeys love bananas.",
+          "zh": "猴子喜欢香蕉。"
+        },
+        {
+          "en": "I had a banana for breakfast.",
+          "zh": "我早餐吃了一根香蕉。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Fruit"],
+      "category": "食物类别",
+      "related_words": ["fruit", "apple", "orange"],
+      "phrases": [
+        {
+          "phrase": "banana milk",
+          "translation": "香蕉奶",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "banana split",
+          "translation": "香蕉船（一种甜点）",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "bread": {
+      "word": "bread",
+      "translation": "面包",
+      "phonetic": "bred",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I bought fresh bread from the bakery.",
+          "zh": "我从面包店买了新鲜面包。"
+        },
+        {
+          "en": "Would you like some bread with your soup?",
+          "zh": "你想要配些面包和汤吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Staple Food"],
+      "category": "食物类别",
+      "related_words": ["food", "sandwich", "cake"],
+      "phrases": [
+        {
+          "phrase": "bread and butter",
+          "translation": "黄油面包",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "slice of bread",
+          "translation": "一片面包",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cake": {
+      "word": "cake",
+      "translation": "蛋糕",
+      "phonetic": "keɪk",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She baked a birthday cake.",
+          "zh": "她烤了一个生日蛋糕。"
+        },
+        {
+          "en": "Would you like a piece of cake?",
+          "zh": "你想要一块蛋糕吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Dessert"],
+      "category": "食物类别",
+      "related_words": ["dessert", "bread", "ice cream"],
+      "phrases": [
+        {
+          "phrase": "birthday cake",
+          "translation": "生日蛋糕",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "piece of cake",
+          "translation": "小菜一碟（简单的事）",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "cheese": {
+      "word": "cheese",
+      "translation": "奶酪",
+      "phonetic": "tʃiːz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I like cheese on my sandwich.",
+          "zh": "我喜欢在三明治里加奶酪。"
+        },
+        {
+          "en": "This pizza has a lot of cheese.",
+          "zh": "这个披萨有很多奶酪。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Dairy"],
+      "category": "食物类别",
+      "related_words": ["milk", "dairy", "sandwich"],
+      "phrases": [
+        {
+          "phrase": "cheese sandwich",
+          "translation": "奶酪三明治",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "cream cheese",
+          "translation": "奶油奶酪",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "chicken": {
+      "word": "chicken",
+      "translation": "鸡肉",
+      "phonetic": "ˈtʃɪkɪn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We're having chicken for dinner.",
+          "zh": "我们晚餐吃鸡肉。"
+        },
+        {
+          "en": "This chicken soup is delicious.",
+          "zh": "这个鸡汤很美味。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Meat"],
+      "category": "食物类别",
+      "related_words": ["meat", "food", "fish"],
+      "phrases": [
+        {
+          "phrase": "chicken soup",
+          "translation": "鸡汤",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fried chicken",
+          "translation": "炸鸡",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "coffee": {
+      "word": "coffee",
+      "translation": "咖啡",
+      "phonetic": "ˈkɒfi",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I drink coffee every morning.",
+          "zh": "我每天早上喝咖啡。"
+        },
+        {
+          "en": "Would you like some coffee?",
+          "zh": "你想喝点咖啡吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Beverage"],
+      "category": "食物类别",
+      "related_words": ["tea", "drink", "milk"],
+      "phrases": [
+        {
+          "phrase": "black coffee",
+          "translation": "黑咖啡",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "coffee shop",
+          "translation": "咖啡店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "egg": {
+      "word": "egg",
+      "translation": "鸡蛋",
+      "phonetic": "eɡ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like my eggs scrambled.",
+          "zh": "我喜欢吃炒蛋。"
+        },
+        {
+          "en": "She boiled an egg for breakfast.",
+          "zh": "她煮了一个鸡蛋当早餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["breakfast", "food", "chicken"],
+      "phrases": [
+        {
+          "phrase": "boiled egg",
+          "translation": "煮鸡蛋",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fried egg",
+          "translation": "煎蛋",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "fish": {
+      "word": "fish",
+      "translation": "鱼",
+      "phonetic": "fɪʃ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I love eating fish.",
+          "zh": "我喜欢吃鱼。"
+        },
+        {
+          "en": "This fish is very fresh.",
+          "zh": "这条鱼很新鲜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Meat"],
+      "category": "食物类别",
+      "related_words": ["meat", "food", "chicken"],
+      "phrases": [
+        {
+          "phrase": "fish and chips",
+          "translation": "炸鱼薯条",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fresh fish",
+          "translation": "新鲜的鱼",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "food": {
+      "word": "food",
+      "translation": "食物",
+      "phonetic": "fuːd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The food in this restaurant is excellent.",
+          "zh": "这家餐厅的食物很棒。"
+        },
+        {
+          "en": "Don't waste food.",
+          "zh": "不要浪费食物。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["meal", "eat", "drink"],
+      "phrases": [
+        {
+          "phrase": "fast food",
+          "translation": "快餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "food and drink",
+          "translation": "饮食",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "fruit": {
+      "word": "fruit",
+      "translation": "水果",
+      "phonetic": "fruːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Eat more fruit and vegetables.",
+          "zh": "多吃水果和蔬菜。"
+        },
+        {
+          "en": "This is my favorite fruit.",
+          "zh": "这是我最喜欢的水果。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["apple", "banana", "orange"],
+      "phrases": [
+        {
+          "phrase": "fresh fruit",
+          "translation": "新鲜水果",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fruit juice",
+          "translation": "果汁",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "ice cream": {
+      "word": "ice cream",
+      "translation": "冰淇淋",
+      "phonetic": "ˌaɪs ˈkriːm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Children love ice cream.",
+          "zh": "孩子们喜欢冰淇淋。"
+        },
+        {
+          "en": "Would you like some ice cream for dessert?",
+          "zh": "你想要些冰淇淋当甜点吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Dessert"],
+      "category": "食物类别",
+      "related_words": ["dessert", "sweet", "cake"],
+      "phrases": [
+        {
+          "phrase": "chocolate ice cream",
+          "translation": "巧克力冰淇淋",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "ice cream cone",
+          "translation": "冰淇淋甜筒",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "meat": {
+      "word": "meat",
+      "translation": "肉",
+      "phonetic": "miːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I don't eat meat.",
+          "zh": "我不吃肉。"
+        },
+        {
+          "en": "This meat is well cooked.",
+          "zh": "这肉煮得很好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["chicken", "fish", "food"],
+      "phrases": [
+        {
+          "phrase": "red meat",
+          "translation": "红肉",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "meat and vegetables",
+          "translation": "肉和蔬菜",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "milk": {
+      "word": "milk",
+      "translation": "牛奶",
+      "phonetic": "mɪlk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I drink milk every morning.",
+          "zh": "我每天早上喝牛奶。"
+        },
+        {
+          "en": "Do you take milk in your coffee?",
+          "zh": "你的咖啡要加牛奶吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Beverage"],
+      "category": "食物类别",
+      "related_words": ["drink", "coffee", "tea"],
+      "phrases": [
+        {
+          "phrase": "fresh milk",
+          "translation": "鲜奶",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "milk tea",
+          "translation": "奶茶",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "orange": {
+      "word": "orange",
+      "translation": "橙子",
+      "phonetic": "ˈɒrɪndʒ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I eat an orange every day.",
+          "zh": "我每天吃一个橙子。"
+        },
+        {
+          "en": "Would you like some orange juice?",
+          "zh": "你想喝点橙汁吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Fruit"],
+      "category": "食物类别",
+      "related_words": ["fruit", "apple", "banana"],
+      "phrases": [
+        {
+          "phrase": "orange juice",
+          "translation": "橙汁",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "orange tree",
+          "translation": "橙树",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "rice": {
+      "word": "rice",
+      "translation": "米饭",
+      "phonetic": "raɪs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We eat rice every day.",
+          "zh": "我们每天吃米饭。"
+        },
+        {
+          "en": "Would you like some more rice?",
+          "zh": "你想再来些米饭吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Staple Food"],
+      "category": "食物类别",
+      "related_words": ["food", "bread", "noodles"],
+      "phrases": [
+        {
+          "phrase": "fried rice",
+          "translation": "炒饭",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "rice bowl",
+          "translation": "饭碗",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sandwich": {
+      "word": "sandwich",
+      "translation": "三明治",
+      "phonetic": "ˈsænwɪtʃ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I made a cheese sandwich for lunch.",
+          "zh": "我做了个奶酪三明治当午餐。"
+        },
+        {
+          "en": "Would you like a sandwich?",
+          "zh": "你想要个三明治吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["bread", "cheese", "food"],
+      "phrases": [
+        {
+          "phrase": "ham sandwich",
+          "translation": "火腿三明治",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "sandwich shop",
+          "translation": "三明治店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sugar": {
+      "word": "sugar",
+      "translation": "糖",
+      "phonetic": "ˈʃʊɡə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "How many spoons of sugar do you want in your coffee?",
+          "zh": "你的咖啡要加几勺糖？"
+        },
+        {
+          "en": "This cake has too much sugar.",
+          "zh": "这个蛋糕太甜了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["sweet", "coffee", "tea"],
+      "phrases": [
+        {
+          "phrase": "sugar free",
+          "translation": "无糖的",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "brown sugar",
+          "translation": "红糖",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "tea": {
+      "word": "tea",
+      "translation": "茶",
+      "phonetic": "tiː",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Would you like a cup of tea?",
+          "zh": "你想喝杯茶吗？"
+        },
+        {
+          "en": "I prefer tea to coffee.",
+          "zh": "我更喜欢茶而不是咖啡。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Beverage"],
+      "category": "食物类别",
+      "related_words": ["drink", "coffee", "milk"],
+      "phrases": [
+        {
+          "phrase": "green tea",
+          "translation": "绿茶",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "tea bag",
+          "translation": "茶包",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "vegetable": {
+      "word": "vegetable",
+      "translation": "蔬菜",
+      "phonetic": "ˈvedʒtəbl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Eat more vegetables.",
+          "zh": "多吃蔬菜。"
+        },
+        {
+          "en": "These vegetables are fresh.",
+          "zh": "这些蔬菜很新鲜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food"],
+      "category": "食物类别",
+      "related_words": ["food", "fruit", "healthy"],
+      "phrases": [
+        {
+          "phrase": "fresh vegetables",
+          "translation": "新鲜蔬菜",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "vegetable soup",
+          "translation": "蔬菜汤",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "water": {
+      "word": "water",
+      "translation": "水",
+      "phonetic": "ˈwɔːtə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Drink plenty of water.",
+          "zh": "多喝水。"
+        },
+        {
+          "en": "Would you like a glass of water?",
+          "zh": "你想要一杯水吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Beverage"],
+      "category": "食物类别",
+      "related_words": ["drink", "tea", "coffee"],
+      "phrases": [
+        {
+          "phrase": "drinking water",
+          "translation": "饮用水",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "bottle of water",
+          "translation": "一瓶水",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

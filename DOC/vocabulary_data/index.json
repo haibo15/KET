@@ -18,14 +18,16 @@
     },
     "Daily Life": {
       "file": "daily_life.json",
-      "word_count": 0,
+      "word_count": 300,
       "target_count": 300,
       "categories": [
         "日常活动",
         "饮食",
         "衣着",
         "住宿",
-        "天气和时间"
+        "天气和时间",
+        "日常用品",
+        "交通出行"
       ]
     },
     "Education": {

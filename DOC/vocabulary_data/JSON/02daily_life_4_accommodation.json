@@ -1,0 +1,641 @@
+{
+  "metadata": {
+    "category": "Accommodation",
+    "category_cn": "住宿",
+    "word_count": 20,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 25,
+      "C": 0
+    }
+  },
+  "words": {
+    "apartment": {
+      "word": "apartment",
+      "translation": "公寓",
+      "phonetic": "əˈpɑːtmənt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They live in a small apartment in the city.",
+          "zh": "他们住在城市里的一个小公寓里。"
+        },
+        {
+          "en": "The apartment has two bedrooms.",
+          "zh": "这个公寓有两间卧室。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Housing", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["flat", "suite", "home"],
+      "phrases": [
+        {
+          "phrase": "flat",
+          "translation": "公寓",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "suite",
+          "translation": "套房",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "home": {
+      "word": "home",
+      "translation": "家",
+      "phonetic": "həʊm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm going home now.",
+          "zh": "我现在要回家了。"
+        },
+        {
+          "en": "There's no place like home.",
+          "zh": "没有任何地方比得上家。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Housing", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["residence", "dwelling", "house"],
+      "phrases": [
+        {
+          "phrase": "residence",
+          "translation": "住所",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "dwelling",
+          "translation": "住处",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "house": {
+      "word": "house",
+      "translation": "房子",
+      "phonetic": "haʊs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "They bought a new house last year.",
+          "zh": "他们去年买了一座新房子。"
+        },
+        {
+          "en": "This house is too big for one person.",
+          "zh": "这房子对一个人来说太大了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Housing", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["building", "property", "home"],
+      "phrases": [
+        {
+          "phrase": "building",
+          "translation": "建筑物",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "property",
+          "translation": "房产",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "room": {
+      "word": "room",
+      "translation": "房间",
+      "phonetic": "ruːm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My room is on the second floor.",
+          "zh": "我的房间在二楼。"
+        },
+        {
+          "en": "This room is very bright.",
+          "zh": "这个房间很明亮。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Housing", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["chamber", "quarters", "space"],
+      "phrases": [
+        {
+          "phrase": "chamber",
+          "translation": "房间",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "quarters",
+          "translation": "住处",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "bed": {
+      "word": "bed",
+      "translation": "床",
+      "phonetic": "bed",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I go to bed at 10 PM.",
+          "zh": "我晚上10点上床睡觉。"
+        },
+        {
+          "en": "The bed is very comfortable.",
+          "zh": "这张床很舒服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Furniture", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["mattress", "bunk bed", "bedroom"],
+      "phrases": [
+        {
+          "phrase": "mattress",
+          "translation": "床垫",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "bunk bed",
+          "translation": "上下铺",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "chair": {
+      "word": "chair",
+      "translation": "椅子",
+      "phonetic": "tʃeə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please sit on this chair.",
+          "zh": "请坐在这把椅子上。"
+        },
+        {
+          "en": "The chair is broken.",
+          "zh": "这把椅子坏了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Furniture", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["seat", "stool", "furniture"],
+      "phrases": [
+        {
+          "phrase": "seat",
+          "translation": "座位",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "stool",
+          "translation": "凳子",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "door": {
+      "word": "door",
+      "translation": "门",
+      "phonetic": "dɔː(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please close the door.",
+          "zh": "请关门。"
+        },
+        {
+          "en": "Someone is knocking at the door.",
+          "zh": "有人在敲门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Furniture", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["gate", "entrance", "doorway"],
+      "phrases": [
+        {
+          "phrase": "gate",
+          "translation": "大门",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "entrance",
+          "translation": "入口",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "floor": {
+      "word": "floor",
+      "translation": "地板",
+      "phonetic": "flɔː(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The floor needs cleaning.",
+          "zh": "地板需要清洁。"
+        },
+        {
+          "en": "Don't sit on the floor.",
+          "zh": "不要坐在地板上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Furniture", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["ground", "carpet", "surface"],
+      "phrases": [
+        {
+          "phrase": "ground",
+          "translation": "地面",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "carpet",
+          "translation": "地毯",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "garden": {
+      "word": "garden",
+      "translation": "花园",
+      "phonetic": "ˈɡɑːdn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She loves working in the garden.",
+          "zh": "她喜欢在花园里干活。"
+        },
+        {
+          "en": "The garden is full of flowers.",
+          "zh": "花园里开满了花。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Outdoor", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["yard", "lawn", "plants"],
+      "phrases": [
+        {
+          "phrase": "yard",
+          "translation": "院子",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "lawn",
+          "translation": "草坪",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "key": {
+      "word": "key",
+      "translation": "钥匙",
+      "phonetic": "kiː",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I lost my house key.",
+          "zh": "我丢了我的房门钥匙。"
+        },
+        {
+          "en": "Do you have a spare key?",
+          "zh": "你有备用钥匙吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Household Items", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["lock", "keychain", "door"],
+      "phrases": [
+        {
+          "phrase": "lock",
+          "translation": "锁",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "keychain",
+          "translation": "钥匙链",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "light": {
+      "word": "light",
+      "translation": "灯",
+      "phonetic": "laɪt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Turn on the light, please.",
+          "zh": "请开灯。"
+        },
+        {
+          "en": "The light is too bright.",
+          "zh": "这灯太亮了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Household Items", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["lamp", "lighting", "bulb"],
+      "phrases": [
+        {
+          "phrase": "lamp",
+          "translation": "台灯",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "lighting",
+          "translation": "照明",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "table": {
+      "word": "table",
+      "translation": "桌子",
+      "phonetic": "ˈteɪbl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Put the books on the table.",
+          "zh": "把书放在桌子上。"
+        },
+        {
+          "en": "We eat at this table.",
+          "zh": "我们在这张桌子上吃饭。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Furniture", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["desk", "counter", "furniture"],
+      "phrases": [
+        {
+          "phrase": "desk",
+          "translation": "书桌",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "counter",
+          "translation": "柜台",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "wall": {
+      "word": "wall",
+      "translation": "墙",
+      "phonetic": "wɔːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The walls need painting.",
+          "zh": "这些墙需要粉刷。"
+        },
+        {
+          "en": "Don't lean against the wall.",
+          "zh": "不要靠在墙上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Building", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["partition", "barrier", "structure"],
+      "phrases": [
+        {
+          "phrase": "partition",
+          "translation": "隔墙",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "barrier",
+          "translation": "障碍物",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "window": {
+      "word": "window",
+      "translation": "窗户",
+      "phonetic": "ˈwɪndəʊ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Open the window, please.",
+          "zh": "请打开窗户。"
+        },
+        {
+          "en": "The window is broken.",
+          "zh": "窗户坏了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Building", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["windowpane", "curtain", "glass"],
+      "phrases": [
+        {
+          "phrase": "windowpane",
+          "translation": "窗玻璃",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "curtain",
+          "translation": "窗帘",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bathroom": {
+      "word": "bathroom",
+      "translation": "浴室",
+      "phonetic": "ˈbɑːθruːm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Where is the bathroom?",
+          "zh": "浴室在哪里？"
+        },
+        {
+          "en": "The bathroom is upstairs.",
+          "zh": "浴室在楼上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Rooms", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["toilet", "washroom", "shower"],
+      "phrases": [
+        {
+          "phrase": "toilet",
+          "translation": "厕所",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "washroom",
+          "translation": "洗手间",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "bedroom": {
+      "word": "bedroom",
+      "translation": "卧室",
+      "phonetic": "ˈbedruːm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My bedroom is small but cozy.",
+          "zh": "我的卧室虽小但很舒适。"
+        },
+        {
+          "en": "The bedroom has two windows.",
+          "zh": "卧室有两个窗户。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Rooms", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["sleeping room", "dormitory", "bed"],
+      "phrases": [
+        {
+          "phrase": "sleeping room",
+          "translation": "睡房",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "dormitory",
+          "translation": "宿舍",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "kitchen": {
+      "word": "kitchen",
+      "translation": "厨房",
+      "phonetic": "ˈkɪtʃɪn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is cooking in the kitchen.",
+          "zh": "她在厨房做饭。"
+        },
+        {
+          "en": "The kitchen is very modern.",
+          "zh": "这个厨房很现代。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Rooms", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["cooking area", "pantry", "stove"],
+      "phrases": [
+        {
+          "phrase": "cooking area",
+          "translation": "烹饪区",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "pantry",
+          "translation": "食品储藏室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "living room": {
+      "word": "living room",
+      "translation": "客厅",
+      "phonetic": "ˈlɪvɪŋ ruːm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We watch TV in the living room.",
+          "zh": "我们在客厅看电视。"
+        },
+        {
+          "en": "The living room is the largest room in the house.",
+          "zh": "客厅是房子里最大的房间。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Rooms", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["lounge", "sitting room", "family room"],
+      "phrases": [
+        {
+          "phrase": "lounge",
+          "translation": "休息室",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "sitting room",
+          "translation": "起居室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "toilet": {
+      "word": "toilet",
+      "translation": "厕所",
+      "phonetic": "ˈtɔɪlət",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Where is the toilet?",
+          "zh": "厕所在哪里？"
+        },
+        {
+          "en": "The toilet is out of order.",
+          "zh": "厕所坏了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Rooms", "Accommodation"],
+      "category": "住宿",
+      "related_words": ["restroom", "WC", "bathroom"],
+      "phrases": [
+        {
+          "phrase": "restroom",
+          "translation": "洗手间",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "WC",
+          "translation": "厕所",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

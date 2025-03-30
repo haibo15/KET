@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "category": "Work Experience and Personal Habits",
+    "category_cn": "工作经历和个人习惯",
+    "word_count": 20,
+    "difficulty_distribution": {
+      "A": 65,
+      "B": 35,
+      "C": 0
+    }
+  },
+  "words": {
+    "experience": {
+      "word": "experience",
+      "translation": "经验",
+      "phonetic": "ɪkˈspɪəriəns",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Do you have any work experience?",
+          "zh": "你有工作经验吗？"
+        },
+        {
+          "en": "She has five years of teaching experience.",
+          "zh": "她有五年的教学经验。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Work"],
+      "category": "工作经历",
+      "related_words": ["skill", "ability", "knowledge"],
+      "phrases": [
+        {
+          "phrase": "work experience",
+          "translation": "工作经验",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "years of experience",
+          "translation": "多年经验",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "employment": {
+      "word": "employment",
+      "translation": "就业",
+      "phonetic": "ɪmˈplɔɪmənt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He is looking for employment.",
+          "zh": "他在找工作。"
+        },
+        {
+          "en": "Full-time employment is available.",
+          "zh": "提供全职工作。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Work"],
+      "category": "工作经历",
+      "related_words": ["job", "work", "career"],
+      "phrases": [
+        {
+          "phrase": "full-time employment",
+          "translation": "全职工作",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "employment opportunity",
+          "translation": "就业机会",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "salary": {
+      "word": "salary",
+      "translation": "薪水",
+      "phonetic": "ˈsæləri",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "What is your current salary?",
+          "zh": "你目前的薪水是多少？"
+        },
+        {
+          "en": "The job offers a good salary.",
+          "zh": "这份工作提供优厚的薪水。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information", "Work"],
+      "category": "工作经历",
+      "related_words": ["wage", "income", "pay"],
+      "phrases": [
+        {
+          "phrase": "monthly salary",
+          "translation": "月薪",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "salary increase",
+          "translation": "加薪",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "interview": {
+      "word": "interview",
+      "translation": "面试",
+      "phonetic": "ˈɪntəvjuː",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have a job interview tomorrow.",
+          "zh": "我明天有一个工作面试。"
+        },
+        {
+          "en": "They will interview ten candidates.",
+          "zh": "他们将面试十名候选人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Work"],
+      "category": "工作经历",
+      "related_words": ["application", "resume", "job"],
+      "phrases": [
+        {
+          "phrase": "job interview",
+          "translation": "工作面试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "interview questions",
+          "translation": "面试问题",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "habit": {
+      "word": "habit",
+      "translation": "习惯",
+      "phonetic": "ˈhæbɪt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Reading is a good habit.",
+          "zh": "读书是个好习惯。"
+        },
+        {
+          "en": "It's hard to break bad habits.",
+          "zh": "改掉坏习惯很难。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Lifestyle"],
+      "category": "个人习惯",
+      "related_words": ["routine", "custom", "practice"],
+      "phrases": [
+        {
+          "phrase": "good habit",
+          "translation": "好习惯",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "bad habit",
+          "translation": "坏习惯",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "schedule": {
+      "word": "schedule",
+      "translation": "日程",
+      "phonetic": "ˈʃedjuːl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your daily schedule?",
+          "zh": "你的日常安排是什么？"
+        },
+        {
+          "en": "I have a busy schedule today.",
+          "zh": "我今天的日程很忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Time"],
+      "category": "个人习惯",
+      "related_words": ["timetable", "plan", "routine"],
+      "phrases": [
+        {
+          "phrase": "daily schedule",
+          "translation": "日常安排",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "busy schedule",
+          "translation": "繁忙的日程",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "time": {
+      "word": "time",
+      "translation": "时间",
+      "phonetic": "taɪm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What time is it?",
+          "zh": "现在几点了？"
+        },
+        {
+          "en": "I don't have much time.",
+          "zh": "我没有太多时间。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Time"],
+      "category": "个人习惯",
+      "related_words": ["hour", "minute", "schedule"],
+      "phrases": [
+        {
+          "phrase": "on time",
+          "translation": "准时",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "free time",
+          "translation": "空闲时间",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sleep": {
+      "word": "sleep",
+      "translation": "睡觉；睡眠",
+      "phonetic": "sliːp",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I usually sleep eight hours.",
+          "zh": "我通常睡八个小时。"
+        },
+        {
+          "en": "What time do you go to sleep?",
+          "zh": "你什么时候睡觉？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Daily Life"],
+      "category": "个人习惯",
+      "related_words": ["rest", "bed", "nap"],
+      "phrases": [
+        {
+          "phrase": "go to sleep",
+          "translation": "去睡觉",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "sleep well",
+          "translation": "睡得好",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "eat": {
+      "word": "eat",
+      "translation": "吃",
+      "phonetic": "iːt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I eat breakfast at 7:00.",
+          "zh": "我7点吃早餐。"
+        },
+        {
+          "en": "What do you like to eat?",
+          "zh": "你喜欢吃什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information", "Food"],
+      "category": "个人习惯",
+      "related_words": ["food", "meal", "drink"],
+      "phrases": [
+        {
+          "phrase": "eat out",
+          "translation": "外出就餐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "eat healthy",
+          "translation": "健康饮食",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 
