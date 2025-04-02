@@ -1,7 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from .core.config import settings
-from .db.mongodb import connect_to_mongo, close_mongo_connection
+from .core.database import connect_to_mongo, close_mongo_connection
+from .api.v1.api import api_router
 
 app = FastAPI(
     title=settings.PROJECT_NAME,
@@ -18,6 +19,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# 添加API路由
+app.include_router(api_router, prefix=settings.API_V1_STR)
+
 # 数据库连接事件
 @app.on_event("startup")
 async def startup_db_client():
@@ -30,4 +34,9 @@ async def shutdown_db_client():
 # 根路由
 @app.get("/")
 async def root():
-    return {"message": "欢迎使用KET考试备考系统"}
+    return {
+        "message": "欢迎使用KET考试备考系统",
+        "version": settings.VERSION,
+        "docs_url": f"/docs",
+        "api_url": settings.API_V1_STR
+    }
