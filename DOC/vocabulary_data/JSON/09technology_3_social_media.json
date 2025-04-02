@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "category": "Social Media",
+    "category_cn": "社交媒体",
+    "word_count": 12,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "app": {
+      "word": "app",
+      "translation": "应用程序",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You can download the app from the app store.",
+          "zh": "你可以从应用商店下载这个应用程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Technology"],
+      "category": "社交媒体",
+      "related_words": ["application", "program"],
+      "phrases": []
+    },
+    "blog": {
+      "word": "blog",
+      "translation": "博客",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She writes a blog about her travel experiences.",
+          "zh": "她写一个关于旅行经历的博客。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Internet"],
+      "category": "社交媒体",
+      "related_words": ["weblog", "online journal"],
+      "phrases": []
+    },
+    "social_media": {
+      "word": "social media",
+      "translation": "社交媒体",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Many businesses use social media for marketing.",
+          "zh": "许多企业使用社交媒体进行营销。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Internet"],
+      "category": "社交媒体",
+      "related_words": ["social network", "social platform"],
+      "phrases": []
+    },
+    "follow": {
+      "word": "follow",
+      "translation": "关注",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You can follow our page for daily updates.",
+          "zh": "你可以关注我们的页面获取每日更新。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Actions"],
+      "category": "社交媒体",
+      "related_words": ["subscribe", "track"],
+      "phrases": []
+    },
+    "like": {
+      "word": "like",
+      "translation": "点赞",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "If you enjoy the content, please like and share.",
+          "zh": "如果你喜欢这个内容，请点赞和分享。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Actions"],
+      "category": "社交媒体",
+      "related_words": ["thumbs up", "approve"],
+      "phrases": []
+    },
+    "share": {
+      "word": "share",
+      "translation": "分享",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She shared the interesting article with her friends.",
+          "zh": "她和朋友分享了这篇有趣的文章。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Actions"],
+      "category": "社交媒体",
+      "related_words": ["repost", "forward"],
+      "phrases": []
+    },
+    "post": {
+      "word": "post",
+      "translation": "发帖",
+      "phonetic": "",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She posted a new photo on her profile.",
+          "zh": "她在个人主页上发布了一张新照片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Actions"],
+      "category": "社交媒体",
+      "related_words": ["publish", "upload"],
+      "phrases": []
+    },
+    "comment": {
+      "word": "comment",
+      "translation": "评论",
+      "phonetic": "",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Leave a comment below the video.",
+          "zh": "在视频下方留下评论。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Actions"],
+      "category": "社交媒体",
+      "related_words": ["reply", "respond"],
+      "phrases": []
+    },
+    "profile": {
+      "word": "profile",
+      "translation": "个人资料",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Update your profile picture.",
+          "zh": "更新你的个人头像。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Platform"],
+      "category": "社交媒体",
+      "related_words": ["account", "page"],
+      "phrases": []
+    },
+    "tag": {
+      "word": "tag",
+      "translation": "标记",
+      "phonetic": "",
+      "part_of_speech": "v & n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Tag your friends in the photo.",
+          "zh": "在照片中标记你的朋友。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Actions"],
+      "category": "社交媒体",
+      "related_words": ["mark", "label"],
+      "phrases": []
+    },
+    "trending": {
+      "word": "trending",
+      "translation": "热门的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "This topic is trending on social media.",
+          "zh": "这个话题在社交媒体上很热门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Platform"],
+      "category": "社交媒体",
+      "related_words": ["popular", "viral"],
+      "phrases": []
+    },
+    "hashtag": {
+      "word": "hashtag",
+      "translation": "话题标签",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use relevant hashtags to reach more people.",
+          "zh": "使用相关的话题标签来接触更多人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Media", "Platform"],
+      "category": "社交媒体",
+      "related_words": ["tag", "label"],
+      "phrases": []
+    }
+  }
+} 

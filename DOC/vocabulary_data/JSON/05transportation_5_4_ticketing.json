@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "category": "Ticketing",
+    "category_cn": "票务预订",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "card": {
+      "word": "card",
+      "translation": "卡",
+      "phonetic": "kɑːd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Use your travel card on buses and trains.",
+          "zh": "在公交车和火车上使用你的交通卡。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["pass", "permit"],
+      "phrases": [
+        {
+          "phrase": "travel card",
+          "translation": "交通卡",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "fare": {
+      "word": "fare",
+      "translation": "票价",
+      "phonetic": "feə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Check the fare before buying tickets.",
+          "zh": "买票前查看票价。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["price", "cost"],
+      "phrases": [
+        {
+          "phrase": "bus fare",
+          "translation": "公交车票价",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pass": {
+      "word": "pass",
+      "translation": "通行证",
+      "phonetic": "pɑːs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Buy a weekly bus pass.",
+          "zh": "买一张周票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["permit", "authorization"],
+      "phrases": [
+        {
+          "phrase": "season pass",
+          "translation": "季票",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "return": {
+      "word": "return",
+      "translation": "往返票",
+      "phonetic": "rɪˈtɜːn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need a return ticket to London.",
+          "zh": "我需要一张去伦敦的往返票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["round trip", "two-way ticket"],
+      "phrases": [
+        {
+          "phrase": "return journey",
+          "translation": "回程",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "single": {
+      "word": "single",
+      "translation": "单程票",
+      "phonetic": "ˈsɪŋɡl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "A single ticket to Manchester, please.",
+          "zh": "请给我一张去曼彻斯特的单程票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["one-way ticket", "simple fare"],
+      "phrases": [
+        {
+          "phrase": "single journey",
+          "translation": "单程旅行",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "airport": {
+      "word": "airport",
+      "translation": "机场",
+      "phonetic": "ˈeəpɔːt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Arrive at the airport two hours early.",
+          "zh": "提前两小时到达机场。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["terminal", "aerodrome"],
+      "phrases": [
+        {
+          "phrase": "international airport",
+          "translation": "国际机场",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "booking_office": {
+      "word": "booking office",
+      "translation": "售票处",
+      "phonetic": "ˈbʊkɪŋ ˈɒfɪs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Get your tickets at the booking office.",
+          "zh": "在售票处买票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["ticket counter", "ticket window"],
+      "phrases": [
+        {
+          "phrase": "at the booking office",
+          "translation": "在售票处",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "station": {
+      "word": "station",
+      "translation": "车站",
+      "phonetic": "ˈsteɪʃn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Meet at the train station.",
+          "zh": "在火车站见面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["terminal", "stop"],
+      "phrases": [
+        {
+          "phrase": "bus station",
+          "translation": "公交车站",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "ticket": {
+      "word": "ticket",
+      "translation": "票",
+      "phonetic": "ˈtɪkɪt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to buy a train ticket.",
+          "zh": "我需要买一张火车票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["fare", "pass"],
+      "phrases": [
+        {
+          "phrase": "book a ticket",
+          "translation": "订票",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "ticket_office": {
+      "word": "ticket office",
+      "translation": "售票处",
+      "phonetic": "ˈtɪkɪt ˈɒfɪs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The ticket office opens at 8 AM.",
+          "zh": "售票处早上8点开门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["box office", "ticket booth"],
+      "phrases": [
+        {
+          "phrase": "at the ticket office",
+          "translation": "在售票处",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

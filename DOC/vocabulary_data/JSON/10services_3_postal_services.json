@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "category": "Postal Services",
+    "category_cn": "邮政服务",
+    "word_count": 14,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "letter": {
+      "word": "letter",
+      "translation": "信",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I received a letter from my friend abroad.",
+          "zh": "我收到了一封来自国外朋友的信。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["mail", "correspondence"],
+      "phrases": []
+    },
+    "package": {
+      "word": "package",
+      "translation": "包裹",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The package will be delivered tomorrow.",
+          "zh": "包裹明天会送到。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["parcel", "box"],
+      "phrases": []
+    },
+    "postcard": {
+      "word": "postcard",
+      "translation": "明信片",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She sent me a postcard from Paris.",
+          "zh": "她从巴黎给我寄了一张明信片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["card", "greeting card"],
+      "phrases": []
+    },
+    "stamp": {
+      "word": "stamp",
+      "translation": "邮票",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't forget to put a stamp on the envelope.",
+          "zh": "别忘了在信封上贴邮票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["postage stamp", "postal stamp"],
+      "phrases": []
+    },
+    "deliver": {
+      "word": "deliver",
+      "translation": "递送",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The mail carrier delivers letters every morning.",
+          "zh": "邮递员每天早上送信。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["send", "transport"],
+      "phrases": []
+    },
+    "post": {
+      "word": "post",
+      "translation": "寄送",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to post this letter today.",
+          "zh": "我今天需要寄这封信。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["mail", "ship"],
+      "phrases": []
+    },
+    "receive": {
+      "word": "receive",
+      "translation": "接收",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "When did you receive the package?",
+          "zh": "你什么时候收到包裹的？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["get", "collect"],
+      "phrases": []
+    },
+    "envelope": {
+      "word": "envelope",
+      "translation": "信封",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please put the letter in an envelope.",
+          "zh": "请把信放在信封里。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["letter", "mail"],
+      "phrases": []
+    },
+    "address": {
+      "word": "address",
+      "translation": "地址",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Write your address clearly on the envelope.",
+          "zh": "在信封上清楚地写上你的地址。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["location", "residence"],
+      "phrases": []
+    },
+    "mail": {
+      "word": "mail",
+      "translation": "邮件",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The mail arrives at 9 AM every day.",
+          "zh": "邮件每天早上9点到达。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["post", "letter"],
+      "phrases": []
+    },
+    "parcel": {
+      "word": "parcel",
+      "translation": "包裹",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to send this parcel to my sister.",
+          "zh": "我需要把这个包裹寄给我妹妹。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Items"],
+      "category": "邮政服务",
+      "related_words": ["package", "box"],
+      "phrases": []
+    },
+    "send": {
+      "word": "send",
+      "translation": "发送",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I will send you a postcard when I arrive.",
+          "zh": "我到达后会给你寄一张明信片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["post", "mail"],
+      "phrases": []
+    },
+    "collect": {
+      "word": "collect",
+      "translation": "收取",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You can collect your package from the post office.",
+          "zh": "你可以去邮局取你的包裹。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["receive", "pick up"],
+      "phrases": []
+    },
+    "sign": {
+      "word": "sign",
+      "translation": "签收",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please sign for the registered letter.",
+          "zh": "请签收这封挂号信。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["signature", "receipt"],
+      "phrases": []
+    },
+    "postman": {
+      "word": "postman",
+      "translation": "邮递员",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The postman delivers mail to our house every morning.",
+          "zh": "邮递员每天早上给我们家送邮件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Postal", "Personnel"],
+      "category": "邮政服务",
+      "related_words": ["mail carrier", "postal worker"],
+      "phrases": []
+    },
+    "postal_worker": {
+      "word": "postal worker",
+      "translation": "邮政工作人员",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The postal worker helped me fill out the form.",
+          "zh": "邮政工作人员帮我填写了表格。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Postal", "Personnel"],
+      "category": "邮政服务",
+      "related_words": ["postman", "mail carrier"],
+      "phrases": []
+    },
+    "express_mail": {
+      "word": "express mail",
+      "translation": "快递",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Send it by express mail if you want it to arrive quickly.",
+          "zh": "如果你想要快点到达，就用快递寄送。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Postal", "Service Types"],
+      "category": "邮政服务",
+      "related_words": ["express delivery", "fast mail"],
+      "phrases": []
+    },
+    "registered_mail": {
+      "word": "registered mail",
+      "translation": "挂号信",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Important documents should be sent by registered mail.",
+          "zh": "重要文件应该用挂号信寄送。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Postal", "Service Types"],
+      "category": "邮政服务",
+      "related_words": ["certified mail", "recorded delivery"],
+      "phrases": []
+    },
+    "track": {
+      "word": "track",
+      "translation": "跟踪",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You can track your package online.",
+          "zh": "你可以在网上跟踪你的包裹。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["trace", "follow"],
+      "phrases": []
+    },
+    "sort": {
+      "word": "sort",
+      "translation": "分拣",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Mail is sorted before being delivered.",
+          "zh": "邮件在投递前要进行分拣。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Postal", "Operations"],
+      "category": "邮政服务",
+      "related_words": ["classify", "organize"],
+      "phrases": []
+    }
+  }
+} 

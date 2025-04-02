@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "category": "Cultural Activities",
+    "category_cn": "文化活动",
+    "word_count": 13,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "actor": {
+      "word": "actor",
+      "translation": "演员",
+      "phonetic": "ˈæktə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He wants to become an actor.",
+          "zh": "他想成为一名演员。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["performer", "artist"],
+      "phrases": [
+        {
+          "phrase": "famous actor",
+          "translation": "著名演员",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "concert": {
+      "word": "concert",
+      "translation": "音乐会",
+      "phonetic": "ˈkɒnsət",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We attended a classical music concert.",
+          "zh": "我们参加了一场古典音乐会。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["performance", "show"],
+      "phrases": [
+        {
+          "phrase": "rock concert",
+          "translation": "摇滚音乐会",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "play": {
+      "word": "play",
+      "translation": "话剧",
+      "phonetic": "pleɪ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We saw a play at the theatre.",
+          "zh": "我们在剧院看了一场话剧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["drama", "theatre"],
+      "phrases": [
+        {
+          "phrase": "stage play",
+          "translation": "舞台剧",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "singer": {
+      "word": "singer",
+      "translation": "歌手",
+      "phonetic": "ˈsɪŋə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is a famous pop singer.",
+          "zh": "她是一位著名的流行歌手。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["vocalist", "performer"],
+      "phrases": [
+        {
+          "phrase": "pop singer",
+          "translation": "流行歌手",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "listen": {
+      "word": "listen",
+      "translation": "听",
+      "phonetic": "ˈlɪsn",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We listened to the orchestra.",
+          "zh": "我们听了管弦乐队的演奏。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["hear", "attend"],
+      "phrases": [
+        {
+          "phrase": "listen to music",
+          "translation": "听音乐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "read": {
+      "word": "read",
+      "translation": "阅读",
+      "phonetic": "riːd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She reads novels in her free time.",
+          "zh": "她在空闲时间读小说。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["study", "browse"],
+      "phrases": [
+        {
+          "phrase": "read a book",
+          "translation": "读书",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "watch": {
+      "word": "watch",
+      "translation": "观看",
+      "phonetic": "wɒtʃ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's watch a movie tonight.",
+          "zh": "今晚我们看电影吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["view", "observe"],
+      "phrases": [
+        {
+          "phrase": "watch TV",
+          "translation": "看电视",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "visit": {
+      "word": "visit",
+      "translation": "参观",
+      "phonetic": "ˈvɪzɪt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We visited the art gallery.",
+          "zh": "我们参观了美术馆。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["tour", "explore"],
+      "phrases": [
+        {
+          "phrase": "visit a museum",
+          "translation": "参观博物馆",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "art_gallery": {
+      "word": "art gallery",
+      "translation": "美术馆",
+      "phonetic": "ɑːt ˈɡæləri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The art gallery has a new exhibition.",
+          "zh": "美术馆有一个新展览。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["gallery", "exhibition hall"],
+      "phrases": [
+        {
+          "phrase": "visit an art gallery",
+          "translation": "参观美术馆",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cinema": {
+      "word": "cinema",
+      "translation": "电影院",
+      "phonetic": "ˈsɪnəmə",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We went to the cinema last night.",
+          "zh": "我们昨晚去了电影院。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["movie theater", "picture house"],
+      "phrases": [
+        {
+          "phrase": "go to the cinema",
+          "translation": "去看电影",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "library": {
+      "word": "library",
+      "translation": "图书馆",
+      "phonetic": "ˈlaɪbrəri",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I study at the library.",
+          "zh": "我在图书馆学习。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["book room", "reading room"],
+      "phrases": [
+        {
+          "phrase": "public library",
+          "translation": "公共图书馆",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "museum": {
+      "word": "museum",
+      "translation": "博物馆",
+      "phonetic": "mjuːˈziːəm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The museum has ancient artifacts.",
+          "zh": "博物馆有古代文物。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["exhibition", "gallery"],
+      "phrases": [
+        {
+          "phrase": "history museum",
+          "translation": "历史博物馆",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "theatre": {
+      "word": "theatre",
+      "translation": "剧院",
+      "phonetic": "ˈθɪətə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The play is showing at the theatre.",
+          "zh": "这部话剧在剧院上演。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Cultural Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["playhouse", "auditorium"],
+      "phrases": [
+        {
+          "phrase": "movie theatre",
+          "translation": "电影院",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

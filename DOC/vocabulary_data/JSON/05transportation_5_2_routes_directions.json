@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "category": "Routes and Directions",
+    "category_cn": "路线方向",
+    "word_count": 25,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "back": {
+      "word": "back",
+      "translation": "后面",
+      "phonetic": "bæk",
+      "part_of_speech": "n & adv",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Go back the way you came.",
+          "zh": "原路返回。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["backward", "behind"],
+      "phrases": [
+        {
+          "phrase": "at the back",
+          "translation": "在后面",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "down": {
+      "word": "down",
+      "translation": "向下",
+      "phonetic": "daʊn",
+      "part_of_speech": "adv & prep",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Walk down the street.",
+          "zh": "沿着街道往下走。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["downward", "below"],
+      "phrases": [
+        {
+          "phrase": "go down",
+          "translation": "往下走",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "east": {
+      "word": "east",
+      "translation": "东",
+      "phonetic": "iːst",
+      "part_of_speech": "n & adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The sun rises in the east.",
+          "zh": "太阳从东方升起。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["eastern", "eastward"],
+      "phrases": [
+        {
+          "phrase": "east of",
+          "translation": "在...的东边",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "front": {
+      "word": "front",
+      "translation": "前面",
+      "phonetic": "frʌnt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The bus stop is in front of the shop.",
+          "zh": "公交车站在商店前面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["forward", "ahead"],
+      "phrases": [
+        {
+          "phrase": "in front of",
+          "translation": "在...前面",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "left": {
+      "word": "left",
+      "translation": "左边",
+      "phonetic": "left",
+      "part_of_speech": "n & adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Turn left at the traffic light.",
+          "zh": "在红绿灯处左转。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["leftward", "port side"],
+      "phrases": [
+        {
+          "phrase": "on the left",
+          "translation": "在左边",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "north": {
+      "word": "north",
+      "translation": "北",
+      "phonetic": "nɔːθ",
+      "part_of_speech": "n & adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We're traveling north to Scotland.",
+          "zh": "我们正往北前往苏格兰。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["northern", "northward"],
+      "phrases": [
+        {
+          "phrase": "north of",
+          "translation": "在...的北边",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "right": {
+      "word": "right",
+      "translation": "右边",
+      "phonetic": "raɪt",
+      "part_of_speech": "n & adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The museum is on the right.",
+          "zh": "博物馆在右边。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["rightward", "starboard"],
+      "phrases": [
+        {
+          "phrase": "on the right",
+          "translation": "在右边",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "south": {
+      "word": "south",
+      "translation": "南",
+      "phonetic": "saʊθ",
+      "part_of_speech": "n & adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They live in the south of France.",
+          "zh": "他们住在法国南部。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["southern", "southward"],
+      "phrases": [
+        {
+          "phrase": "south of",
+          "translation": "在...的南边",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "up": {
+      "word": "up",
+      "translation": "向上",
+      "phonetic": "ʌp",
+      "part_of_speech": "adv & prep",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Go up the stairs to the second floor.",
+          "zh": "上楼梯到二楼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["upward", "above"],
+      "phrases": [
+        {
+          "phrase": "up to",
+          "translation": "向上到",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "west": {
+      "word": "west",
+      "translation": "西",
+      "phonetic": "west",
+      "part_of_speech": "n & adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The sun sets in the west.",
+          "zh": "太阳从西边落下。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["western", "westward"],
+      "phrases": [
+        {
+          "phrase": "west of",
+          "translation": "在...的西边",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "above": {
+      "word": "above",
+      "translation": "在...上方",
+      "phonetic": "əˈbʌv",
+      "part_of_speech": "prep",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The plane flew above the clouds.",
+          "zh": "飞机在云层上方飞行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["over", "higher than"],
+      "phrases": [
+        {
+          "phrase": "above the ground",
+          "translation": "在地面上方",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "across": {
+      "word": "across",
+      "translation": "穿过",
+      "phonetic": "əˈkrɒs",
+      "part_of_speech": "prep",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Walk across the bridge.",
+          "zh": "走过桥。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["through", "over"],
+      "phrases": [
+        {
+          "phrase": "across from",
+          "translation": "在...对面",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "along": {
+      "word": "along",
+      "translation": "沿着",
+      "phonetic": "əˈlɒŋ",
+      "part_of_speech": "prep",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Walk along the river.",
+          "zh": "沿着河边走。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["beside", "by"],
+      "phrases": [
+        {
+          "phrase": "along with",
+          "translation": "沿着...一起",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "at": {
+      "word": "at",
+      "translation": "在",
+      "phonetic": "æt",
+      "part_of_speech": "prep",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Meet me at the station.",
+          "zh": "在车站见我。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["by", "near"],
+      "phrases": [
+        {
+          "phrase": "at the corner",
+          "translation": "在拐角处",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "behind": {
+      "word": "behind",
+      "translation": "在...后面",
+      "phonetic": "bɪˈhaɪnd",
+      "part_of_speech": "prep",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The car is behind the bus.",
+          "zh": "汽车在公交车后面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["after", "following"],
+      "phrases": [
+        {
+          "phrase": "behind schedule",
+          "translation": "落后于计划",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

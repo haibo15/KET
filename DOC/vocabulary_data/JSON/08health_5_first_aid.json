@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "category": "First Aid",
+    "category_cn": "急救处理",
+    "word_count": 22,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 20,
+      "C": 5
+    }
+  },
+  "words": {
+    "accident": {
+      "word": "accident",
+      "translation": "事故",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "There was an accident on the road.",
+          "zh": "路上发生了一起事故。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["incident", "mishap"],
+      "phrases": []
+    },
+    "ambulance": {
+      "word": "ambulance",
+      "translation": "救护车",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Call an ambulance immediately.",
+          "zh": "立即叫救护车。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["emergency vehicle", "paramedic van"],
+      "phrases": []
+    },
+    "blood": {
+      "word": "blood",
+      "translation": "血",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He lost a lot of blood.",
+          "zh": "他失血过多。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["bleeding", "hemorrhage"],
+      "phrases": []
+    },
+    "cut": {
+      "word": "cut",
+      "translation": "伤口；割伤",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Clean the cut with antiseptic.",
+          "zh": "用消毒剂清洗伤口。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["wound", "injury"],
+      "phrases": []
+    },
+    "danger": {
+      "word": "danger",
+      "translation": "危险",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Stay away from danger.",
+          "zh": "远离危险。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["hazard", "risk"],
+      "phrases": []
+    },
+    "emergency": {
+      "word": "emergency",
+      "translation": "紧急情况",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "This is an emergency situation.",
+          "zh": "这是紧急情况。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["crisis", "urgent situation"],
+      "phrases": []
+    },
+    "fall": {
+      "word": "fall",
+      "translation": "摔倒",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Be careful not to fall.",
+          "zh": "小心别摔倒。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["trip", "slip"],
+      "phrases": []
+    },
+    "fire": {
+      "word": "fire",
+      "translation": "火灾",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "In case of fire, use the emergency exit.",
+          "zh": "发生火灾时，使用紧急出口。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["blaze", "flame"],
+      "phrases": []
+    },
+    "help": {
+      "word": "help",
+      "translation": "帮助",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Call for help immediately.",
+          "zh": "立即呼叫帮助。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["assistance", "aid"],
+      "phrases": []
+    },
+    "hurt": {
+      "word": "hurt",
+      "translation": "受伤",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Don't move if you're hurt.",
+          "zh": "如果受伤了就不要移动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Emergency Situations"],
+      "category": "急救处理",
+      "related_words": ["injure", "harm"],
+      "phrases": []
+    },
+    "call": {
+      "word": "call",
+      "translation": "呼叫",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Call 911 in an emergency.",
+          "zh": "紧急情况下拨打911。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["First Aid Measures"],
+      "category": "急救处理",
+      "related_words": ["dial", "phone"],
+      "phrases": []
+    },
+    "careful": {
+      "word": "careful",
+      "translation": "小心的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Be careful when using sharp objects.",
+          "zh": "使用尖锐物品时要小心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["First Aid Measures"],
+      "category": "急救处理",
+      "related_words": ["cautious", "vigilant"],
+      "phrases": []
+    },
+    "dangerous": {
+      "word": "dangerous",
+      "translation": "危险的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This is a dangerous situation.",
+          "zh": "这是一个危险的情况。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["First Aid Measures"],
+      "category": "急救处理",
+      "related_words": ["hazardous", "risky"],
+      "phrases": []
+    },
+    "help": {
+      "word": "help",
+      "translation": "帮助",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Help the injured person.",
+          "zh": "帮助受伤的人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["First Aid Measures"],
+      "category": "急救处理",
+      "related_words": ["assist", "aid"],
+      "phrases": []
+    },
+    "safe": {
+      "word": "safe",
+      "translation": "安全的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Make sure the area is safe.",
+          "zh": "确保该区域安全。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["First Aid Measures"],
+      "category": "急救处理",
+      "related_words": ["secure", "protected"],
+      "phrases": []
+    },
+    "stop": {
+      "word": "stop",
+      "translation": "停止",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Stop the bleeding immediately.",
+          "zh": "立即止血。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["First Aid Measures"],
+      "category": "急救处理",
+      "related_words": ["cease", "halt"],
+      "phrases": []
+    },
+    "alert": {
+      "word": "alert",
+      "translation": "警惕的；警告",
+      "phonetic": "",
+      "part_of_speech": "adj & v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Stay alert in dangerous situations.",
+          "zh": "在危险情况下保持警惕。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Safety Prevention"],
+      "category": "急救处理",
+      "related_words": ["aware", "warn"],
+      "phrases": []
+    },
+    "check": {
+      "word": "check",
+      "translation": "检查",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Check for any injuries.",
+          "zh": "检查是否有受伤。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Safety Prevention"],
+      "category": "急救处理",
+      "related_words": ["inspect", "examine"],
+      "phrases": []
+    },
+    "prevent": {
+      "word": "prevent",
+      "translation": "预防",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Prevent accidents by being careful.",
+          "zh": "通过小心来预防事故。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Safety Prevention"],
+      "category": "急救处理",
+      "related_words": ["avoid", "stop"],
+      "phrases": []
+    },
+    "protect": {
+      "word": "protect",
+      "translation": "保护",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Protect yourself from danger.",
+          "zh": "保护自己免受危险。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Safety Prevention"],
+      "category": "急救处理",
+      "related_words": ["guard", "shield"],
+      "phrases": []
+    },
+    "safety": {
+      "word": "safety",
+      "translation": "安全",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Safety is our top priority.",
+          "zh": "安全是我们的首要任务。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Safety Prevention"],
+      "category": "急救处理",
+      "related_words": ["security", "protection"],
+      "phrases": []
+    },
+    "warning": {
+      "word": "warning",
+      "translation": "警告",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Pay attention to warning signs.",
+          "zh": "注意警告标志。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Safety Prevention"],
+      "category": "急救处理",
+      "related_words": ["caution", "alert"],
+      "phrases": []
+    }
+  }
+} 

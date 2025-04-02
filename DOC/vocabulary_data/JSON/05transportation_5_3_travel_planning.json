@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "category": "Travel Planning",
+    "category_cn": "旅行计划",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "bag": {
+      "word": "bag",
+      "translation": "包",
+      "phonetic": "bæɡ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Pack your bag the night before.",
+          "zh": "提前一晚打包你的行李。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["luggage", "baggage"],
+      "phrases": [
+        {
+          "phrase": "travel bag",
+          "translation": "旅行包",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "book": {
+      "word": "book",
+      "translation": "预订",
+      "phonetic": "bʊk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Book your tickets in advance.",
+          "zh": "提前预订票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["reserve", "arrange"],
+      "phrases": [
+        {
+          "phrase": "book a flight",
+          "translation": "预订航班",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "check": {
+      "word": "check",
+      "translation": "检查",
+      "phonetic": "tʃek",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Check your passport before traveling.",
+          "zh": "出行前检查你的护照。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["verify", "inspect"],
+      "phrases": [
+        {
+          "phrase": "check in",
+          "translation": "办理登记",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "guide": {
+      "word": "guide",
+      "translation": "导游",
+      "phonetic": "ɡaɪd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The guide will show us around the city.",
+          "zh": "导游将带我们参观城市。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["tour guide", "escort"],
+      "phrases": [
+        {
+          "phrase": "tour guide",
+          "translation": "导游",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "list": {
+      "word": "list",
+      "translation": "清单",
+      "phonetic": "lɪst",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Make a list of things to pack.",
+          "zh": "列一个打包清单。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["checklist", "inventory"],
+      "phrases": [
+        {
+          "phrase": "packing list",
+          "translation": "打包清单",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "arrive": {
+      "word": "arrive",
+      "translation": "到达",
+      "phonetic": "əˈraɪv",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We'll arrive at the airport at 9 AM.",
+          "zh": "我们将在早上9点到达机场。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["get to", "reach"],
+      "phrases": [
+        {
+          "phrase": "arrive on time",
+          "translation": "准时到达",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "depart": {
+      "word": "depart",
+      "translation": "出发",
+      "phonetic": "dɪˈpɑːt",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The train departs in 10 minutes.",
+          "zh": "火车10分钟后出发。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["leave", "set off"],
+      "phrases": [
+        {
+          "phrase": "departure time",
+          "translation": "出发时间",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "travel": {
+      "word": "travel",
+      "translation": "旅行",
+      "phonetic": "ˈtrævl",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We travel by train.",
+          "zh": "我们乘火车旅行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["journey", "trip"],
+      "phrases": [
+        {
+          "phrase": "travel abroad",
+          "translation": "出国旅行",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "wait": {
+      "word": "wait",
+      "translation": "等待",
+      "phonetic": "weɪt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Wait at the bus stop.",
+          "zh": "在公交车站等候。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["stay", "remain"],
+      "phrases": [
+        {
+          "phrase": "wait for",
+          "translation": "等待",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "walk": {
+      "word": "walk",
+      "translation": "步行",
+      "phonetic": "wɔːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's walk to the station.",
+          "zh": "我们步行去车站吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["go on foot", "stroll"],
+      "phrases": [
+        {
+          "phrase": "walk to",
+          "translation": "步行到",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

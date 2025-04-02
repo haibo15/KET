@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "category": "Network and Communication",
+    "category_cn": "网络通讯",
+    "word_count": 19,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 20,
+      "C": 5
+    }
+  },
+  "words": {
+    "internet": {
+      "word": "internet",
+      "translation": "互联网",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Most businesses now rely on the internet for their operations.",
+          "zh": "现在大多数企业都依赖互联网运营。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["web", "net"],
+      "phrases": []
+    },
+    "network": {
+      "word": "network",
+      "translation": "网络",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The office network allows all computers to share files.",
+          "zh": "办公室网络允许所有电脑共享文件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["connection", "system"],
+      "phrases": []
+    },
+    "router": {
+      "word": "router",
+      "translation": "路由器",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The router provides WiFi connection throughout the house.",
+          "zh": "路由器为整个房子提供WiFi连接。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["wireless router", "network hub"],
+      "phrases": []
+    },
+    "server": {
+      "word": "server",
+      "translation": "服务器",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The company's data is stored on secure servers.",
+          "zh": "公司的数据存储在安全的服务器上。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["host", "data center"],
+      "phrases": []
+    },
+    "wifi": {
+      "word": "wifi",
+      "translation": "无线网络",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Most cafes offer free wifi to their customers.",
+          "zh": "大多数咖啡馆为顾客提供免费wifi。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["wireless network", "wireless connection"],
+      "phrases": []
+    },
+    "call": {
+      "word": "call",
+      "translation": "打电话",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'll call you when I arrive at the airport.",
+          "zh": "我到机场时会给你打电话。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["phone", "dial"],
+      "phrases": []
+    },
+    "chat": {
+      "word": "chat",
+      "translation": "聊天",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We often chat online with friends from other countries.",
+          "zh": "我们经常在网上和其他国家的朋友聊天。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["message", "communicate"],
+      "phrases": []
+    },
+    "email": {
+      "word": "email",
+      "translation": "电子邮件",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please send me the documents by email.",
+          "zh": "请通过电子邮件发送文件给我。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["e-mail", "electronic mail"],
+      "phrases": []
+    },
+    "message": {
+      "word": "message",
+      "translation": "消息",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I sent you a message about the meeting time.",
+          "zh": "我发给你一条关于会议时间的消息。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["text", "instant message"],
+      "phrases": []
+    },
+    "text": {
+      "word": "text",
+      "translation": "短信",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Send me a text when you arrive.",
+          "zh": "到了给我发短信。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["message", "SMS"],
+      "phrases": []
+    },
+    "send": {
+      "word": "send",
+      "translation": "发送",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Send the file by email.",
+          "zh": "通过电子邮件发送文件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["transmit", "forward"],
+      "phrases": []
+    },
+    "receive": {
+      "word": "receive",
+      "translation": "接收",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I received your message yesterday.",
+          "zh": "我昨天收到了你的消息。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication"],
+      "category": "网络通讯",
+      "related_words": ["get", "accept"],
+      "phrases": []
+    },
+    "connect": {
+      "word": "connect",
+      "translation": "连接",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Connect your device to the wifi network.",
+          "zh": "将你的设备连接到wifi网络。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["link", "join"],
+      "phrases": []
+    },
+    "disconnect": {
+      "word": "disconnect",
+      "translation": "断开连接",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The internet connection disconnected suddenly.",
+          "zh": "互联网连接突然断开了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["unlink", "detach"],
+      "phrases": []
+    },
+    "online": {
+      "word": "online",
+      "translation": "在线的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The service is available online.",
+          "zh": "该服务可在线使用。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["connected", "live"],
+      "phrases": []
+    },
+    "offline": {
+      "word": "offline",
+      "translation": "离线的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The system is currently offline.",
+          "zh": "系统目前处于离线状态。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["disconnected", "unavailable"],
+      "phrases": []
+    },
+    "upload": {
+      "word": "upload",
+      "translation": "上传",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Upload your photos to the cloud.",
+          "zh": "将你的照片上传到云端。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["send", "transfer"],
+      "phrases": []
+    },
+    "download": {
+      "word": "download",
+      "translation": "下载",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Download the latest version of the app.",
+          "zh": "下载最新版本的应用程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["get", "retrieve"],
+      "phrases": []
+    },
+    "signal": {
+      "word": "signal",
+      "translation": "信号",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The phone has a weak signal here.",
+          "zh": "手机在这里信号很弱。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Network"],
+      "category": "网络通讯",
+      "related_words": ["connection", "reception"],
+      "phrases": []
+    }
+  }
+} 

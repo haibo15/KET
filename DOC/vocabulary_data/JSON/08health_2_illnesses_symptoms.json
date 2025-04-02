@@ -1,0 +1,590 @@
+{
+  "metadata": {
+    "category": "Illnesses and Symptoms",
+    "category_cn": "疾病症状",
+    "word_count": 32,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "cold": {
+      "word": "cold",
+      "translation": "感冒",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I caught a cold last week.",
+          "zh": "我上周感冒了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["flu", "chill"],
+      "phrases": []
+    },
+    "cough": {
+      "word": "cough",
+      "translation": "咳嗽",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The cough kept me awake all night.",
+          "zh": "咳嗽让我整晚都睡不着。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["wheeze", "hack"],
+      "phrases": []
+    },
+    "fever": {
+      "word": "fever",
+      "translation": "发烧",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She has a high fever.",
+          "zh": "她发高烧了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["temperature", "high temperature"],
+      "phrases": []
+    },
+    "headache": {
+      "word": "headache",
+      "translation": "头痛",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a terrible headache.",
+          "zh": "我头痛得厉害。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["migraine", "head pain"],
+      "phrases": []
+    },
+    "hurt": {
+      "word": "hurt",
+      "translation": "疼痛",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My throat hurts when I swallow.",
+          "zh": "我吞咽时喉咙疼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["pain", "ache"],
+      "phrases": []
+    },
+    "ill": {
+      "word": "ill",
+      "translation": "生病的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She's been ill for three days.",
+          "zh": "她病了三天了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["sick", "unwell"],
+      "phrases": []
+    },
+    "pain": {
+      "word": "pain",
+      "translation": "疼痛",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I feel pain in my back.",
+          "zh": "我背部感到疼痛。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["ache", "discomfort"],
+      "phrases": []
+    },
+    "sick": {
+      "word": "sick",
+      "translation": "生病的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He feels sick today.",
+          "zh": "他今天感觉不舒服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["ill", "unwell"],
+      "phrases": []
+    },
+    "sore": {
+      "word": "sore",
+      "translation": "疼痛的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My muscles are sore after exercise.",
+          "zh": "运动后我的肌肉很酸痛。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["painful", "tender"],
+      "phrases": []
+    },
+    "temperature": {
+      "word": "temperature",
+      "translation": "体温",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The doctor took my temperature.",
+          "zh": "医生给我量了体温。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["fever", "heat"],
+      "phrases": []
+    },
+    "tired": {
+      "word": "tired",
+      "translation": "疲倦的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm tired after working all day.",
+          "zh": "工作了一整天，我很疲倦。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["exhausted", "weary"],
+      "phrases": []
+    },
+    "toothache": {
+      "word": "toothache",
+      "translation": "牙痛",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have a terrible toothache.",
+          "zh": "我牙痛得厉害。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Illness"],
+      "category": "疾病症状",
+      "related_words": ["dental pain", "tooth pain"],
+      "phrases": []
+    },
+    "asleep": {
+      "word": "asleep",
+      "translation": "睡着的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The baby is asleep.",
+          "zh": "宝宝睡着了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["sleeping", "dormant"],
+      "phrases": []
+    },
+    "awake": {
+      "word": "awake",
+      "translation": "醒着的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm still awake at midnight.",
+          "zh": "午夜了我还醒着。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["conscious", "alert"],
+      "phrases": []
+    },
+    "better": {
+      "word": "better",
+      "translation": "好转的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm feeling better today.",
+          "zh": "我今天感觉好多了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Recovery"],
+      "category": "疾病症状",
+      "related_words": ["improved", "recovering"],
+      "phrases": []
+    },
+    "dead": {
+      "word": "dead",
+      "translation": "死亡的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The plant is dead.",
+          "zh": "这株植物死了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["deceased", "lifeless"],
+      "phrases": []
+    },
+    "fine": {
+      "word": "fine",
+      "translation": "健康的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm feeling fine now.",
+          "zh": "我现在感觉很好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["well", "okay"],
+      "phrases": []
+    },
+    "fit": {
+      "word": "fit",
+      "translation": "健康的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He's very fit and strong.",
+          "zh": "他身体很健康强壮。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["healthy", "in shape"],
+      "phrases": []
+    },
+    "healthy": {
+      "word": "healthy",
+      "translation": "健康的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Eat vegetables to stay healthy.",
+          "zh": "吃蔬菜保持健康。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["well", "in good health"],
+      "phrases": []
+    },
+    "hungry": {
+      "word": "hungry",
+      "translation": "饿的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm hungry, let's eat.",
+          "zh": "我饿了，我们去吃饭吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["starving", "famished"],
+      "phrases": []
+    },
+    "strong": {
+      "word": "strong",
+      "translation": "强壮的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Exercise makes you strong.",
+          "zh": "运动让你强壮。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["powerful", "robust"],
+      "phrases": []
+    },
+    "thirsty": {
+      "word": "thirsty",
+      "translation": "渴的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I'm thirsty after running.",
+          "zh": "跑步后我很渴。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["parched", "dehydrated"],
+      "phrases": []
+    },
+    "well": {
+      "word": "well",
+      "translation": "健康的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She's not feeling well today.",
+          "zh": "她今天感觉不舒服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["healthy", "in good shape"],
+      "phrases": []
+    },
+    "worse": {
+      "word": "worse",
+      "translation": "更糟的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "His condition is getting worse.",
+          "zh": "他的情况正在恶化。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Physical Condition"],
+      "category": "疾病症状",
+      "related_words": ["deteriorating", "declining"],
+      "phrases": []
+    },
+    "acute": {
+      "word": "acute",
+      "translation": "急性的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He felt an acute pain in his chest.",
+          "zh": "他胸部感到剧烈疼痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["sharp", "intense"],
+      "phrases": []
+    },
+    "chronic": {
+      "word": "chronic",
+      "translation": "慢性的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She suffers from chronic back pain.",
+          "zh": "她患有慢性背痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["persistent", "long-term"],
+      "phrases": []
+    },
+    "dull": {
+      "word": "dull",
+      "translation": "钝痛的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "I have a dull pain in my stomach.",
+          "zh": "我胃部有一种钝痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["aching", "throbbing"],
+      "phrases": []
+    },
+    "mild": {
+      "word": "mild",
+      "translation": "轻微的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The pain is quite mild today.",
+          "zh": "今天疼痛很轻微。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["slight", "gentle"],
+      "phrases": []
+    },
+    "severe": {
+      "word": "severe",
+      "translation": "严重的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He has severe headaches.",
+          "zh": "他有严重的头痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["intense", "extreme"],
+      "phrases": []
+    },
+    "sharp": {
+      "word": "sharp",
+      "translation": "尖锐的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "I felt a sharp pain in my knee.",
+          "zh": "我膝盖感到一阵剧烈的疼痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["piercing", "acute"],
+      "phrases": []
+    },
+    "stabbing": {
+      "word": "stabbing",
+      "translation": "刺痛的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "She felt a stabbing pain in her side.",
+          "zh": "她感到腰部一阵刺痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["piercing", "shooting"],
+      "phrases": []
+    },
+    "throbbing": {
+      "word": "throbbing",
+      "translation": "跳痛的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "I have a throbbing headache.",
+          "zh": "我有一种跳动性的头痛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Health", "Pain"],
+      "category": "疾病症状",
+      "related_words": ["pulsing", "beating"],
+      "phrases": []
+    }
+  }
+} 

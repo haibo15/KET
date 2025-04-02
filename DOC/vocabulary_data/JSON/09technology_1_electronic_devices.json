@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "category": "Electronic Devices",
+    "category_cn": "电子设备",
+    "word_count": 23,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "battery": {
+      "word": "battery",
+      "translation": "电池",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My phone battery is running low, I need to charge it.",
+          "zh": "我的手机电池快没电了，我需要充电。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["power pack", "cell"],
+      "phrases": []
+    },
+    "camera": {
+      "word": "camera",
+      "translation": "相机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She took beautiful photos with her new camera.",
+          "zh": "她用新相机拍了很多漂亮的照片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["digital camera", "video camera"],
+      "phrases": []
+    },
+    "computer": {
+      "word": "computer",
+      "translation": "电脑",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I use my computer for work every day.",
+          "zh": "我每天都用电脑工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["PC", "desktop"],
+      "phrases": []
+    },
+    "keyboard": {
+      "word": "keyboard",
+      "translation": "键盘",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The keyboard has a nice tactile feel when typing.",
+          "zh": "这个键盘打字时的触感很好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["typing pad", "input device"],
+      "phrases": []
+    },
+    "laptop": {
+      "word": "laptop",
+      "translation": "笔记本电脑",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I prefer working on my laptop when I'm traveling.",
+          "zh": "旅行时我更喜欢用笔记本电脑工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["notebook", "portable computer"],
+      "phrases": []
+    },
+    "mobile_phone": {
+      "word": "mobile phone",
+      "translation": "手机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Most people nowadays use smartphones instead of basic mobile phones.",
+          "zh": "现在大多数人都使用智能手机而不是普通手机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["smartphone", "cellphone"],
+      "phrases": []
+    },
+    "mouse": {
+      "word": "mouse",
+      "translation": "鼠标",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use the mouse to click on the icon.",
+          "zh": "用鼠标点击图标。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["pointing device", "cursor control"],
+      "phrases": []
+    },
+    "printer": {
+      "word": "printer",
+      "translation": "打印机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The office printer can print in both color and black and white.",
+          "zh": "办公室的打印机可以打印彩色和黑白两种。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices"],
+      "category": "电子设备",
+      "related_words": ["printing device", "copier"],
+      "phrases": []
+    },
+    "charger": {
+      "word": "charger",
+      "translation": "充电器",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't forget to bring your phone charger when traveling.",
+          "zh": "旅行时别忘了带手机充电器。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Accessories"],
+      "category": "电子设备",
+      "related_words": ["power adapter", "charging cable"],
+      "phrases": []
+    },
+    "headphones": {
+      "word": "headphones",
+      "translation": "耳机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She likes to listen to music with her wireless headphones.",
+          "zh": "她喜欢用无线耳机听音乐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Accessories"],
+      "category": "电子设备",
+      "related_words": ["earphones", "headset"],
+      "phrases": []
+    },
+    "memory_card": {
+      "word": "memory card",
+      "translation": "存储卡",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The camera's memory card can store thousands of photos.",
+          "zh": "相机的存储卡可以存储数千张照片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Accessories"],
+      "category": "电子设备",
+      "related_words": ["SD card", "flash card"],
+      "phrases": []
+    },
+    "microphone": {
+      "word": "microphone",
+      "translation": "麦克风",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use the microphone to record your voice message.",
+          "zh": "使用麦克风录制你的语音消息。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Accessories"],
+      "category": "电子设备",
+      "related_words": ["mic", "audio input"],
+      "phrases": []
+    },
+    "speaker": {
+      "word": "speaker",
+      "translation": "扬声器",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The speakers produce clear and loud sound.",
+          "zh": "这些扬声器产生清晰响亮的声音。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronic Devices", "Accessories"],
+      "category": "电子设备",
+      "related_words": ["audio output", "loudspeaker"],
+      "phrases": []
+    }
+  }
+} 

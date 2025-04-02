@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "category": "Consultation Services",
+    "category_cn": "咨询服务",
+    "word_count": 20,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "advice": {
+      "word": "advice",
+      "translation": "建议",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need some advice about my career.",
+          "zh": "我需要一些关于职业的建议。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["suggestion", "recommendation"],
+      "phrases": []
+    },
+    "consult": {
+      "word": "consult",
+      "translation": "咨询",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You should consult a lawyer about this matter.",
+          "zh": "你应该就这件事咨询一下律师。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["seek advice", "ask for guidance"],
+      "phrases": []
+    },
+    "consultant": {
+      "word": "consultant",
+      "translation": "顾问",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She works as a financial consultant.",
+          "zh": "她是一名财务顾问。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Professions"],
+      "category": "咨询服务",
+      "related_words": ["advisor", "expert"],
+      "phrases": []
+    },
+    "suggest": {
+      "word": "suggest",
+      "translation": "建议",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What would you suggest I do?",
+          "zh": "你建议我该怎么做？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["recommend", "propose"],
+      "phrases": []
+    },
+    "recommend": {
+      "word": "recommend",
+      "translation": "推荐",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can you recommend a good doctor?",
+          "zh": "你能推荐一个好医生吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["suggest", "advise"],
+      "phrases": []
+    },
+    "expert": {
+      "word": "expert",
+      "translation": "专家",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need an expert opinion on this issue.",
+          "zh": "我们需要专家对这个问题的意见。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Professions"],
+      "category": "咨询服务",
+      "related_words": ["specialist", "professional"],
+      "phrases": []
+    },
+    "guidance": {
+      "word": "guidance",
+      "translation": "指导",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Students need guidance in choosing their careers.",
+          "zh": "学生在选择职业时需要指导。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["direction", "advice"],
+      "phrases": []
+    },
+    "opinion": {
+      "word": "opinion",
+      "translation": "意见",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's your opinion on this matter?",
+          "zh": "你对这件事的意见是什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["view", "judgment"],
+      "phrases": []
+    },
+    "solution": {
+      "word": "solution",
+      "translation": "解决方案",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The consultant provided several possible solutions.",
+          "zh": "顾问提供了几个可能的解决方案。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["answer", "resolution"],
+      "phrases": []
+    },
+    "professional": {
+      "word": "professional",
+      "translation": "专业的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We offer professional consulting services.",
+          "zh": "我们提供专业的咨询服务。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Quality"],
+      "category": "咨询服务",
+      "related_words": ["expert", "skilled"],
+      "phrases": []
+    },
+    "discuss": {
+      "word": "discuss",
+      "translation": "讨论",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's discuss your business plan.",
+          "zh": "让我们讨论你的商业计划。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["talk", "confer"],
+      "phrases": []
+    },
+    "analyze": {
+      "word": "analyze",
+      "translation": "分析",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The consultant will analyze your financial situation.",
+          "zh": "顾问将分析你的财务状况。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["examine", "study"],
+      "phrases": []
+    },
+    "evaluate": {
+      "word": "evaluate",
+      "translation": "评估",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We need to evaluate the current situation.",
+          "zh": "我们需要评估当前情况。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["assess", "appraise"],
+      "phrases": []
+    },
+    "plan": {
+      "word": "plan",
+      "translation": "计划",
+      "phonetic": "",
+      "part_of_speech": "n/v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We can help you make a business plan.",
+          "zh": "我们可以帮你制定商业计划。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["strategy", "scheme"],
+      "phrases": []
+    },
+    "strategy": {
+      "word": "strategy",
+      "translation": "策略",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We need to develop a marketing strategy.",
+          "zh": "我们需要制定一个营销策略。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["plan", "approach"],
+      "phrases": []
+    },
+    "review": {
+      "word": "review",
+      "translation": "审查",
+      "phonetic": "",
+      "part_of_speech": "v/n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The consultant will review your proposal.",
+          "zh": "顾问将审查你的提案。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["examine", "assess"],
+      "phrases": []
+    },
+    "improve": {
+      "word": "improve",
+      "translation": "改进",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Our advice will help you improve your performance.",
+          "zh": "我们的建议将帮助你提高表现。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Goals"],
+      "category": "咨询服务",
+      "related_words": ["enhance", "upgrade"],
+      "phrases": []
+    },
+    "support": {
+      "word": "support",
+      "translation": "支持",
+      "phonetic": "",
+      "part_of_speech": "v/n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We provide ongoing support to our clients.",
+          "zh": "我们为客户提供持续的支持。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Types"],
+      "category": "咨询服务",
+      "related_words": ["help", "assistance"],
+      "phrases": []
+    },
+    "effective": {
+      "word": "effective",
+      "translation": "有效的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Our consultation service is highly effective.",
+          "zh": "我们的咨询服务非常有效。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Service Quality"],
+      "category": "咨询服务",
+      "related_words": ["efficient", "successful"],
+      "phrases": []
+    },
+    "helpful": {
+      "word": "helpful",
+      "translation": "有帮助的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The consultant's suggestions were very helpful.",
+          "zh": "顾问的建议很有帮助。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Quality"],
+      "category": "咨询服务",
+      "related_words": ["useful", "beneficial"],
+      "phrases": []
+    },
+    "legal": {
+      "word": "legal",
+      "translation": "法律的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You should seek legal consultation for this matter.",
+          "zh": "你应该就这件事寻求法律咨询。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Fields"],
+      "category": "咨询服务",
+      "related_words": ["law", "juridical"],
+      "phrases": []
+    },
+    "financial": {
+      "word": "financial",
+      "translation": "财务的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We provide financial consultation services.",
+          "zh": "我们提供财务咨询服务。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Fields"],
+      "category": "咨询服务",
+      "related_words": ["monetary", "fiscal"],
+      "phrases": []
+    },
+    "technical": {
+      "word": "technical",
+      "translation": "技术的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Our team offers technical consultation.",
+          "zh": "我们团队提供技术咨询。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Fields"],
+      "category": "咨询服务",
+      "related_words": ["technological", "specialized"],
+      "phrases": []
+    },
+    "online_consultation": {
+      "word": "online consultation",
+      "translation": "在线咨询",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You can book an online consultation with our experts.",
+          "zh": "你可以预约我们专家的在线咨询。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Methods"],
+      "category": "咨询服务",
+      "related_words": ["virtual consultation", "remote consultation"],
+      "phrases": []
+    },
+    "face_to_face": {
+      "word": "face-to-face",
+      "translation": "面对面的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Some issues require face-to-face consultation.",
+          "zh": "有些问题需要面对面咨询。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Methods"],
+      "category": "咨询服务",
+      "related_words": ["in-person", "direct"],
+      "phrases": []
+    },
+    "report": {
+      "word": "report",
+      "translation": "报告",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The consultant will prepare a detailed report.",
+          "zh": "顾问将准备一份详细的报告。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Results"],
+      "category": "咨询服务",
+      "related_words": ["document", "analysis"],
+      "phrases": []
+    },
+    "proposal": {
+      "word": "proposal",
+      "translation": "提案",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We will submit our proposal next week.",
+          "zh": "我们下周将提交我们的提案。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Results"],
+      "category": "咨询服务",
+      "related_words": ["suggestion", "plan"],
+      "phrases": []
+    },
+    "consultation_fee": {
+      "word": "consultation fee",
+      "translation": "咨询费",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "There is a standard consultation fee for our services.",
+          "zh": "我们的服务有标准的咨询费。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Consultation", "Costs"],
+      "category": "咨询服务",
+      "related_words": ["service charge", "professional fee"],
+      "phrases": []
+    },
+    "appointment": {
+      "word": "appointment",
+      "translation": "预约",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You need to make an appointment for consultation.",
+          "zh": "你需要预约咨询。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Consultation", "Service Operations"],
+      "category": "咨询服务",
+      "related_words": ["booking", "scheduling"],
+      "phrases": []
+    }
+  }
+} 

@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "category": "Digital Products",
+    "category_cn": "数码产品",
+    "word_count": 14,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "camera": {
+      "word": "camera",
+      "translation": "相机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This camera can take high-quality photos and videos.",
+          "zh": "这台相机可以拍摄高质量的照片和视频。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Photography"],
+      "category": "数码产品",
+      "related_words": ["digital camera", "video recorder"],
+      "phrases": []
+    },
+    "player": {
+      "word": "player",
+      "translation": "播放器",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I use my music player when I go running.",
+          "zh": "我跑步时使用音乐播放器。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Entertainment"],
+      "category": "数码产品",
+      "related_words": ["media player", "music player"],
+      "phrases": []
+    },
+    "radio": {
+      "word": "radio",
+      "translation": "收音机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We listen to the news on the radio every morning.",
+          "zh": "我们每天早上听收音机新闻。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Entertainment"],
+      "category": "数码产品",
+      "related_words": ["radio receiver", "wireless"],
+      "phrases": []
+    },
+    "television": {
+      "word": "television/TV",
+      "translation": "电视",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The family watches TV together in the evening.",
+          "zh": "全家晚上一起看电视。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Entertainment"],
+      "category": "数码产品",
+      "related_words": ["TV set", "monitor"],
+      "phrases": []
+    },
+    "disk": {
+      "word": "disk",
+      "translation": "磁盘",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Save your important files on an external disk.",
+          "zh": "把重要文件保存在外部磁盘上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["hard disk", "drive"],
+      "phrases": []
+    },
+    "memory": {
+      "word": "memory",
+      "translation": "内存",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "More memory helps your computer run faster.",
+          "zh": "更多的内存帮助电脑运行更快。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["RAM", "storage"],
+      "phrases": []
+    },
+    "USB": {
+      "word": "USB",
+      "translation": "U盘",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Copy the files to a USB drive for backup.",
+          "zh": "把文件复制到U盘做备份。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["flash drive", "thumb drive"],
+      "phrases": []
+    },
+    "video_camera": {
+      "word": "video camera",
+      "translation": "摄像机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use a video camera to record the event.",
+          "zh": "使用摄像机录制这个活动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Photography"],
+      "category": "数码产品",
+      "related_words": ["camcorder", "recorder"],
+      "phrases": []
+    },
+    "mp3_player": {
+      "word": "MP3 player",
+      "translation": "MP3播放器",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Listen to music on your MP3 player.",
+          "zh": "用MP3播放器听音乐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Entertainment"],
+      "category": "数码产品",
+      "related_words": ["music player", "audio device"],
+      "phrases": []
+    },
+    "dvd_player": {
+      "word": "DVD player",
+      "translation": "DVD播放机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Watch movies on the DVD player.",
+          "zh": "用DVD播放机看电影。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Entertainment"],
+      "category": "数码产品",
+      "related_words": ["video player", "disc player"],
+      "phrases": []
+    },
+    "hard_drive": {
+      "word": "hard drive",
+      "translation": "硬盘",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Store large files on the external hard drive.",
+          "zh": "将大文件存储在外置硬盘上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["HDD", "storage device"],
+      "phrases": []
+    },
+    "flash_drive": {
+      "word": "flash drive",
+      "translation": "闪存盘",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Back up your data on a flash drive.",
+          "zh": "在闪存盘上备份你的数据。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["USB drive", "thumb drive"],
+      "phrases": []
+    },
+    "memory_card": {
+      "word": "memory card",
+      "translation": "存储卡",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Insert the memory card into your camera.",
+          "zh": "将存储卡插入相机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["SD card", "flash card"],
+      "phrases": []
+    },
+    "storage_device": {
+      "word": "storage device",
+      "translation": "存储设备",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Choose a reliable storage device for your data.",
+          "zh": "为你的数据选择一个可靠的存储设备。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Digital Products", "Storage"],
+      "category": "数码产品",
+      "related_words": ["memory device", "data storage"],
+      "phrases": []
+    }
+  }
+} 

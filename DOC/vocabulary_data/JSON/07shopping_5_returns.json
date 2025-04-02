@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "category": "Returns and Exchanges",
+    "category_cn": "退换货物",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 65,
+      "B": 30,
+      "C": 5
+    }
+  },
+  "words": {
+    "broken": {
+      "word": "broken",
+      "translation": "坏的",
+      "phonetic": "ˈbrəʊkən",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The phone is broken and won't turn on.",
+          "zh": "这个手机坏了，开不了机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Problems", "Quality"],
+      "category": "退换原因",
+      "related_words": ["damaged", "faulty"],
+      "phrases": [
+        {
+          "phrase": "broken down",
+          "translation": "故障的",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "change": {
+      "word": "change",
+      "translation": "更换",
+      "phonetic": "tʃeɪndʒ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can I change this for a different size?",
+          "zh": "我能换一个不同尺码的吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Returns"],
+      "category": "退换流程",
+      "related_words": ["exchange", "swap"],
+      "phrases": [
+        {
+          "phrase": "change for",
+          "translation": "换成",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "receipt": {
+      "word": "receipt",
+      "translation": "收据",
+      "phonetic": "rɪˈsiːt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Do you have the receipt?",
+          "zh": "你有收据吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Documents"],
+      "category": "退换流程",
+      "related_words": ["bill", "proof of purchase"],
+      "phrases": [
+        {
+          "phrase": "keep the receipt",
+          "translation": "保留收据",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "refund": {
+      "word": "refund",
+      "translation": "退款",
+      "phonetic": "ˈriːfʌnd",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Can I get a refund for this item?",
+          "zh": "这件商品我可以退款吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Money"],
+      "category": "退换流程",
+      "related_words": ["money back", "reimbursement"],
+      "phrases": [
+        {
+          "phrase": "full refund",
+          "translation": "全额退款",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "quality": {
+      "word": "quality",
+      "translation": "质量",
+      "phonetic": "ˈkwɒləti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The quality is not what I expected.",
+          "zh": "质量不如我预期的那样。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Products"],
+      "category": "质量问题",
+      "related_words": ["standard", "grade"],
+      "phrases": [
+        {
+          "phrase": "good quality",
+          "translation": "优质的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "big": {
+      "word": "big",
+      "translation": "大的",
+      "phonetic": "bɪɡ",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "These shoes are too big for me.",
+          "zh": "这些鞋子对我来说太大了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Size", "Shopping"],
+      "category": "退换原因",
+      "related_words": ["oversized", "large"],
+      "phrases": [
+        {
+          "phrase": "too big",
+          "translation": "太大",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "different": {
+      "word": "different",
+      "translation": "不同的",
+      "phonetic": "ˈdɪfrənt",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This is different from what I ordered.",
+          "zh": "这和我订的不一样。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Returns"],
+      "category": "退换原因",
+      "related_words": ["wrong", "incorrect"],
+      "phrases": [
+        {
+          "phrase": "different size",
+          "translation": "不同尺码",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "small": {
+      "word": "small",
+      "translation": "小的",
+      "phonetic": "smɔːl",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The shirt is too small for me.",
+          "zh": "这件衬衫对我来说太小了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Size", "Shopping"],
+      "category": "退换原因",
+      "related_words": ["undersized", "tiny"],
+      "phrases": [
+        {
+          "phrase": "too small",
+          "translation": "太小",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "check": {
+      "word": "check",
+      "translation": "检查",
+      "phonetic": "tʃek",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let me check the receipt.",
+          "zh": "让我检查一下收据。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Service"],
+      "category": "退换流程",
+      "related_words": ["examine", "inspect"],
+      "phrases": [
+        {
+          "phrase": "check out",
+          "translation": "检查",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "damage": {
+      "word": "damage",
+      "translation": "损坏",
+      "phonetic": "ˈdæmɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "There is some damage to the product.",
+          "zh": "这个产品有些损坏。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Problems", "Quality"],
+      "category": "质量问题",
+      "related_words": ["harm", "defect"],
+      "phrases": [
+        {
+          "phrase": "water damage",
+          "translation": "水渍损坏",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "defect": {
+      "word": "defect",
+      "translation": "缺陷",
+      "phonetic": "ˈdiːfekt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The phone has a manufacturing defect.",
+          "zh": "这个手机有制造缺陷。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Problems", "Quality"],
+      "category": "质量问题",
+      "related_words": ["flaw", "fault"],
+      "phrases": [
+        {
+          "phrase": "product defect",
+          "translation": "产品缺陷",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "problem": {
+      "word": "problem",
+      "translation": "问题",
+      "phonetic": "ˈprɒbləm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "There is a problem with this item.",
+          "zh": "这件商品有问题。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Problems", "General"],
+      "category": "质量问题",
+      "related_words": ["issue", "trouble"],
+      "phrases": [
+        {
+          "phrase": "quality problem",
+          "translation": "质量问题",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

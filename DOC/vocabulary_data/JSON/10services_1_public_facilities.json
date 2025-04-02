@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "category": "Public Facilities",
+    "category_cn": "公共设施",
+    "word_count": 32,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "airport": {
+      "word": "airport",
+      "translation": "机场",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need to arrive at the airport two hours before the flight.",
+          "zh": "我们需要在航班起飞前两小时到达机场。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation Facilities"],
+      "category": "公共设施",
+      "related_words": ["terminal", "air terminal"],
+      "phrases": []
+    },
+    "bridge": {
+      "word": "bridge",
+      "translation": "桥",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The new bridge connects the two parts of the city.",
+          "zh": "这座新桥连接了城市的两个部分。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation Facilities"],
+      "category": "公共设施",
+      "related_words": ["crossing", "overpass"],
+      "phrases": []
+    },
+    "bus_station": {
+      "word": "bus station",
+      "translation": "公交站",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The bus station is just around the corner.",
+          "zh": "公交站就在拐角处。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation Facilities"],
+      "category": "公共设施",
+      "related_words": ["bus stop", "bus terminal"],
+      "phrases": []
+    },
+    "car_park": {
+      "word": "car park",
+      "translation": "停车场",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "There's a large car park behind the shopping center.",
+          "zh": "购物中心后面有一个大停车场。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation Facilities"],
+      "category": "公共设施",
+      "related_words": ["parking lot", "parking area"],
+      "phrases": []
+    },
+    "railway_station": {
+      "word": "railway station",
+      "translation": "火车站",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Meet me at the railway station at 3 PM.",
+          "zh": "下午3点在火车站见。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation Facilities"],
+      "category": "公共设施",
+      "related_words": ["train station", "rail terminal"],
+      "phrases": []
+    },
+    "bank": {
+      "word": "bank",
+      "translation": "银行",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to go to the bank to withdraw some money.",
+          "zh": "我需要去银行取些钱。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Places"],
+      "category": "公共设施",
+      "related_words": ["financial institution", "branch"],
+      "phrases": []
+    },
+    "hospital": {
+      "word": "hospital",
+      "translation": "医院",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The new hospital has modern medical equipment.",
+          "zh": "这家新医院有现代化的医疗设备。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Places"],
+      "category": "公共设施",
+      "related_words": ["medical center", "clinic"],
+      "phrases": []
+    },
+    "library": {
+      "word": "library",
+      "translation": "图书馆",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Students often study in the library.",
+          "zh": "学生们经常在图书馆学习。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Places"],
+      "category": "公共设施",
+      "related_words": ["book center", "reading room"],
+      "phrases": []
+    },
+    "museum": {
+      "word": "museum",
+      "translation": "博物馆",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The museum has a special exhibition this month.",
+          "zh": "博物馆这个月有一个特别展览。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Places"],
+      "category": "公共设施",
+      "related_words": ["art gallery", "exhibition hall"],
+      "phrases": []
+    },
+    "post_office": {
+      "word": "post office",
+      "translation": "邮局",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I went to the post office to mail a package.",
+          "zh": "我去邮局寄包裹。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Places"],
+      "category": "公共设施",
+      "related_words": ["postal service", "mail center"],
+      "phrases": []
+    },
+    "bathroom": {
+      "word": "bathroom",
+      "translation": "浴室",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The bathroom has both a shower and a bathtub.",
+          "zh": "浴室里有淋浴和浴缸。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Living Facilities"],
+      "category": "公共设施",
+      "related_words": ["washroom", "restroom"],
+      "phrases": []
+    },
+    "garden": {
+      "word": "garden",
+      "translation": "花园",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "They have a beautiful garden with many flowers.",
+          "zh": "他们有一个种满鲜花的漂亮花园。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Living Facilities"],
+      "category": "公共设施",
+      "related_words": ["yard", "park"],
+      "phrases": []
+    },
+    "lift": {
+      "word": "lift",
+      "translation": "电梯",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take the lift to the fifth floor.",
+          "zh": "乘电梯到五楼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Living Facilities"],
+      "category": "公共设施",
+      "related_words": ["elevator", "escalator"],
+      "phrases": []
+    },
+    "light": {
+      "word": "light",
+      "translation": "灯",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Turn on the light when it gets dark.",
+          "zh": "天黑时开灯。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Living Facilities"],
+      "category": "公共设施",
+      "related_words": ["lamp", "lighting"],
+      "phrases": []
+    },
+    "park": {
+      "word": "park",
+      "translation": "公园",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Many people go to the park for exercise in the morning.",
+          "zh": "许多人早上去公园锻炼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Recreation Facilities"],
+      "category": "公共设施",
+      "related_words": ["garden", "playground"],
+      "phrases": []
+    },
+    "playground": {
+      "word": "playground",
+      "translation": "游乐场",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Children love playing in the playground.",
+          "zh": "孩子们喜欢在游乐场玩耍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Recreation Facilities"],
+      "category": "公共设施",
+      "related_words": ["park", "play area"],
+      "phrases": []
+    },
+    "stadium": {
+      "word": "stadium",
+      "translation": "体育场",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The football match will be held in the new stadium.",
+          "zh": "足球比赛将在新体育场举行。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Recreation Facilities"],
+      "category": "公共设施",
+      "related_words": ["sports center", "arena"],
+      "phrases": []
+    },
+    "police_station": {
+      "word": "police station",
+      "translation": "警察局",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You should report the theft to the police station.",
+          "zh": "你应该向警察局报案被盗事件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Services"],
+      "category": "公共设施",
+      "related_words": ["police department", "law enforcement"],
+      "phrases": []
+    },
+    "fire_station": {
+      "word": "fire station",
+      "translation": "消防局",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The fire station is just around the corner.",
+          "zh": "消防局就在拐角处。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Public Services"],
+      "category": "公共设施",
+      "related_words": ["fire department", "fire brigade"],
+      "phrases": []
+    },
+    "gym": {
+      "word": "gym",
+      "translation": "健身房",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I go to the gym three times a week.",
+          "zh": "我每周去健身房三次。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Recreation Facilities"],
+      "category": "公共设施",
+      "related_words": ["fitness center", "sports club"],
+      "phrases": []
+    },
+    "swimming_pool": {
+      "word": "swimming pool",
+      "translation": "游泳池",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The public swimming pool is open all year round.",
+          "zh": "公共游泳池全年开放。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Recreation Facilities"],
+      "category": "公共设施",
+      "related_words": ["pool", "aquatic center"],
+      "phrases": []
+    },
+    "community_center": {
+      "word": "community center",
+      "translation": "社区中心",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The community center offers various activities for residents.",
+          "zh": "社区中心为居民提供各种活动。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Public Services"],
+      "category": "公共设施",
+      "related_words": ["civic center", "recreation center"],
+      "phrases": []
+    }
+  }
+} 

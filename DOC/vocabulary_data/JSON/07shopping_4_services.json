@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "category": "Services and Inquiries",
+    "category_cn": "服务咨询",
+    "word_count": 29,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 20,
+      "C": 5
+    }
+  },
+  "words": {
+    "help": {
+      "word": "help",
+      "translation": "帮助",
+      "phonetic": "help",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Could you help me, please?",
+          "zh": "请问您能帮助我吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Service", "Communication"],
+      "category": "服务用语",
+      "related_words": ["assist", "aid"],
+      "phrases": [
+        {
+          "phrase": "Can I help you?",
+          "translation": "我能帮您吗？",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "assistant": {
+      "word": "assistant",
+      "translation": "店员",
+      "phonetic": "əˈsɪstənt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The shop assistant was very helpful.",
+          "zh": "这位店员很热心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Service", "Jobs"],
+      "category": "服务人员",
+      "related_words": ["clerk", "helper"],
+      "phrases": [
+        {
+          "phrase": "sales assistant",
+          "translation": "销售助理",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "choose": {
+      "word": "choose",
+      "translation": "选择",
+      "phonetic": "tʃuːz",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please choose the color you like.",
+          "zh": "请选择你喜欢的颜色。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Decision"],
+      "category": "购物用语",
+      "related_words": ["select", "pick"],
+      "phrases": [
+        {
+          "phrase": "choose from",
+          "translation": "从...中选择",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "thank you": {
+      "word": "thank you",
+      "translation": "谢谢",
+      "phonetic": "θæŋk juː",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Thank you for your help.",
+          "zh": "谢谢你的帮助。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication", "Politeness"],
+      "category": "服务用语",
+      "related_words": ["thanks", "appreciate"],
+      "phrases": [
+        {
+          "phrase": "thank you very much",
+          "translation": "非常感谢",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "welcome": {
+      "word": "welcome",
+      "translation": "欢迎",
+      "phonetic": "ˈwelkəm",
+      "part_of_speech": "excl & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Welcome to our store.",
+          "zh": "欢迎光临我们的商店。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Service", "Greeting"],
+      "category": "服务用语",
+      "related_words": ["greet", "receive"],
+      "phrases": [
+        {
+          "phrase": "you're welcome",
+          "translation": "不客气",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "buy": {
+      "word": "buy",
+      "translation": "购买",
+      "phonetic": "baɪ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I want to buy a new shirt.",
+          "zh": "我想买一件新衬衫。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Commerce"],
+      "category": "购物用语",
+      "related_words": ["purchase", "get"],
+      "phrases": [
+        {
+          "phrase": "buy online",
+          "translation": "网上购买",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "find": {
+      "word": "find",
+      "translation": "找到",
+      "phonetic": "faɪnd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can you help me find this item?",
+          "zh": "你能帮我找到这件商品吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Service"],
+      "category": "购物用语",
+      "related_words": ["locate", "discover"],
+      "phrases": [
+        {
+          "phrase": "find out",
+          "translation": "找出",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cashier": {
+      "word": "cashier",
+      "translation": "收银员",
+      "phonetic": "kæˈʃɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please pay at the cashier.",
+          "zh": "请到收银台付款。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Jobs", "Service"],
+      "category": "服务人员",
+      "related_words": ["teller", "checkout clerk"],
+      "phrases": [
+        {
+          "phrase": "cashier desk",
+          "translation": "收银台",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "manager": {
+      "word": "manager",
+      "translation": "经理",
+      "phonetic": "ˈmænɪdʒə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Can I speak to the manager?",
+          "zh": "我能和经理说话吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Jobs", "Service"],
+      "category": "服务人员",
+      "related_words": ["supervisor", "boss"],
+      "phrases": [
+        {
+          "phrase": "store manager",
+          "translation": "店长",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "excuse me": {
+      "word": "excuse me",
+      "translation": "对不起",
+      "phonetic": "ɪkˈskjuːz miː",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Excuse me, where is the fitting room?",
+          "zh": "对不起，试衣间在哪里？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication", "Politeness"],
+      "category": "服务用语",
+      "related_words": ["pardon me", "sorry"],
+      "phrases": [
+        {
+          "phrase": "excuse me please",
+          "translation": "请原谅",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "please": {
+      "word": "please",
+      "translation": "请",
+      "phonetic": "pliːz",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please show me that bag.",
+          "zh": "请给我看看那个包。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Communication", "Politeness"],
+      "category": "服务用语",
+      "related_words": ["kindly", "if you would"],
+      "phrases": [
+        {
+          "phrase": "yes please",
+          "translation": "好的，请",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

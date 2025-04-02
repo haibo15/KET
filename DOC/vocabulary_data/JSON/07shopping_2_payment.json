@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "category": "Price and Payment",
+    "category_cn": "价格支付",
+    "word_count": 21,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 20,
+      "C": 5
+    }
+  },
+  "words": {
+    "cheap": {
+      "word": "cheap",
+      "translation": "便宜的",
+      "phonetic": "tʃiːp",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "These shoes are very cheap.",
+          "zh": "这些鞋子很便宜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Price", "Shopping"],
+      "category": "价格相关",
+      "related_words": ["inexpensive", "affordable"],
+      "phrases": [
+        {
+          "phrase": "cheap price",
+          "translation": "便宜的价格",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "expensive": {
+      "word": "expensive",
+      "translation": "贵的",
+      "phonetic": "ɪkˈspensɪv",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The restaurant is too expensive.",
+          "zh": "这家餐厅太贵了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Price", "Shopping"],
+      "category": "价格相关",
+      "related_words": ["costly", "pricey"],
+      "phrases": [
+        {
+          "phrase": "too expensive",
+          "translation": "太贵了",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cash": {
+      "word": "cash",
+      "translation": "现金",
+      "phonetic": "kæʃ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I prefer to pay in cash.",
+          "zh": "我更喜欢用现金支付。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Payment", "Money"],
+      "category": "支付方式",
+      "related_words": ["money", "notes"],
+      "phrases": [
+        {
+          "phrase": "pay in cash",
+          "translation": "用现金支付",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "card": {
+      "word": "card",
+      "translation": "卡",
+      "phonetic": "kɑːd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Do you accept credit cards?",
+          "zh": "你们接受信用卡吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Payment", "Banking"],
+      "category": "支付方式",
+      "related_words": ["credit card", "debit card"],
+      "phrases": [
+        {
+          "phrase": "credit card",
+          "translation": "信用卡",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "dollar": {
+      "word": "dollar",
+      "translation": "美元",
+      "phonetic": "ˈdɒlə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "It costs five dollars.",
+          "zh": "这要花五美元。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Currency", "Money"],
+      "category": "货币单位",
+      "related_words": ["buck", "USD"],
+      "phrases": [
+        {
+          "phrase": "US dollar",
+          "translation": "美元",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cost": {
+      "word": "cost",
+      "translation": "花费",
+      "phonetic": "kɒst",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "How much does it cost?",
+          "zh": "这个多少钱？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Price", "Shopping"],
+      "category": "价格相关",
+      "related_words": ["price", "expense"],
+      "phrases": [
+        {
+          "phrase": "cost of living",
+          "translation": "生活成本",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "free": {
+      "word": "free",
+      "translation": "免费的",
+      "phonetic": "friː",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The delivery is free.",
+          "zh": "配送是免费的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Price", "Shopping"],
+      "category": "价格相关",
+      "related_words": ["complimentary", "gratis"],
+      "phrases": [
+        {
+          "phrase": "free delivery",
+          "translation": "免费配送",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "money": {
+      "word": "money",
+      "translation": "钱",
+      "phonetic": "ˈmʌni",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "How much money do you need?",
+          "zh": "你需要多少钱？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Money", "Shopping"],
+      "category": "价格相关",
+      "related_words": ["cash", "currency"],
+      "phrases": [
+        {
+          "phrase": "pocket money",
+          "translation": "零用钱",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "price": {
+      "word": "price",
+      "translation": "价格",
+      "phonetic": "praɪs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What's the price of this shirt?",
+          "zh": "这件衬衫多少钱？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Money"],
+      "category": "价格相关",
+      "related_words": ["cost", "rate"],
+      "phrases": [
+        {
+          "phrase": "good price",
+          "translation": "好价格",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cent": {
+      "word": "cent",
+      "translation": "分",
+      "phonetic": "sent",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The price is 99 cents.",
+          "zh": "价格是99分。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Money", "Currency"],
+      "category": "货币单位",
+      "related_words": ["penny", "coin"],
+      "phrases": [
+        {
+          "phrase": "fifty cents",
+          "translation": "五十分",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "euro": {
+      "word": "euro",
+      "translation": "欧元",
+      "phonetic": "ˈjʊərəʊ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The price is in euros.",
+          "zh": "价格是用欧元标注的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Money", "Currency"],
+      "category": "货币单位",
+      "related_words": ["EUR", "European currency"],
+      "phrases": [
+        {
+          "phrase": "pay in euros",
+          "translation": "用欧元支付",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pound": {
+      "word": "pound",
+      "translation": "英镑",
+      "phonetic": "paʊnd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It costs ten pounds.",
+          "zh": "这要十英镑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Money", "Currency"],
+      "category": "货币单位",
+      "related_words": ["sterling", "GBP"],
+      "phrases": [
+        {
+          "phrase": "British pound",
+          "translation": "英镑",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "yuan": {
+      "word": "yuan",
+      "translation": "人民币",
+      "phonetic": "juˈɑːn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The price is 100 yuan.",
+          "zh": "价格是100元。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Money", "Currency"],
+      "category": "货币单位",
+      "related_words": ["RMB", "Chinese currency"],
+      "phrases": [
+        {
+          "phrase": "Chinese yuan",
+          "translation": "人民币",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "category": "Technical Operations",
+    "category_cn": "技术操作",
+    "word_count": 24,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "click": {
+      "word": "click",
+      "translation": "点击",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Click on the icon to open the program.",
+          "zh": "点击图标打开程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["tap", "select"],
+      "phrases": []
+    },
+    "download": {
+      "word": "download",
+      "translation": "下载",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You can download the app from the website.",
+          "zh": "你可以从网站下载这个应用程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["get", "save"],
+      "phrases": []
+    },
+    "install": {
+      "word": "install",
+      "translation": "安装",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Follow the instructions to install the software.",
+          "zh": "按照说明安装软件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["set up", "load"],
+      "phrases": []
+    },
+    "save": {
+      "word": "save",
+      "translation": "保存",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Remember to save your work regularly.",
+          "zh": "记得定期保存你的工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["store", "keep"],
+      "phrases": []
+    },
+    "search": {
+      "word": "search",
+      "translation": "搜索",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Use the search function to find specific information.",
+          "zh": "使用搜索功能查找特定信息。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["look up", "find"],
+      "phrases": []
+    },
+    "check": {
+      "word": "check",
+      "translation": "检查",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Check your internet connection if the website won't load.",
+          "zh": "如果网站无法加载，请检查你的网络连接。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["verify", "examine"],
+      "phrases": []
+    },
+    "fix": {
+      "word": "fix",
+      "translation": "修复",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The technician will fix the computer problem.",
+          "zh": "技术人员将修复电脑问题。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["repair", "solve"],
+      "phrases": []
+    },
+    "restart": {
+      "word": "restart",
+      "translation": "重启",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Try to restart your phone if it's not working properly.",
+          "zh": "如果手机运行不正常，试着重启。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["reboot", "reset"],
+      "phrases": []
+    },
+    "open": {
+      "word": "open",
+      "translation": "打开",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Open the application to start working.",
+          "zh": "打开应用程序开始工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["launch", "start"],
+      "phrases": []
+    },
+    "close": {
+      "word": "close",
+      "translation": "关闭",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Close all programs before shutting down.",
+          "zh": "关机前关闭所有程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["shut", "exit"],
+      "phrases": []
+    },
+    "delete": {
+      "word": "delete",
+      "translation": "删除",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Delete the unwanted files to free up space.",
+          "zh": "删除不需要的文件以释放空间。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["remove", "erase"],
+      "phrases": []
+    },
+    "copy": {
+      "word": "copy",
+      "translation": "复制",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Copy the text and paste it into a new document.",
+          "zh": "复制文本并粘贴到新文档中。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["duplicate", "replicate"],
+      "phrases": []
+    },
+    "paste": {
+      "word": "paste",
+      "translation": "粘贴",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Paste the copied content here.",
+          "zh": "在这里粘贴复制的内容。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["insert", "place"],
+      "phrases": []
+    },
+    "update": {
+      "word": "update",
+      "translation": "更新",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Update your software to the latest version.",
+          "zh": "将你的软件更新到最新版本。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["upgrade", "refresh"],
+      "phrases": []
+    },
+    "backup": {
+      "word": "backup",
+      "translation": "备份",
+      "phonetic": "",
+      "part_of_speech": "v & n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Backup your important files regularly.",
+          "zh": "定期备份重要文件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["copy", "save"],
+      "phrases": []
+    },
+    "restore": {
+      "word": "restore",
+      "translation": "恢复",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Restore your data from the backup.",
+          "zh": "从备份中恢复你的数据。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["recover", "reinstate"],
+      "phrases": []
+    },
+    "format": {
+      "word": "format",
+      "translation": "格式化",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Format the disk before using it.",
+          "zh": "使用前先格式化磁盘。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["initialize", "erase"],
+      "phrases": []
+    },
+    "scan": {
+      "word": "scan",
+      "translation": "扫描",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Scan the document for viruses.",
+          "zh": "扫描文档查找病毒。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["check", "examine"],
+      "phrases": []
+    },
+    "print": {
+      "word": "print",
+      "translation": "打印",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Print the document in color.",
+          "zh": "用彩色打印文档。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations"],
+      "category": "技术操作",
+      "related_words": ["output", "copy"],
+      "phrases": []
+    },
+    "troubleshoot": {
+      "word": "troubleshoot",
+      "translation": "故障排除",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Troubleshoot the network connection issues.",
+          "zh": "排除网络连接问题。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["diagnose", "debug"],
+      "phrases": []
+    },
+    "repair": {
+      "word": "repair",
+      "translation": "修理",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Repair the damaged files.",
+          "zh": "修复损坏的文件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["fix", "mend"],
+      "phrases": []
+    },
+    "recover": {
+      "word": "recover",
+      "translation": "恢复",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Recover the deleted files from the recycle bin.",
+          "zh": "从回收站恢复删除的文件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["restore", "retrieve"],
+      "phrases": []
+    },
+    "uninstall": {
+      "word": "uninstall",
+      "translation": "卸载",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Uninstall the program if you don't need it anymore.",
+          "zh": "如果不再需要就卸载这个程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["remove", "delete"],
+      "phrases": []
+    },
+    "reset": {
+      "word": "reset",
+      "translation": "重置",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Reset the device to factory settings.",
+          "zh": "将设备重置为出厂设置。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Technical Operations", "Problem Solving"],
+      "category": "技术操作",
+      "related_words": ["restore", "clear"],
+      "phrases": []
+    }
+  }
+} 

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "category": "Sports",
+    "category_cn": "体育运动",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "baseball": {
+      "word": "baseball",
+      "translation": "棒球",
+      "phonetic": "ˈbeɪsbɔːl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They play baseball every Sunday.",
+          "zh": "他们每个星期天都打棒球。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["ball game", "batting"],
+      "phrases": [
+        {
+          "phrase": "play baseball",
+          "translation": "打棒球",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "basketball": {
+      "word": "basketball",
+      "translation": "篮球",
+      "phonetic": "ˈbɑːskɪtbɔːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He plays basketball after school.",
+          "zh": "他放学后打篮球。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["hoops", "b-ball"],
+      "phrases": [
+        {
+          "phrase": "play basketball",
+          "translation": "打篮球",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "football": {
+      "word": "football",
+      "translation": "足球",
+      "phonetic": "ˈfʊtbɔːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We watched the football match on TV.",
+          "zh": "我们在电视上看足球比赛。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["soccer", "kick"],
+      "phrases": [
+        {
+          "phrase": "football match",
+          "translation": "足球比赛",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "golf": {
+      "word": "golf",
+      "translation": "高尔夫",
+      "phonetic": "ɡɒlf",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My father plays golf on weekends.",
+          "zh": "我父亲周末打高尔夫。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["putting", "swing"],
+      "phrases": [
+        {
+          "phrase": "play golf",
+          "translation": "打高尔夫",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "swimming": {
+      "word": "swimming",
+      "translation": "游泳",
+      "phonetic": "ˈswɪmɪŋ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Swimming is good exercise.",
+          "zh": "游泳是很好的运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["swim", "diving"],
+      "phrases": [
+        {
+          "phrase": "go swimming",
+          "translation": "去游泳",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "tennis": {
+      "word": "tennis",
+      "translation": "网球",
+      "phonetic": "ˈtenɪs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They play tennis every morning.",
+          "zh": "他们每天早上打网球。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["court game", "racket sport"],
+      "phrases": [
+        {
+          "phrase": "play tennis",
+          "translation": "打网球",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "volleyball": {
+      "word": "volleyball",
+      "translation": "排球",
+      "phonetic": "ˈvɒlibɔːl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Our school has a volleyball team.",
+          "zh": "我们学校有一个排球队。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["volley", "spike"],
+      "phrases": [
+        {
+          "phrase": "play volleyball",
+          "translation": "打排球",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "court": {
+      "word": "court",
+      "translation": "球场",
+      "phonetic": "kɔːt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The tennis court is busy today.",
+          "zh": "今天网球场很忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["playing field", "arena"],
+      "phrases": [
+        {
+          "phrase": "tennis court",
+          "translation": "网球场",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "gym": {
+      "word": "gym",
+      "translation": "健身房",
+      "phonetic": "dʒɪm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I go to the gym three times a week.",
+          "zh": "我每周去三次健身房。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["gymnasium", "fitness center"],
+      "phrases": [
+        {
+          "phrase": "go to the gym",
+          "translation": "去健身房",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "park": {
+      "word": "park",
+      "translation": "公园",
+      "phonetic": "pɑːk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Children play sports in the park.",
+          "zh": "孩子们在公园里运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["playground", "recreation area"],
+      "phrases": [
+        {
+          "phrase": "go to the park",
+          "translation": "去公园",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pool": {
+      "word": "pool",
+      "translation": "游泳池",
+      "phonetic": "puːl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The pool is open all year round.",
+          "zh": "游泳池全年开放。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["swimming pool", "aquatic center"],
+      "phrases": [
+        {
+          "phrase": "swimming pool",
+          "translation": "游泳池",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "stadium": {
+      "word": "stadium",
+      "translation": "体育场",
+      "phonetic": "ˈsteɪdiəm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The football match is at the stadium.",
+          "zh": "足球比赛在体育场举行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["sports ground", "arena"],
+      "phrases": [
+        {
+          "phrase": "football stadium",
+          "translation": "足球场",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "ball": {
+      "word": "ball",
+      "translation": "球",
+      "phonetic": "bɔːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need a new basketball.",
+          "zh": "我们需要一个新篮球。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["sports ball", "sphere"],
+      "phrases": [
+        {
+          "phrase": "play ball",
+          "translation": "打球",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bat": {
+      "word": "bat",
+      "translation": "球拍",
+      "phonetic": "bæt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He bought a new tennis racket.",
+          "zh": "他买了一个新网球拍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["racket", "paddle"],
+      "phrases": [
+        {
+          "phrase": "baseball bat",
+          "translation": "棒球棒",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "net": {
+      "word": "net",
+      "translation": "网",
+      "phonetic": "net",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The volleyball net needs fixing.",
+          "zh": "排球网需要修理。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Sports", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["sports net", "goal"],
+      "phrases": [
+        {
+          "phrase": "tennis net",
+          "translation": "网球网",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

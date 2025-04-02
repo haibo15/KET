@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "category": "Banking Services",
+    "category_cn": "银行服务",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "account": {
+      "word": "account",
+      "translation": "账户",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to open a new bank account.",
+          "zh": "我需要开一个新的银行账户。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Basic Services"],
+      "category": "银行服务",
+      "related_words": ["bank account", "savings account"],
+      "phrases": []
+    },
+    "card": {
+      "word": "card",
+      "translation": "卡",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You can pay with your credit card.",
+          "zh": "你可以用信用卡支付。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Basic Services"],
+      "category": "银行服务",
+      "related_words": ["bank card", "credit card"],
+      "phrases": []
+    },
+    "cash": {
+      "word": "cash",
+      "translation": "现金",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Some small shops only accept cash.",
+          "zh": "一些小商店只接受现金。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Basic Services"],
+      "category": "银行服务",
+      "related_words": ["money", "currency"],
+      "phrases": []
+    },
+    "cheque": {
+      "word": "cheque",
+      "translation": "支票",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She paid by cheque for the new furniture.",
+          "zh": "她用支票支付了新家具的费用。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Basic Services"],
+      "category": "银行服务",
+      "related_words": ["check", "bank draft"],
+      "phrases": []
+    },
+    "borrow": {
+      "word": "borrow",
+      "translation": "借",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You can borrow money from the bank.",
+          "zh": "你可以从银行借钱。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["loan", "take out"],
+      "phrases": []
+    },
+    "pay": {
+      "word": "pay",
+      "translation": "支付",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please pay your bills before the due date.",
+          "zh": "请在到期日之前支付账单。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["make payment", "transfer"],
+      "phrases": []
+    },
+    "save": {
+      "word": "save",
+      "translation": "存钱",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "It's important to save money for the future.",
+          "zh": "为未来存钱很重要。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["deposit", "put away"],
+      "phrases": []
+    },
+    "deposit": {
+      "word": "deposit",
+      "translation": "存款",
+      "phonetic": "",
+      "part_of_speech": "n/v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to deposit some money into my account.",
+          "zh": "我需要往我的账户里存一些钱。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["save", "put in"],
+      "phrases": []
+    },
+    "withdraw": {
+      "word": "withdraw",
+      "translation": "取款",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You can withdraw money from any ATM.",
+          "zh": "你可以在任何自动取款机取钱。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["take out", "get money"],
+      "phrases": []
+    },
+    "balance": {
+      "word": "balance",
+      "translation": "余额",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Check your account balance regularly.",
+          "zh": "定期查看你的账户余额。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Basic Services"],
+      "category": "银行服务",
+      "related_words": ["amount", "funds"],
+      "phrases": []
+    },
+    "transfer": {
+      "word": "transfer",
+      "translation": "转账",
+      "phonetic": "",
+      "part_of_speech": "v/n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to transfer money to my savings account.",
+          "zh": "我需要把钱转到我的储蓄账户。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["send", "move"],
+      "phrases": []
+    },
+    "exchange": {
+      "word": "exchange",
+      "translation": "兑换",
+      "phonetic": "",
+      "part_of_speech": "v/n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You can exchange foreign currency at the bank.",
+          "zh": "你可以在银行兑换外币。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Banking", "Service Operations"],
+      "category": "银行服务",
+      "related_words": ["convert", "change"],
+      "phrases": []
+    },
+    "loan": {
+      "word": "loan",
+      "translation": "贷款",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They applied for a home loan from the bank.",
+          "zh": "他们向银行申请了住房贷款。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Financial Products"],
+      "category": "银行服务",
+      "related_words": ["mortgage", "credit"],
+      "phrases": []
+    },
+    "interest": {
+      "word": "interest",
+      "translation": "利息",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The bank offers a high interest rate on savings accounts.",
+          "zh": "银行为储蓄账户提供高利率。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Banking", "Financial Products"],
+      "category": "银行服务",
+      "related_words": ["rate", "return"],
+      "phrases": []
+    },
+    "ATM": {
+      "word": "ATM",
+      "translation": "自动取款机",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "There's an ATM outside the bank.",
+          "zh": "银行外面有一台自动取款机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Banking", "Equipment"],
+      "category": "银行服务",
+      "related_words": ["cash machine", "bank machine"],
+      "phrases": []
+    }
+  }
+} 

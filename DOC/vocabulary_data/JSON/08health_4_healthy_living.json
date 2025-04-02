@@ -1,0 +1,482 @@
+{
+  "metadata": {
+    "category": "Healthy Living",
+    "category_cn": "健康生活",
+    "word_count": 26,
+    "difficulty_distribution": {
+      "A": 80,
+      "B": 15,
+      "C": 5
+    }
+  },
+  "words": {
+    "breakfast": {
+      "word": "breakfast",
+      "translation": "早餐",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Breakfast is the most important meal of the day.",
+          "zh": "早餐是一天中最重要的一餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["morning meal", "first meal"],
+      "phrases": []
+    },
+    "dinner": {
+      "word": "dinner",
+      "translation": "晚餐",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We usually have dinner at 7 PM.",
+          "zh": "我们通常在晚上7点吃晚餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["evening meal", "supper"],
+      "phrases": []
+    },
+    "drink": {
+      "word": "drink",
+      "translation": "喝",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Remember to drink plenty of water.",
+          "zh": "记得多喝水。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["consume", "sip"],
+      "phrases": []
+    },
+    "eat": {
+      "word": "eat",
+      "translation": "吃",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Eat more fruits and vegetables.",
+          "zh": "多吃水果和蔬菜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["consume", "dine"],
+      "phrases": []
+    },
+    "food": {
+      "word": "food",
+      "translation": "食物",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Healthy food gives you energy.",
+          "zh": "健康的食物给你能量。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["nourishment", "nutrition"],
+      "phrases": []
+    },
+    "fruit": {
+      "word": "fruit",
+      "translation": "水果",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Eat fresh fruit every day.",
+          "zh": "每天吃新鲜水果。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["fresh fruit", "produce"],
+      "phrases": []
+    },
+    "healthy": {
+      "word": "healthy",
+      "translation": "健康的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Choose healthy snacks.",
+          "zh": "选择健康的零食。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["nutritious", "wholesome"],
+      "phrases": []
+    },
+    "lunch": {
+      "word": "lunch",
+      "translation": "午餐",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I usually have lunch at work.",
+          "zh": "我通常在工作时吃午餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["midday meal", "noon meal"],
+      "phrases": []
+    },
+    "meal": {
+      "word": "meal",
+      "translation": "餐",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Have three meals a day.",
+          "zh": "一天吃三餐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["repast", "food"],
+      "phrases": []
+    },
+    "vegetable": {
+      "word": "vegetable",
+      "translation": "蔬菜",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Vegetables are good for your health.",
+          "zh": "蔬菜对健康有好处。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["greens", "veggies"],
+      "phrases": []
+    },
+    "vitamin": {
+      "word": "vitamin",
+      "translation": "维生素",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Fruits are rich in vitamins.",
+          "zh": "水果富含维生素。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["nutrient", "supplement"],
+      "phrases": []
+    },
+    "water": {
+      "word": "water",
+      "translation": "水",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Drink eight glasses of water daily.",
+          "zh": "每天喝八杯水。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Healthy Diet"],
+      "category": "健康生活",
+      "related_words": ["H2O", "liquid"],
+      "phrases": []
+    },
+    "exercise": {
+      "word": "exercise",
+      "translation": "运动",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Regular exercise is good for health.",
+          "zh": "规律运动对健康有好处。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["workout", "training"],
+      "phrases": []
+    },
+    "fit": {
+      "word": "fit",
+      "translation": "健康的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Stay fit with regular exercise.",
+          "zh": "通过规律运动保持健康。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["healthy", "in shape"],
+      "phrases": []
+    },
+    "game": {
+      "word": "game",
+      "translation": "游戏",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's play a game of tennis.",
+          "zh": "我们来打场网球。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["sport", "match"],
+      "phrases": []
+    },
+    "play": {
+      "word": "play",
+      "translation": "玩",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The children play in the park.",
+          "zh": "孩子们在公园里玩耍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["participate", "engage in"],
+      "phrases": []
+    },
+    "run": {
+      "word": "run",
+      "translation": "跑步",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I run every morning.",
+          "zh": "我每天早上跑步。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["jog", "sprint"],
+      "phrases": []
+    },
+    "sport": {
+      "word": "sport",
+      "translation": "运动",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Swimming is my favorite sport.",
+          "zh": "游泳是我最喜欢的运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["athletics", "physical activity"],
+      "phrases": []
+    },
+    "swim": {
+      "word": "swim",
+      "translation": "游泳",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I swim twice a week.",
+          "zh": "我每周游泳两次。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["bathe", "paddle"],
+      "phrases": []
+    },
+    "walk": {
+      "word": "walk",
+      "translation": "步行",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Walking is good exercise.",
+          "zh": "步行是很好的运动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Exercise and Fitness"],
+      "category": "健康生活",
+      "related_words": ["stroll", "hike"],
+      "phrases": []
+    },
+    "bath": {
+      "word": "bath",
+      "translation": "洗澡",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take a bath every day.",
+          "zh": "每天洗澡。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Lifestyle Habits"],
+      "category": "健康生活",
+      "related_words": ["bathe", "wash"],
+      "phrases": []
+    },
+    "clean": {
+      "word": "clean",
+      "translation": "清洁的；清洁",
+      "phonetic": "",
+      "part_of_speech": "adj & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Keep your hands clean.",
+          "zh": "保持手部清洁。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Lifestyle Habits"],
+      "category": "健康生活",
+      "related_words": ["hygienic", "sanitize"],
+      "phrases": []
+    },
+    "rest": {
+      "word": "rest",
+      "translation": "休息",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Get enough rest at night.",
+          "zh": "晚上要充分休息。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Lifestyle Habits"],
+      "category": "健康生活",
+      "related_words": ["relax", "repose"],
+      "phrases": []
+    },
+    "shower": {
+      "word": "shower",
+      "translation": "淋浴",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take a shower in the morning.",
+          "zh": "早上冲个澡。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Lifestyle Habits"],
+      "category": "健康生活",
+      "related_words": ["wash", "rinse"],
+      "phrases": []
+    },
+    "sleep": {
+      "word": "sleep",
+      "translation": "睡眠；睡觉",
+      "phonetic": "",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Get eight hours of sleep.",
+          "zh": "睡够八个小时。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Lifestyle Habits"],
+      "category": "健康生活",
+      "related_words": ["slumber", "rest"],
+      "phrases": []
+    },
+    "wash": {
+      "word": "wash",
+      "translation": "洗",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Wash your hands before eating.",
+          "zh": "吃饭前要洗手。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Lifestyle Habits"],
+      "category": "健康生活",
+      "related_words": ["clean", "rinse"],
+      "phrases": []
+    }
+  }
+} 

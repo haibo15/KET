@@ -1,0 +1,446 @@
+{
+  "metadata": {
+    "category": "Hobbies",
+    "category_cn": "兴趣爱好",
+    "word_count": 18,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "art": {
+      "word": "art",
+      "translation": "艺术",
+      "phonetic": "ɑːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She loves creating art in her free time.",
+          "zh": "她喜欢在空闲时间创作艺术。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["artwork", "artistic"],
+      "phrases": [
+        {
+          "phrase": "work of art",
+          "translation": "艺术品",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "dance": {
+      "word": "dance",
+      "translation": "跳舞",
+      "phonetic": "dɑːns",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "They dance every weekend at the club.",
+          "zh": "他们每个周末都在俱乐部跳舞。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["dancing", "ballet"],
+      "phrases": [
+        {
+          "phrase": "dance class",
+          "translation": "舞蹈课",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "draw": {
+      "word": "draw",
+      "translation": "画画",
+      "phonetic": "drɔː",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He likes to draw pictures of animals.",
+          "zh": "他喜欢画动物画。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["sketch", "illustrate"],
+      "phrases": [
+        {
+          "phrase": "draw a picture",
+          "translation": "画一幅画",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "film": {
+      "word": "film",
+      "translation": "电影",
+      "phonetic": "fɪlm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's watch a film tonight.",
+          "zh": "今晚我们看电影吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["movie", "cinema"],
+      "phrases": [
+        {
+          "phrase": "watch a film",
+          "translation": "看电影",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "music": {
+      "word": "music",
+      "translation": "音乐",
+      "phonetic": "ˈmjuːzɪk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She listens to music while studying.",
+          "zh": "她在学习时听音乐。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["melody", "song"],
+      "phrases": [
+        {
+          "phrase": "listen to music",
+          "translation": "听音乐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "paint": {
+      "word": "paint",
+      "translation": "绘画",
+      "phonetic": "peɪnt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I paint landscapes in my spare time.",
+          "zh": "我在空闲时间画风景画。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["color", "brush"],
+      "phrases": [
+        {
+          "phrase": "paint a picture",
+          "translation": "画一幅画",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "photograph": {
+      "word": "photograph",
+      "translation": "照片",
+      "phonetic": "ˈfəʊtəɡrɑːf",
+      "part_of_speech": "n & v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He took photographs during the trip.",
+          "zh": "他在旅行期间拍照。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["photo", "picture"],
+      "phrases": [
+        {
+          "phrase": "take a photograph",
+          "translation": "拍照",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sing": {
+      "word": "sing",
+      "translation": "唱歌",
+      "phonetic": "sɪŋ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She sings in the school choir.",
+          "zh": "她在学校合唱团唱歌。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Arts", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["vocalist", "perform"],
+      "phrases": [
+        {
+          "phrase": "sing a song",
+          "translation": "唱一首歌",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "book": {
+      "word": "book",
+      "translation": "书",
+      "phonetic": "bʊk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "He collects rare books.",
+          "zh": "他收藏珍贵的书籍。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Collections", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["novel", "textbook"],
+      "phrases": [
+        {
+          "phrase": "read a book",
+          "translation": "读一本书",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "card": {
+      "word": "card",
+      "translation": "卡片",
+      "phonetic": "kɑːd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She has a collection of vintage postcards.",
+          "zh": "她收藏了一些古老的明信片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Collections", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["postcard", "greeting card"],
+      "phrases": [
+        {
+          "phrase": "birthday card",
+          "translation": "生日卡",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "collect": {
+      "word": "collect",
+      "translation": "收藏",
+      "phonetic": "kəˈlekt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I collect stamps from different countries.",
+          "zh": "我收集来自不同国家的邮票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Collections", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["gather", "accumulate"],
+      "phrases": [
+        {
+          "phrase": "collect coins",
+          "translation": "收集硬币",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "magazine": {
+      "word": "magazine",
+      "translation": "杂志",
+      "phonetic": "ˌmæɡəˈziːn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She subscribes to several fashion magazines.",
+          "zh": "她订阅了几本时尚杂志。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Collections", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["journal", "periodical"],
+      "phrases": [
+        {
+          "phrase": "read a magazine",
+          "translation": "读杂志",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "stamp": {
+      "word": "stamp",
+      "translation": "邮票",
+      "phonetic": "stæmp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My grandfather gave me his stamp collection.",
+          "zh": "我的祖父把他的邮票收藏给了我。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Collections", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["postage stamp", "philately"],
+      "phrases": [
+        {
+          "phrase": "collect stamps",
+          "translation": "集邮",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "craft": {
+      "word": "craft",
+      "translation": "手工艺",
+      "phonetic": "krɑːft",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She enjoys making different crafts.",
+          "zh": "她喜欢制作各种手工艺品。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Handicrafts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["handicraft", "artcraft"],
+      "phrases": [
+        {
+          "phrase": "arts and crafts",
+          "translation": "手工艺",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "knit": {
+      "word": "knit",
+      "translation": "编织",
+      "phonetic": "nɪt",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My grandmother taught me how to knit.",
+          "zh": "我的祖母教我编织。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Handicrafts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["weave", "crochet"],
+      "phrases": [
+        {
+          "phrase": "knit a sweater",
+          "translation": "织毛衣",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "make": {
+      "word": "make",
+      "translation": "制作",
+      "phonetic": "meɪk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We make decorations for parties.",
+          "zh": "我们制作派对装饰品。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Handicrafts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["create", "produce"],
+      "phrases": [
+        {
+          "phrase": "make something",
+          "translation": "制作某物",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sew": {
+      "word": "sew",
+      "translation": "缝纫",
+      "phonetic": "səʊ",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She sews her own clothes.",
+          "zh": "她自己缝制衣服。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Handicrafts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["stitch", "tailor"],
+      "phrases": [
+        {
+          "phrase": "sew on a button",
+          "translation": "缝纽扣",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "design": {
+      "word": "design",
+      "translation": "设计",
+      "phonetic": "dɪˈzaɪn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He designs greeting cards as a hobby.",
+          "zh": "他以设计贺卡为爱好。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Handicrafts", "Hobbies"],
+      "category": "休闲娱乐",
+      "related_words": ["plan", "create"],
+      "phrases": [
+        {
+          "phrase": "design a logo",
+          "translation": "设计标志",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "category": "Social Activities",
+    "category_cn": "社交活动",
+    "word_count": 12,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "club": {
+      "word": "club",
+      "translation": "俱乐部",
+      "phonetic": "klʌb",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They meet at the sports club.",
+          "zh": "他们在体育俱乐部见面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["social club", "organization"],
+      "phrases": [
+        {
+          "phrase": "join a club",
+          "translation": "加入俱乐部",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "restaurant": {
+      "word": "restaurant",
+      "translation": "餐厅",
+      "phonetic": "ˈrestrɒnt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's have dinner at the restaurant.",
+          "zh": "让我们在餐厅吃晚饭。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["dining place", "eatery"],
+      "phrases": [
+        {
+          "phrase": "Chinese restaurant",
+          "translation": "中餐厅",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "café": {
+      "word": "café",
+      "translation": "咖啡馆",
+      "phonetic": "ˈkæfeɪ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We often meet at the café.",
+          "zh": "我们经常在咖啡馆见面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["coffee shop", "bistro"],
+      "phrases": [
+        {
+          "phrase": "internet café",
+          "translation": "网吧",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "garden": {
+      "word": "garden",
+      "translation": "花园",
+      "phonetic": "ˈɡɑːdn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The party is in the garden.",
+          "zh": "派对在花园里举行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["park", "yard"],
+      "phrases": [
+        {
+          "phrase": "garden party",
+          "translation": "花园派对",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "chat": {
+      "word": "chat",
+      "translation": "聊天",
+      "phonetic": "tʃæt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We chatted for hours.",
+          "zh": "我们聊了几个小时。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["talk", "converse"],
+      "phrases": [
+        {
+          "phrase": "chat with friends",
+          "translation": "和朋友聊天",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "meet": {
+      "word": "meet",
+      "translation": "见面",
+      "phonetic": "miːt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's meet for coffee.",
+          "zh": "我们见面喝咖啡吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["gather", "assemble"],
+      "phrases": [
+        {
+          "phrase": "meet up",
+          "translation": "碰面",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "share": {
+      "word": "share",
+      "translation": "分享",
+      "phonetic": "ʃeə(r)",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's share our experiences.",
+          "zh": "让我们分享我们的经历。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["distribute", "give"],
+      "phrases": [
+        {
+          "phrase": "share with others",
+          "translation": "与他人分享",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hello": {
+      "word": "hello",
+      "translation": "你好",
+      "phonetic": "həˈləʊ",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Hello, how are you?",
+          "zh": "你好，你好吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["hi", "greeting"],
+      "phrases": [
+        {
+          "phrase": "say hello",
+          "translation": "打招呼",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "goodbye": {
+      "word": "goodbye",
+      "translation": "再见",
+      "phonetic": "ˌɡʊdˈbaɪ",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Goodbye, see you tomorrow.",
+          "zh": "再见，明天见。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["bye", "farewell"],
+      "phrases": [
+        {
+          "phrase": "say goodbye",
+          "translation": "说再见",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "please": {
+      "word": "please",
+      "translation": "请",
+      "phonetic": "pliːz",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please help me.",
+          "zh": "请帮助我。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["kindly", "if you would"],
+      "phrases": [
+        {
+          "phrase": "yes please",
+          "translation": "好的，请",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "thank_you": {
+      "word": "thank you",
+      "translation": "谢谢",
+      "phonetic": "θæŋk juː",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Thank you for your help.",
+          "zh": "谢谢你的帮助。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["thanks", "appreciate"],
+      "phrases": [
+        {
+          "phrase": "thank you very much",
+          "translation": "非常感谢",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sorry": {
+      "word": "sorry",
+      "translation": "抱歉",
+      "phonetic": "ˈsɒri",
+      "part_of_speech": "excl",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Sorry, I'm late.",
+          "zh": "抱歉，我迟到了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Social Activities", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["excuse me", "pardon"],
+      "phrases": [
+        {
+          "phrase": "I'm sorry",
+          "translation": "对不起",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

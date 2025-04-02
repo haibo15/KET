@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "category": "Body Parts",
+    "category_cn": "身体部位",
+    "word_count": 25,
+    "difficulty_distribution": {
+      "A": 80,
+      "B": 15,
+      "C": 5
+    }
+  },
+  "words": {
+    "ear": {
+      "word": "ear",
+      "translation": "耳朵",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The doctor checked my ears.",
+          "zh": "医生检查了我的耳朵。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["hearing organ", "earlobe"],
+      "phrases": []
+    },
+    "eye": {
+      "word": "eye",
+      "translation": "眼睛",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Her eyes are blue.",
+          "zh": "她的眼睛是蓝色的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["eyeball", "vision"],
+      "phrases": []
+    },
+    "face": {
+      "word": "face",
+      "translation": "脸",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She has a beautiful face.",
+          "zh": "她有一张漂亮的脸。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["facial features", "countenance"],
+      "phrases": []
+    },
+    "hair": {
+      "word": "hair",
+      "translation": "头发",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She has long black hair.",
+          "zh": "她有一头乌黑的长发。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["hairstyle", "locks"],
+      "phrases": []
+    },
+    "head": {
+      "word": "head",
+      "translation": "头",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a headache.",
+          "zh": "我头疼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["skull", "cranium"],
+      "phrases": []
+    },
+    "mouth": {
+      "word": "mouth",
+      "translation": "嘴",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Open your mouth wide.",
+          "zh": "张大嘴巴。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["lips", "oral cavity"],
+      "phrases": []
+    },
+    "nose": {
+      "word": "nose",
+      "translation": "鼻子",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My nose is blocked.",
+          "zh": "我鼻子堵塞了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["nostril", "nasal"],
+      "phrases": []
+    },
+    "tooth": {
+      "word": "tooth/teeth",
+      "translation": "牙齿",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Brush your teeth twice a day.",
+          "zh": "每天刷两次牙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["molar", "dental"],
+      "phrases": []
+    },
+    "arm": {
+      "word": "arm",
+      "translation": "手臂",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She broke her arm in the accident.",
+          "zh": "她在事故中摔断了手臂。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["limb", "forearm"],
+      "phrases": []
+    },
+    "back": {
+      "word": "back",
+      "translation": "背部",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My back hurts after exercising.",
+          "zh": "运动后我的背疼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["spine", "backbone"],
+      "phrases": []
+    },
+    "body": {
+      "word": "body",
+      "translation": "身体",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Keep your body healthy.",
+          "zh": "保持身体健康。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["physique", "figure"],
+      "phrases": []
+    },
+    "chest": {
+      "word": "chest",
+      "translation": "胸部",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take a deep breath and expand your chest.",
+          "zh": "深呼吸，扩张胸部。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["thorax", "breast"],
+      "phrases": []
+    },
+    "foot": {
+      "word": "foot/feet",
+      "translation": "脚",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My feet are tired from walking.",
+          "zh": "走路让我的脚很疲惫。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["sole", "toes"],
+      "phrases": []
+    },
+    "hand": {
+      "word": "hand",
+      "translation": "手",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Wash your hands before eating.",
+          "zh": "吃饭前要洗手。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["palm", "fingers"],
+      "phrases": []
+    },
+    "leg": {
+      "word": "leg",
+      "translation": "腿",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My legs are sore from running.",
+          "zh": "跑步让我的腿很酸痛。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["limb", "thigh"],
+      "phrases": []
+    },
+    "neck": {
+      "word": "neck",
+      "translation": "脖子",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Turn your neck slowly.",
+          "zh": "慢慢转动脖子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["throat", "cervical"],
+      "phrases": []
+    },
+    "shoulder": {
+      "word": "shoulder",
+      "translation": "肩膀",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She carried the bag on her shoulder.",
+          "zh": "她把包背在肩上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["joint", "upper arm"],
+      "phrases": []
+    },
+    "stomach": {
+      "word": "stomach",
+      "translation": "胃",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My stomach hurts.",
+          "zh": "我胃疼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["belly", "tummy"],
+      "phrases": []
+    },
+    "brain": {
+      "word": "brain",
+      "translation": "大脑",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The brain controls all body functions.",
+          "zh": "大脑控制着所有的身体功能。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["mind", "cerebrum"],
+      "phrases": []
+    },
+    "heart": {
+      "word": "heart",
+      "translation": "心脏",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My heart beats faster when I exercise.",
+          "zh": "运动时我的心跳加快。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["cardiac", "pulse"],
+      "phrases": []
+    },
+    "liver": {
+      "word": "liver",
+      "translation": "肝脏",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The liver helps clean your blood.",
+          "zh": "肝脏帮助清洁血液。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["hepatic", "organ"],
+      "phrases": []
+    },
+    "lung": {
+      "word": "lung",
+      "translation": "肺",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The lungs help you breathe.",
+          "zh": "肺帮助你呼吸。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["respiratory", "pulmonary"],
+      "phrases": []
+    },
+    "kidney": {
+      "word": "kidney",
+      "translation": "肾脏",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The kidneys filter your blood.",
+          "zh": "肾脏过滤血液。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["renal", "organ"],
+      "phrases": []
+    },
+    "muscle": {
+      "word": "muscle",
+      "translation": "肌肉",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Exercise helps build muscles.",
+          "zh": "运动有助于增长肌肉。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["tissue", "sinew"],
+      "phrases": []
+    },
+    "bone": {
+      "word": "bone",
+      "translation": "骨头",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Milk helps make your bones strong.",
+          "zh": "牛奶有助于强健骨骼。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Body Parts"],
+      "category": "身体部位",
+      "related_words": ["skeleton", "osseous"],
+      "phrases": []
+    }
+  }
+} 

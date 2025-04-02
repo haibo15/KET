@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "category": "Medical Services",
+    "category_cn": "医疗服务",
+    "word_count": 20,
+    "difficulty_distribution": {
+      "A": 75,
+      "B": 20,
+      "C": 5
+    }
+  },
+  "words": {
+    "clinic": {
+      "word": "clinic",
+      "translation": "诊所",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The clinic opens at 9 AM.",
+          "zh": "诊所早上9点开门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["medical center", "surgery"],
+      "phrases": []
+    },
+    "dentist": {
+      "word": "dentist",
+      "translation": "牙医",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have an appointment with the dentist.",
+          "zh": "我和牙医有预约。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["dental clinic", "dental surgeon"],
+      "phrases": []
+    },
+    "doctor": {
+      "word": "doctor",
+      "translation": "医生",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The doctor examined my throat.",
+          "zh": "医生检查了我的喉咙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["physician", "medical practitioner"],
+      "phrases": []
+    },
+    "hospital": {
+      "word": "hospital",
+      "translation": "医院",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She was taken to the hospital.",
+          "zh": "她被送到了医院。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["medical center", "infirmary"],
+      "phrases": []
+    },
+    "nurse": {
+      "word": "nurse",
+      "translation": "护士",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The nurse took my blood pressure.",
+          "zh": "护士给我量了血压。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["medical nurse", "caregiver"],
+      "phrases": []
+    },
+    "pharmacy": {
+      "word": "pharmacy",
+      "translation": "药房",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to go to the pharmacy to get my medicine.",
+          "zh": "我需要去药房拿药。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["chemist", "drugstore"],
+      "phrases": []
+    },
+    "bandage": {
+      "word": "bandage",
+      "translation": "绷带",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The nurse put a bandage on my cut.",
+          "zh": "护士用绷带包扎了我的伤口。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Supplies"],
+      "category": "医疗服务",
+      "related_words": ["dressing", "wrap"],
+      "phrases": []
+    },
+    "medicine": {
+      "word": "medicine",
+      "translation": "药",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Take your medicine after meals.",
+          "zh": "饭后服药。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Supplies"],
+      "category": "医疗服务",
+      "related_words": ["medication", "drug"],
+      "phrases": []
+    },
+    "pill": {
+      "word": "pill",
+      "translation": "药片",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take one pill three times a day.",
+          "zh": "一天服用三次，每次一片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Supplies"],
+      "category": "医疗服务",
+      "related_words": ["tablet", "capsule"],
+      "phrases": []
+    },
+    "prescription": {
+      "word": "prescription",
+      "translation": "处方",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The doctor wrote me a prescription.",
+          "zh": "医生给我开了处方。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Medical Supplies"],
+      "category": "医疗服务",
+      "related_words": ["script", "medical prescription"],
+      "phrases": []
+    },
+    "tablet": {
+      "word": "tablet",
+      "translation": "药片",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take two tablets before bed.",
+          "zh": "睡前服用两片。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Supplies"],
+      "category": "医疗服务",
+      "related_words": ["pill", "capsule"],
+      "phrases": []
+    },
+    "thermometer": {
+      "word": "thermometer",
+      "translation": "温度计",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use the thermometer to check your temperature.",
+          "zh": "用温度计测量体温。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Supplies"],
+      "category": "医疗服务",
+      "related_words": ["fever thermometer", "temperature gauge"],
+      "phrases": []
+    },
+    "appointment": {
+      "word": "appointment",
+      "translation": "预约",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I made an appointment with the doctor.",
+          "zh": "我和医生预约了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["booking", "consultation"],
+      "phrases": []
+    },
+    "check": {
+      "word": "check",
+      "translation": "检查",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The doctor will check your blood pressure.",
+          "zh": "医生会检查你的血压。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["examine", "inspect"],
+      "phrases": []
+    },
+    "examine": {
+      "word": "examine",
+      "translation": "检查",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The doctor examined my eyes.",
+          "zh": "医生检查了我的眼睛。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["inspect", "check up"],
+      "phrases": []
+    },
+    "help": {
+      "word": "help",
+      "translation": "帮助",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The nurse helped me to walk.",
+          "zh": "护士帮助我走路。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["assist", "aid"],
+      "phrases": []
+    },
+    "look after": {
+      "word": "look after",
+      "translation": "照顾",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The nurses look after the patients.",
+          "zh": "护士照顾病人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["care for", "take care of"],
+      "phrases": []
+    },
+    "take care": {
+      "word": "take care",
+      "translation": "照顾",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take care of yourself when you're sick.",
+          "zh": "生病时要好好照顾自己。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["care for", "attend to"],
+      "phrases": []
+    },
+    "treat": {
+      "word": "treat",
+      "translation": "治疗",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The doctor treated my infection.",
+          "zh": "医生治疗了我的感染。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["cure", "heal"],
+      "phrases": []
+    },
+    "wait": {
+      "word": "wait",
+      "translation": "等待",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please wait in the waiting room.",
+          "zh": "请在候诊室等候。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Medical Services"],
+      "category": "医疗服务",
+      "related_words": ["stay", "remain"],
+      "phrases": []
+    }
+  }
+} 

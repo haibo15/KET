@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "category": "Festivals",
+    "category_cn": "节日庆祝",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "birthday": {
+      "word": "birthday",
+      "translation": "生日",
+      "phonetic": "ˈbɜːθdeɪ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We celebrated her birthday yesterday.",
+          "zh": "我们昨天庆祝了她的生日。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["birth anniversary", "natal day"],
+      "phrases": [
+        {
+          "phrase": "happy birthday",
+          "translation": "生日快乐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "Christmas": {
+      "word": "Christmas",
+      "translation": "圣诞节",
+      "phonetic": "ˈkrɪsməs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "They exchange gifts at Christmas.",
+          "zh": "他们在圣诞节交换礼物。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["Xmas", "Yuletide"],
+      "phrases": [
+        {
+          "phrase": "Merry Christmas",
+          "translation": "圣诞快乐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "holiday": {
+      "word": "holiday",
+      "translation": "假期",
+      "phonetic": "ˈhɒlədeɪ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We have a long holiday next week.",
+          "zh": "我们下周有一个长假。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["vacation", "break"],
+      "phrases": [
+        {
+          "phrase": "summer holiday",
+          "translation": "暑假",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "New_Year": {
+      "word": "New Year",
+      "translation": "新年",
+      "phonetic": "njuː jɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "People celebrate New Year worldwide.",
+          "zh": "人们在世界各地庆祝新年。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["New Year's Day", "year's end"],
+      "phrases": [
+        {
+          "phrase": "Happy New Year",
+          "translation": "新年快乐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "festival": {
+      "word": "festival",
+      "translation": "节日",
+      "phonetic": "ˈfestɪvl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The music festival is in summer.",
+          "zh": "音乐节在夏天举行。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["celebration", "feast"],
+      "phrases": [
+        {
+          "phrase": "spring festival",
+          "translation": "春节",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "celebrate": {
+      "word": "celebrate",
+      "translation": "庆祝",
+      "phonetic": "ˈselɪbreɪt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "How do you celebrate your birthday?",
+          "zh": "你怎么庆祝你的生日？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["commemorate", "observe"],
+      "phrases": [
+        {
+          "phrase": "celebrate a festival",
+          "translation": "庆祝节日",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "party": {
+      "word": "party",
+      "translation": "聚会",
+      "phonetic": "ˈpɑːti",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "They're having a party tonight.",
+          "zh": "他们今晚要举办聚会。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["celebration", "gathering"],
+      "phrases": [
+        {
+          "phrase": "birthday party",
+          "translation": "生日派对",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "enjoy": {
+      "word": "enjoy",
+      "translation": "享受",
+      "phonetic": "ɪnˈdʒɔɪ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Everyone enjoyed the celebration.",
+          "zh": "每个人都享受这次庆祝活动。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["have fun", "relish"],
+      "phrases": [
+        {
+          "phrase": "enjoy yourself",
+          "translation": "玩得开心",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "gift": {
+      "word": "gift",
+      "translation": "礼物",
+      "phonetic": "ɡɪft",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "What gift should I buy?",
+          "zh": "我应该买什么礼物？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["present", "offering"],
+      "phrases": [
+        {
+          "phrase": "birthday gift",
+          "translation": "生日礼物",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "decoration": {
+      "word": "decoration",
+      "translation": "装饰品",
+      "phonetic": "ˌdekəˈreɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We need Christmas decorations.",
+          "zh": "我们需要圣诞装饰品。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Festivals", "Entertainment"],
+      "category": "休闲娱乐",
+      "related_words": ["ornament", "adornment"],
+      "phrases": [
+        {
+          "phrase": "festival decoration",
+          "translation": "节日装饰",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

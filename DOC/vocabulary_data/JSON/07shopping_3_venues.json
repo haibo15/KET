@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "category": "Shopping Venues",
+    "category_cn": "购物场所",
+    "word_count": 25,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "shop": {
+      "word": "shop",
+      "translation": "商店",
+      "phonetic": "ʃɒp",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This shop sells beautiful clothes.",
+          "zh": "这家商店卖漂亮的衣服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Business"],
+      "category": "商店类型",
+      "related_words": ["store", "retail outlet"],
+      "phrases": [
+        {
+          "phrase": "clothes shop",
+          "translation": "服装店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "supermarket": {
+      "word": "supermarket",
+      "translation": "超市",
+      "phonetic": "ˈsuːpəmɑːkɪt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I buy my groceries at the supermarket.",
+          "zh": "我在超市买日用品。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Food"],
+      "category": "商店类型",
+      "related_words": ["grocery store", "hypermarket"],
+      "phrases": [
+        {
+          "phrase": "local supermarket",
+          "translation": "本地超市",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "mall": {
+      "word": "mall",
+      "translation": "商场",
+      "phonetic": "mɔːl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The new mall has over 100 shops.",
+          "zh": "这个新商场有超过100家商店。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Business"],
+      "category": "购物中心",
+      "related_words": ["shopping mall", "plaza"],
+      "phrases": [
+        {
+          "phrase": "shopping mall",
+          "translation": "购物中心",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "counter": {
+      "word": "counter",
+      "translation": "柜台",
+      "phonetic": "ˈkaʊntə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The sales assistant is behind the counter.",
+          "zh": "售货员在柜台后面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Store Layout"],
+      "category": "商店设施",
+      "related_words": ["desk", "service point"],
+      "phrases": [
+        {
+          "phrase": "service counter",
+          "translation": "服务台",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "window": {
+      "word": "window",
+      "translation": "窗户",
+      "phonetic": "ˈwɪndəʊ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Look at the beautiful display in the window.",
+          "zh": "看看橱窗里漂亮的展示。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Store Layout"],
+      "category": "商店设施",
+      "related_words": ["display window", "shopfront"],
+      "phrases": [
+        {
+          "phrase": "shop window",
+          "translation": "橱窗",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bank": {
+      "word": "bank",
+      "translation": "银行",
+      "phonetic": "bæŋk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to go to the bank to get some money.",
+          "zh": "我需要去银行取些钱。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Finance", "Services"],
+      "category": "商店类型",
+      "related_words": ["financial institution", "branch"],
+      "phrases": [
+        {
+          "phrase": "bank account",
+          "translation": "银行账户",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bookshop": {
+      "word": "bookshop",
+      "translation": "书店",
+      "phonetic": "ˈbʊkʃɒp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I bought this novel at the bookshop.",
+          "zh": "我在书店买了这本小说。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Books"],
+      "category": "商店类型",
+      "related_words": ["bookstore", "library"],
+      "phrases": [
+        {
+          "phrase": "local bookshop",
+          "translation": "本地书店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "café": {
+      "word": "café",
+      "translation": "咖啡馆",
+      "phonetic": "ˈkæfeɪ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Let's meet at the café.",
+          "zh": "让我们在咖啡馆见面。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Dining"],
+      "category": "商店类型",
+      "related_words": ["coffee shop", "bistro"],
+      "phrases": [
+        {
+          "phrase": "internet café",
+          "translation": "网吧",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "chemist": {
+      "word": "chemist",
+      "translation": "药店",
+      "phonetic": "ˈkemɪst",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to go to the chemist to buy medicine.",
+          "zh": "我需要去药店买药。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Health", "Shopping"],
+      "category": "商店类型",
+      "related_words": ["pharmacy", "drugstore"],
+      "phrases": [
+        {
+          "phrase": "chemist's shop",
+          "translation": "药店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "basket": {
+      "word": "basket",
+      "translation": "购物篮",
+      "phonetic": "ˈbɑːskɪt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take a basket for your shopping.",
+          "zh": "拿一个购物篮购物。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping", "Equipment"],
+      "category": "商店设施",
+      "related_words": ["shopping basket", "carrier"],
+      "phrases": [
+        {
+          "phrase": "shopping basket",
+          "translation": "购物篮",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "chair": {
+      "word": "chair",
+      "translation": "椅子",
+      "phonetic": "tʃeə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "There are chairs in the fitting room.",
+          "zh": "试衣间里有椅子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Furniture", "Shopping"],
+      "category": "商店设施",
+      "related_words": ["seat", "stool"],
+      "phrases": [
+        {
+          "phrase": "comfortable chair",
+          "translation": "舒适的椅子",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "outlet": {
+      "word": "outlet",
+      "translation": "直销店",
+      "phonetic": "ˈaʊtlet",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "You can find cheap branded goods at the outlet.",
+          "zh": "你可以在直销店找到便宜的品牌商品。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Shopping", "Business"],
+      "category": "购物中心",
+      "related_words": ["factory outlet", "discount store"],
+      "phrases": [
+        {
+          "phrase": "factory outlet",
+          "translation": "工厂直销店",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "arcade": {
+      "word": "arcade",
+      "translation": "拱廊商业街",
+      "phonetic": "ɑːˈkeɪd",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "There are many small shops in the arcade.",
+          "zh": "拱廊商业街里有很多小商店。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Shopping", "Architecture"],
+      "category": "购物中心",
+      "related_words": ["shopping arcade", "gallery"],
+      "phrases": [
+        {
+          "phrase": "shopping arcade",
+          "translation": "购物拱廊",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

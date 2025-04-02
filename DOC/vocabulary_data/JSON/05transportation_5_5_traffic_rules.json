@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "category": "Traffic Rules",
+    "category_cn": "交通规则",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "light": {
+      "word": "light",
+      "translation": "信号灯",
+      "phonetic": "laɪt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Stop at the red light.",
+          "zh": "在红灯时停车。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["traffic light", "signal"],
+      "phrases": [
+        {
+          "phrase": "red light",
+          "translation": "红灯",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "park": {
+      "word": "park",
+      "translation": "停车",
+      "phonetic": "pɑːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Park your car in the designated area.",
+          "zh": "把你的车停在指定区域。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["leave", "station"],
+      "phrases": [
+        {
+          "phrase": "parking lot",
+          "translation": "停车场",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "sign": {
+      "word": "sign",
+      "translation": "标志",
+      "phonetic": "saɪn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Follow the traffic signs.",
+          "zh": "遵循交通标志。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["signpost", "marker"],
+      "phrases": [
+        {
+          "phrase": "traffic sign",
+          "translation": "交通标志",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "stop": {
+      "word": "stop",
+      "translation": "停止",
+      "phonetic": "stɒp",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Stop when the light is red.",
+          "zh": "红灯时停车。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["halt", "cease"],
+      "phrases": [
+        {
+          "phrase": "bus stop",
+          "translation": "公交车站",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "traffic": {
+      "word": "traffic",
+      "translation": "交通",
+      "phonetic": "ˈtræfɪk",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "There is heavy traffic on the highway.",
+          "zh": "高速公路上交通拥堵。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["transport", "vehicles"],
+      "phrases": [
+        {
+          "phrase": "traffic jam",
+          "translation": "交通堵塞",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "careful": {
+      "word": "careful",
+      "translation": "小心的",
+      "phonetic": "ˈkeəfl",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Be careful when crossing the road.",
+          "zh": "过马路时要小心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["cautious", "vigilant"],
+      "phrases": [
+        {
+          "phrase": "be careful of",
+          "translation": "当心",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "dangerous": {
+      "word": "dangerous",
+      "translation": "危险的",
+      "phonetic": "ˈdeɪndʒərəs",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It's dangerous to speed on wet roads.",
+          "zh": "在湿滑的道路上超速行驶很危险。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["hazardous", "unsafe"],
+      "phrases": [
+        {
+          "phrase": "dangerous driving",
+          "translation": "危险驾驶",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "fast": {
+      "word": "fast",
+      "translation": "快的",
+      "phonetic": "fɑːst",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Don't drive too fast in the city.",
+          "zh": "在城市里不要开得太快。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["rapid", "swift"],
+      "phrases": [
+        {
+          "phrase": "fast train",
+          "translation": "快车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "safe": {
+      "word": "safe",
+      "translation": "安全的",
+      "phonetic": "seɪf",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Follow the rules for safe driving.",
+          "zh": "遵守安全驾驶规则。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["secure", "protected"],
+      "phrases": [
+        {
+          "phrase": "safe journey",
+          "translation": "一路平安",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "slow": {
+      "word": "slow",
+      "translation": "慢的",
+      "phonetic": "sləʊ",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Drive slow in school zones.",
+          "zh": "在学校区域慢速行驶。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["unhurried", "leisurely"],
+      "phrases": [
+        {
+          "phrase": "slow down",
+          "translation": "减速",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

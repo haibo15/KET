@@ -1,0 +1,590 @@
+{
+  "metadata": {
+    "category": "Products",
+    "category_cn": "商品类别",
+    "word_count": 53,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "apple": {
+      "word": "apple",
+      "translation": "苹果",
+      "phonetic": "ˈæpl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I bought some fresh apples from the market.",
+          "zh": "我从市场买了一些新鲜的苹果。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Fruit"],
+      "category": "食品饮料",
+      "related_words": ["fruit", "fresh produce"],
+      "phrases": [
+        {
+          "phrase": "fresh apple",
+          "translation": "新鲜苹果",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bread": {
+      "word": "bread",
+      "translation": "面包",
+      "phonetic": "bred",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need fresh bread for breakfast.",
+          "zh": "我们早餐需要新鲜面包。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Bakery"],
+      "category": "食品饮料",
+      "related_words": ["loaf", "bakery"],
+      "phrases": [
+        {
+          "phrase": "fresh bread",
+          "translation": "新鲜面包",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cake": {
+      "word": "cake",
+      "translation": "蛋糕",
+      "phonetic": "keɪk",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She ordered a birthday cake from the bakery.",
+          "zh": "她从面包店订了一个生日蛋糕。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Dessert"],
+      "category": "食品饮料",
+      "related_words": ["pastry", "dessert"],
+      "phrases": [
+        {
+          "phrase": "birthday cake",
+          "translation": "生日蛋糕",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "clothes": {
+      "word": "clothes",
+      "translation": "衣服",
+      "phonetic": "kləʊðz",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The shop sells fashionable clothes.",
+          "zh": "这家商店销售时尚的衣服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Fashion"],
+      "category": "服装配饰",
+      "related_words": ["clothing", "garment"],
+      "phrases": [
+        {
+          "phrase": "new clothes",
+          "translation": "新衣服",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "coat": {
+      "word": "coat",
+      "translation": "外套",
+      "phonetic": "kəʊt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need a warm coat for winter.",
+          "zh": "我需要一件保暖的冬季外套。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Winter Wear"],
+      "category": "服装配饰",
+      "related_words": ["jacket", "overcoat"],
+      "phrases": [
+        {
+          "phrase": "winter coat",
+          "translation": "冬季外套",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "book": {
+      "word": "book",
+      "translation": "书",
+      "phonetic": "bʊk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I bought a new book at the bookstore.",
+          "zh": "我在书店买了一本新书。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education", "Reading"],
+      "category": "日用品",
+      "related_words": ["textbook", "novel"],
+      "phrases": [
+        {
+          "phrase": "story book",
+          "translation": "故事书",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "coffee": {
+      "word": "coffee",
+      "translation": "咖啡",
+      "phonetic": "ˈkɒfi",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Would you like a cup of coffee?",
+          "zh": "你想要一杯咖啡吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Beverages"],
+      "category": "食品饮料",
+      "related_words": ["beverage", "brew"],
+      "phrases": [
+        {
+          "phrase": "black coffee",
+          "translation": "黑咖啡",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "drink": {
+      "word": "drink",
+      "translation": "饮料",
+      "phonetic": "drɪŋk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The shop sells many different kinds of drinks.",
+          "zh": "这家商店销售多种饮料。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Beverages"],
+      "category": "食品饮料",
+      "related_words": ["beverage", "refreshment"],
+      "phrases": [
+        {
+          "phrase": "soft drink",
+          "translation": "软饮料",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "food": {
+      "word": "food",
+      "translation": "食物",
+      "phonetic": "fuːd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need to buy some food for dinner.",
+          "zh": "我们需要买一些晚餐的食物。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Food", "Shopping"],
+      "category": "食品饮料",
+      "related_words": ["groceries", "provisions"],
+      "phrases": [
+        {
+          "phrase": "fast food",
+          "translation": "快餐",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bag": {
+      "word": "bag",
+      "translation": "包",
+      "phonetic": "bæɡ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She bought a new leather bag.",
+          "zh": "她买了一个新的皮包。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Accessories", "Fashion"],
+      "category": "服装配饰",
+      "related_words": ["handbag", "purse"],
+      "phrases": [
+        {
+          "phrase": "shopping bag",
+          "translation": "购物袋",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "camera": {
+      "word": "camera",
+      "translation": "相机",
+      "phonetic": "ˈkæmərə",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She uses her camera to take pictures.",
+          "zh": "她用相机拍照。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronics", "Photography"],
+      "category": "日用品",
+      "related_words": ["digital camera", "photograph"],
+      "phrases": [
+        {
+          "phrase": "digital camera",
+          "translation": "数码相机",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "computer": {
+      "word": "computer",
+      "translation": "电脑",
+      "phonetic": "kəmˈpjuːtə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The computer store has many models.",
+          "zh": "这家电脑店有很多型号。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronics", "Technology"],
+      "category": "日用品",
+      "related_words": ["laptop", "desktop"],
+      "phrases": [
+        {
+          "phrase": "personal computer",
+          "translation": "个人电脑",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "dress": {
+      "word": "dress",
+      "translation": "连衣裙",
+      "phonetic": "dres",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She tried on a beautiful dress.",
+          "zh": "她试穿了一件漂亮的连衣裙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Fashion"],
+      "category": "服装配饰",
+      "related_words": ["gown", "frock"],
+      "phrases": [
+        {
+          "phrase": "party dress",
+          "translation": "派对礼服",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "glasses": {
+      "word": "glasses",
+      "translation": "眼镜",
+      "phonetic": "ˈɡlɑːsɪz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I bought new glasses at the optician's.",
+          "zh": "我在眼镜店买了新眼镜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Accessories", "Fashion"],
+      "category": "服装配饰",
+      "related_words": ["spectacles", "sunglasses"],
+      "phrases": [
+        {
+          "phrase": "sunglasses",
+          "translation": "太阳镜",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "hat": {
+      "word": "hat",
+      "translation": "帽子",
+      "phonetic": "hæt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He wears a hat in sunny weather.",
+          "zh": "他在晴天戴帽子。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Accessories"],
+      "category": "服装配饰",
+      "related_words": ["cap", "headwear"],
+      "phrases": [
+        {
+          "phrase": "sun hat",
+          "translation": "遮阳帽",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "shoes": {
+      "word": "shoes",
+      "translation": "鞋子",
+      "phonetic": "ʃuːz",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "These shoes are too small for me.",
+          "zh": "这些鞋子对我来说太小了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Footwear"],
+      "category": "服装配饰",
+      "related_words": ["footwear", "boots"],
+      "phrases": [
+        {
+          "phrase": "running shoes",
+          "translation": "跑鞋",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "T-shirt": {
+      "word": "T-shirt",
+      "translation": "T恤",
+      "phonetic": "ˈtiː ʃɜːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This T-shirt is made of cotton.",
+          "zh": "这件T恤是棉制的。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Clothing", "Fashion"],
+      "category": "服装配饰",
+      "related_words": ["tee", "top"],
+      "phrases": [
+        {
+          "phrase": "cotton T-shirt",
+          "translation": "棉质T恤",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "dictionary": {
+      "word": "dictionary",
+      "translation": "字典",
+      "phonetic": "ˈdɪkʃənri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need a new dictionary for my studies.",
+          "zh": "我需要一本新字典来学习。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education", "Books"],
+      "category": "日用品",
+      "related_words": ["reference book", "lexicon"],
+      "phrases": [
+        {
+          "phrase": "English dictionary",
+          "translation": "英语字典",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "key": {
+      "word": "key",
+      "translation": "钥匙",
+      "phonetic": "kiː",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I lost my house keys yesterday.",
+          "zh": "我昨天丢了房门钥匙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Items", "Security"],
+      "category": "日用品",
+      "related_words": ["lock", "keychain"],
+      "phrases": [
+        {
+          "phrase": "house key",
+          "translation": "房门钥匙",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "magazine": {
+      "word": "magazine",
+      "translation": "杂志",
+      "phonetic": "ˌmæɡəˈziːn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She subscribes to several magazines.",
+          "zh": "她订阅了几本杂志。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Reading", "Media"],
+      "category": "日用品",
+      "related_words": ["journal", "periodical"],
+      "phrases": [
+        {
+          "phrase": "fashion magazine",
+          "translation": "时尚杂志",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "newspaper": {
+      "word": "newspaper",
+      "translation": "报纸",
+      "phonetic": "ˈnjuːzpeɪpə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I read the newspaper every morning.",
+          "zh": "我每天早上都看报纸。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Reading", "Media"],
+      "category": "日用品",
+      "related_words": ["paper", "daily"],
+      "phrases": [
+        {
+          "phrase": "daily newspaper",
+          "translation": "日报",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pen": {
+      "word": "pen",
+      "translation": "钢笔",
+      "phonetic": "pen",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This pen writes very smoothly.",
+          "zh": "这支钢笔写起来很流畅。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Stationery", "Writing"],
+      "category": "日用品",
+      "related_words": ["ballpoint pen", "fountain pen"],
+      "phrases": [
+        {
+          "phrase": "fountain pen",
+          "translation": "钢笔",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "phone": {
+      "word": "phone",
+      "translation": "电话",
+      "phonetic": "fəʊn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to buy a new phone.",
+          "zh": "我需要买一部新手机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Electronics", "Communication"],
+      "category": "日用品",
+      "related_words": ["mobile phone", "smartphone"],
+      "phrases": [
+        {
+          "phrase": "mobile phone",
+          "translation": "手机",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "umbrella": {
+      "word": "umbrella",
+      "translation": "雨伞",
+      "phonetic": "ʌmˈbrelə",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Don't forget your umbrella, it might rain.",
+          "zh": "别忘了带伞，可能会下雨。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Daily Items", "Weather"],
+      "category": "日用品",
+      "related_words": ["parasol", "brolly"],
+      "phrases": [
+        {
+          "phrase": "fold umbrella",
+          "translation": "折叠伞",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

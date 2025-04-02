@@ -1,0 +1,398 @@
+{
+  "metadata": {
+    "category": "Vehicles",
+    "category_cn": "交通工具",
+    "word_count": 20,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "bicycle": {
+      "word": "bicycle",
+      "translation": "自行车",
+      "phonetic": "ˈbaɪsɪkl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I ride my bicycle to school every day.",
+          "zh": "我每天骑自行车去学校。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["cycle", "bike", "push bike"],
+      "phrases": [
+        {
+          "phrase": "ride a bicycle",
+          "translation": "骑自行车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bus": {
+      "word": "bus",
+      "translation": "公共汽车",
+      "phonetic": "bʌs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Take the bus to the city center.",
+          "zh": "坐公交车去市中心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["coach", "public transport"],
+      "phrases": [
+        {
+          "phrase": "take the bus",
+          "translation": "坐公交车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "car": {
+      "word": "car",
+      "translation": "汽车",
+      "phonetic": "kɑː(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She drives her car to work.",
+          "zh": "她开车去上班。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["automobile", "vehicle"],
+      "phrases": [
+        {
+          "phrase": "drive a car",
+          "translation": "开车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "train": {
+      "word": "train",
+      "translation": "火车",
+      "phonetic": "treɪn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The train to London leaves at 9 AM.",
+          "zh": "去伦敦的火车早上9点发车。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["railway train", "locomotive"],
+      "phrases": [
+        {
+          "phrase": "take the train",
+          "translation": "坐火车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "airplane": {
+      "word": "airplane",
+      "translation": "飞机",
+      "phonetic": "ˈeəpleɪn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We flew to Paris by airplane.",
+          "zh": "我们乘飞机飞往巴黎。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["aircraft", "plane"],
+      "phrases": [
+        {
+          "phrase": "take an airplane",
+          "translation": "乘飞机",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "motorcycle": {
+      "word": "motorcycle",
+      "translation": "摩托车",
+      "phonetic": "ˈməʊtəsaɪkl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He rides a motorcycle to work.",
+          "zh": "他骑摩托车去上班。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["motorbike", "bike"],
+      "phrases": [
+        {
+          "phrase": "ride a motorcycle",
+          "translation": "骑摩托车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "taxi": {
+      "word": "taxi",
+      "translation": "出租车",
+      "phonetic": "ˈtæksi",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's take a taxi to the airport.",
+          "zh": "我们坐出租车去机场吧。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["cab", "taxicab"],
+      "phrases": [
+        {
+          "phrase": "take a taxi",
+          "translation": "坐出租车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "underground": {
+      "word": "underground",
+      "translation": "地铁",
+      "phonetic": "ˈʌndəɡraʊnd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take the underground to Oxford Street.",
+          "zh": "坐地铁去牛津街。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["subway", "metro"],
+      "phrases": [
+        {
+          "phrase": "take the underground",
+          "translation": "坐地铁",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "van": {
+      "word": "van",
+      "translation": "面包车",
+      "phonetic": "væn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The delivery van brings our packages.",
+          "zh": "送货车给我们送包裹。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["minivan", "delivery van"],
+      "phrases": [
+        {
+          "phrase": "delivery van",
+          "translation": "送货车",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "boat": {
+      "word": "boat",
+      "translation": "小船",
+      "phonetic": "bəʊt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We took a boat trip around the harbor.",
+          "zh": "我们乘船游览了港口。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["vessel", "watercraft"],
+      "phrases": [
+        {
+          "phrase": "take a boat",
+          "translation": "乘船",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "ferry": {
+      "word": "ferry",
+      "translation": "渡轮",
+      "phonetic": "ˈferi",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We took the ferry across the river.",
+          "zh": "我们乘渡轮过河。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["water bus", "water taxi"],
+      "phrases": [
+        {
+          "phrase": "take the ferry",
+          "translation": "乘渡轮",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "cruise_ship": {
+      "word": "cruise ship",
+      "translation": "游轮",
+      "phonetic": "kruːz ʃɪp",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "They went on a cruise ship for their vacation.",
+          "zh": "他们乘游轮度假。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["liner", "passenger ship"],
+      "phrases": [
+        {
+          "phrase": "take a cruise",
+          "translation": "乘游轮",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "sailboat": {
+      "word": "sailboat",
+      "translation": "帆船",
+      "phonetic": "ˈseɪlbəʊt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "They sailed their sailboat around the bay.",
+          "zh": "他们驾驶帆船环游海湾。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["sailing boat", "yacht"],
+      "phrases": [
+        {
+          "phrase": "sail a boat",
+          "translation": "驾驶帆船",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "ship": {
+      "word": "ship",
+      "translation": "轮船",
+      "phonetic": "ʃɪp",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The cargo ship carries containers across the ocean.",
+          "zh": "货轮运送集装箱穿越海洋。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["vessel", "ocean liner"],
+      "phrases": [
+        {
+          "phrase": "cargo ship",
+          "translation": "货轮",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "helicopter": {
+      "word": "helicopter",
+      "translation": "直升机",
+      "phonetic": "ˈhelɪkɒptə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The helicopter landed on the roof.",
+          "zh": "直升机降落在屋顶上。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["chopper", "whirlybird"],
+      "phrases": [
+        {
+          "phrase": "take a helicopter",
+          "translation": "乘直升机",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "jet": {
+      "word": "jet",
+      "translation": "喷气式飞机",
+      "phonetic": "dʒet",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The private jet took off from the airport.",
+          "zh": "私人喷气式飞机从机场起飞。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Transportation"],
+      "category": "交通出行",
+      "related_words": ["jet plane", "jet aircraft"],
+      "phrases": [
+        {
+          "phrase": "private jet",
+          "translation": "私人飞机",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

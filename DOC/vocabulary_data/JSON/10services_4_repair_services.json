@@ -1,0 +1,464 @@
+{
+  "metadata": {
+    "category": "Repair Services",
+    "category_cn": "维修服务",
+    "word_count": 18,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "repair": {
+      "word": "repair",
+      "translation": "修理",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to repair my washing machine.",
+          "zh": "我需要修理我的洗衣机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["fix", "mend"],
+      "phrases": []
+    },
+    "fix": {
+      "word": "fix",
+      "translation": "修复",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can you fix my broken phone?",
+          "zh": "你能修好我坏掉的手机吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["repair", "restore"],
+      "phrases": []
+    },
+    "broken": {
+      "word": "broken",
+      "translation": "损坏的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The broken television needs to be repaired.",
+          "zh": "这台坏掉的电视需要修理。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Conditions"],
+      "category": "维修服务",
+      "related_words": ["damaged", "faulty"],
+      "phrases": []
+    },
+    "damage": {
+      "word": "damage",
+      "translation": "损坏",
+      "phonetic": "",
+      "part_of_speech": "n/v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The storm caused damage to many cars.",
+          "zh": "暴风雨损坏了许多汽车。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Conditions"],
+      "category": "维修服务",
+      "related_words": ["harm", "injury"],
+      "phrases": []
+    },
+    "fault": {
+      "word": "fault",
+      "translation": "故障",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "There's a fault in the electrical system.",
+          "zh": "电气系统有故障。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Conditions"],
+      "category": "维修服务",
+      "related_words": ["defect", "problem"],
+      "phrases": []
+    },
+    "mechanic": {
+      "word": "mechanic",
+      "translation": "机修工",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The mechanic is checking the engine.",
+          "zh": "机修工正在检查发动机。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Professions"],
+      "category": "维修服务",
+      "related_words": ["technician", "repairman"],
+      "phrases": []
+    },
+    "technician": {
+      "word": "technician",
+      "translation": "技术员",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The technician will come to fix your computer.",
+          "zh": "技术员会来修理你的电脑。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Professions"],
+      "category": "维修服务",
+      "related_words": ["mechanic", "specialist"],
+      "phrases": []
+    },
+    "tool": {
+      "word": "tool",
+      "translation": "工具",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The repairman brought his tools to fix the appliance.",
+          "zh": "维修工带来了他的工具来修理电器。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Equipment"],
+      "category": "维修服务",
+      "related_words": ["equipment", "instrument"],
+      "phrases": []
+    },
+    "spare_part": {
+      "word": "spare part",
+      "translation": "备件",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "We need to order a spare part for your car.",
+          "zh": "我们需要为你的车订购一个备件。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Equipment"],
+      "category": "维修服务",
+      "related_words": ["replacement part", "component"],
+      "phrases": []
+    },
+    "check": {
+      "word": "check",
+      "translation": "检查",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The mechanic will check your car's engine.",
+          "zh": "机修工会检查你的汽车发动机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["inspect", "examine"],
+      "phrases": []
+    },
+    "replace": {
+      "word": "replace",
+      "translation": "更换",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need to replace the broken part.",
+          "zh": "我们需要更换损坏的零件。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["change", "substitute"],
+      "phrases": []
+    },
+    "maintain": {
+      "word": "maintain",
+      "translation": "维护",
+      "phonetic": "",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It's important to maintain your car regularly.",
+          "zh": "定期维护你的汽车很重要。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["service", "upkeep"],
+      "phrases": []
+    },
+    "service": {
+      "word": "service",
+      "translation": "保养",
+      "phonetic": "",
+      "part_of_speech": "v/n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Your car needs to be serviced every year.",
+          "zh": "你的车需要每年保养。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["maintain", "maintenance"],
+      "phrases": []
+    },
+    "warranty": {
+      "word": "warranty",
+      "translation": "保修",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The warranty covers repairs for two years.",
+          "zh": "保修期涵盖两年的维修。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Service Terms"],
+      "category": "维修服务",
+      "related_words": ["guarantee", "coverage"],
+      "phrases": []
+    },
+    "guarantee": {
+      "word": "guarantee",
+      "translation": "保证",
+      "phonetic": "",
+      "part_of_speech": "n/v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We guarantee our repair work for six months.",
+          "zh": "我们的维修工作提供六个月保证。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Service Terms"],
+      "category": "维修服务",
+      "related_words": ["warranty", "assurance"],
+      "phrases": []
+    },
+    "working": {
+      "word": "working",
+      "translation": "工作的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The machine is now in working condition.",
+          "zh": "这台机器现在可以正常工作了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Conditions"],
+      "category": "维修服务",
+      "related_words": ["functional", "operational"],
+      "phrases": []
+    },
+    "maintenance": {
+      "word": "maintenance",
+      "translation": "维护保养",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Regular maintenance can prevent many problems.",
+          "zh": "定期维护保养可以预防很多问题。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Service Operations"],
+      "category": "维修服务",
+      "related_words": ["upkeep", "servicing"],
+      "phrases": []
+    },
+    "screwdriver": {
+      "word": "screwdriver",
+      "translation": "螺丝刀",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "I need a screwdriver to fix this loose handle.",
+          "zh": "我需要一把螺丝刀来修这个松动的把手。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Tools"],
+      "category": "维修服务",
+      "related_words": ["tool", "implement"],
+      "phrases": []
+    },
+    "wrench": {
+      "word": "wrench",
+      "translation": "扳手",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The plumber used a wrench to tighten the pipe.",
+          "zh": "水管工用扳手拧紧了管子。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Tools"],
+      "category": "维修服务",
+      "related_words": ["spanner", "tool"],
+      "phrases": []
+    },
+    "workshop": {
+      "word": "workshop",
+      "translation": "维修车间",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take your broken computer to the repair workshop.",
+          "zh": "把你坏掉的电脑送到维修车间。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Places"],
+      "category": "维修服务",
+      "related_words": ["repair shop", "garage"],
+      "phrases": []
+    },
+    "garage": {
+      "word": "garage",
+      "translation": "修车厂",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "My car is being repaired at the garage.",
+          "zh": "我的车正在修车厂修理。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Places"],
+      "category": "维修服务",
+      "related_words": ["auto shop", "service center"],
+      "phrases": []
+    },
+    "repaired": {
+      "word": "repaired",
+      "translation": "已修好的",
+      "phonetic": "",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The repaired phone works perfectly now.",
+          "zh": "修好的手机现在运行完美。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Status"],
+      "category": "维修服务",
+      "related_words": ["fixed", "mended"],
+      "phrases": []
+    },
+    "under_repair": {
+      "word": "under repair",
+      "translation": "正在维修的",
+      "phonetic": "",
+      "part_of_speech": "phrase",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The elevator is under repair today.",
+          "zh": "电梯今天正在维修。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Status"],
+      "category": "维修服务",
+      "related_words": ["being fixed", "in repair"],
+      "phrases": []
+    },
+    "repair_shop": {
+      "word": "repair shop",
+      "translation": "修理店",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "There's a good repair shop around the corner.",
+          "zh": "拐角处有一家不错的修理店。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Repair", "Places"],
+      "category": "维修服务",
+      "related_words": ["workshop", "service center"],
+      "phrases": []
+    },
+    "service_center": {
+      "word": "service center",
+      "translation": "服务中心",
+      "phonetic": "",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take your laptop to the authorized service center.",
+          "zh": "把你的笔记本电脑送到授权服务中心。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Repair", "Places"],
+      "category": "维修服务",
+      "related_words": ["repair center", "maintenance center"],
+      "phrases": []
+    }
+  }
+} 
