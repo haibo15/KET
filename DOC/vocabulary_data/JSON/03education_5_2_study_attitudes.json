@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Study Attitudes",
+    "category_cn": "学习态度",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "concentrate": {
+      "word": "concentrate",
+      "translation": "专注",
+      "phonetic": "ˈkɒnsntreɪt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You need to concentrate during the lesson.",
+          "zh": "你需要在课堂上集中注意力。"
+        },
+        {
+          "en": "It's hard to concentrate when it's noisy.",
+          "zh": "吵闹时很难集中注意力。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习态度",
+      "related_words": ["focus", "pay attention", "attend"],
+      "phrases": [
+        {
+          "phrase": "focus",
+          "translation": "集中注意力",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "pay attention",
+          "translation": "注意",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "try": {
+      "word": "try",
+      "translation": "尝试",
+      "phonetic": "traɪ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Always try your best in everything you do.",
+          "zh": "做任何事都要尽最大努力。"
+        },
+        {
+          "en": "If you don't succeed, try again.",
+          "zh": "如果不成功，再试一次。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习态度",
+      "related_words": ["attempt", "make an effort", "endeavor"],
+      "phrases": [
+        {
+          "phrase": "try hard",
+          "translation": "努力",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "make an effort",
+          "translation": "努力",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "work hard": {
+      "word": "work hard",
+      "translation": "努力学习",
+      "phonetic": "wɜːk hɑːd",
+      "part_of_speech": "phrase",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "If you work hard, you will succeed.",
+          "zh": "如果你努力，你就会成功。"
+        },
+        {
+          "en": "She works hard to improve her English.",
+          "zh": "她努力提高英语水平。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习态度",
+      "related_words": ["study hard", "be diligent", "make effort"],
+      "phrases": [
+        {
+          "phrase": "study hard",
+          "translation": "用功学习",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "be diligent",
+          "translation": "勤奋",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

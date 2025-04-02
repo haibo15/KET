@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "category": "Educational Institutions",
+    "category_cn": "教育机构",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "school": {
+      "word": "school",
+      "translation": "学校",
+      "phonetic": "skuːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My school is near my house.",
+          "zh": "我的学校离我家很近。"
+        },
+        {
+          "en": "She goes to a public school.",
+          "zh": "她上公立学校。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["college", "university", "academy"],
+      "phrases": [
+        {
+          "phrase": "primary school",
+          "translation": "小学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "high school",
+          "translation": "中学",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "university": {
+      "word": "university",
+      "translation": "大学",
+      "phonetic": "ˌjuːnɪˈvɜːsəti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He studies at Oxford University.",
+          "zh": "他在牛津大学学习。"
+        },
+        {
+          "en": "The university has a beautiful campus.",
+          "zh": "这所大学有一个漂亮的校园。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["college", "school", "institute"],
+      "phrases": [
+        {
+          "phrase": "go to university",
+          "translation": "上大学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "university campus",
+          "translation": "大学校园",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "college": {
+      "word": "college",
+      "translation": "学院",
+      "phonetic": "ˈkɒlɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She teaches at a community college.",
+          "zh": "她在社区学院教书。"
+        },
+        {
+          "en": "The college offers many different courses.",
+          "zh": "这所学院提供许多不同的课程。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["university", "school", "institute"],
+      "phrases": [
+        {
+          "phrase": "community college",
+          "translation": "社区学院",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "college student",
+          "translation": "大学生",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "kindergarten": {
+      "word": "kindergarten",
+      "translation": "幼儿园",
+      "phonetic": "ˈkɪndəɡɑːtn",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "My daughter starts kindergarten next year.",
+          "zh": "我女儿明年开始上幼儿园。"
+        },
+        {
+          "en": "The kindergarten has a nice playground.",
+          "zh": "这所幼儿园有一个很好的操场。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["preschool", "nursery", "daycare"],
+      "phrases": [
+        {
+          "phrase": "kindergarten teacher",
+          "translation": "幼儿园老师",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "go to kindergarten",
+          "translation": "上幼儿园",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "classroom": {
+      "word": "classroom",
+      "translation": "教室",
+      "phonetic": "ˈklɑːsruːm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The classroom has twenty desks.",
+          "zh": "教室里有二十张课桌。"
+        },
+        {
+          "en": "Please keep quiet in the classroom.",
+          "zh": "请在教室保持安静。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["room", "class", "lecture hall"],
+      "phrases": [
+        {
+          "phrase": "classroom rules",
+          "translation": "教室规则",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "classroom activities",
+          "translation": "课堂活动",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "library": {
+      "word": "library",
+      "translation": "图书馆",
+      "phonetic": "ˈlaɪbrəri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I study in the library every day.",
+          "zh": "我每天在图书馆学习。"
+        },
+        {
+          "en": "The library has many books and computers.",
+          "zh": "图书馆有许多书和电脑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["books", "reading room", "study hall"],
+      "phrases": [
+        {
+          "phrase": "school library",
+          "translation": "学校图书馆",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "public library",
+          "translation": "公共图书馆",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "laboratory": {
+      "word": "laboratory",
+      "translation": "实验室",
+      "phonetic": "ləˈbɒrətri",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "We do experiments in the science laboratory.",
+          "zh": "我们在科学实验室做实验。"
+        },
+        {
+          "en": "The laboratory is equipped with modern instruments.",
+          "zh": "实验室配备了现代仪器。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["lab", "research facility", "workshop"],
+      "phrases": [
+        {
+          "phrase": "science lab",
+          "translation": "科学实验室",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "computer lab",
+          "translation": "电脑实验室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "gymnasium": {
+      "word": "gymnasium",
+      "translation": "体育馆",
+      "phonetic": "dʒɪmˈneɪziəm",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "We have PE classes in the gymnasium.",
+          "zh": "我们在体育馆上体育课。"
+        },
+        {
+          "en": "The school gymnasium is very large.",
+          "zh": "学校的体育馆很大。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["gym", "sports hall", "fitness center"],
+      "phrases": [
+        {
+          "phrase": "school gym",
+          "translation": "学校体育馆",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "indoor gymnasium",
+          "translation": "室内体育馆",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "cafeteria": {
+      "word": "cafeteria",
+      "translation": "食堂",
+      "phonetic": "ˌkæfəˈtɪəriə",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The school cafeteria serves lunch at noon.",
+          "zh": "学校食堂中午供应午餐。"
+        },
+        {
+          "en": "Students often meet in the cafeteria.",
+          "zh": "学生们经常在食堂见面。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["dining hall", "canteen", "lunchroom"],
+      "phrases": [
+        {
+          "phrase": "school cafeteria",
+          "translation": "学校食堂",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "cafeteria food",
+          "translation": "食堂食物",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "dormitory": {
+      "word": "dormitory",
+      "translation": "宿舍",
+      "phonetic": "ˈdɔːmətri",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She lives in the university dormitory.",
+          "zh": "她住在大学宿舍。"
+        },
+        {
+          "en": "The dormitory has six floors.",
+          "zh": "宿舍楼有六层。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["dorm", "residence hall", "housing"],
+      "phrases": [
+        {
+          "phrase": "student dormitory",
+          "translation": "学生宿舍",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "dormitory life",
+          "translation": "宿舍生活",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "auditorium": {
+      "word": "auditorium",
+      "translation": "礼堂",
+      "phonetic": "ˌɔːdɪˈtɔːriəm",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "The graduation ceremony is held in the auditorium.",
+          "zh": "毕业典礼在礼堂举行。"
+        },
+        {
+          "en": "The school auditorium can seat 500 people.",
+          "zh": "学校礼堂可容纳500人。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["hall", "theater", "assembly hall"],
+      "phrases": [
+        {
+          "phrase": "school auditorium",
+          "translation": "学校礼堂",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "main auditorium",
+          "translation": "主礼堂",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "campus": {
+      "word": "campus",
+      "translation": "校园",
+      "phonetic": "ˈkæmpəs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The campus is beautiful in spring.",
+          "zh": "春天的校园很美丽。"
+        },
+        {
+          "en": "There are many trees on campus.",
+          "zh": "校园里有很多树。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["grounds", "college", "university"],
+      "phrases": [
+        {
+          "phrase": "on campus",
+          "translation": "在校园里",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "campus life",
+          "translation": "校园生活",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "office": {
+      "word": "office",
+      "translation": "办公室",
+      "phonetic": "ˈɒfɪs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The principal's office is on the first floor.",
+          "zh": "校长办公室在一楼。"
+        },
+        {
+          "en": "You can find the teacher in her office.",
+          "zh": "你可以在她的办公室找到这位老师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["room", "workplace", "bureau"],
+      "phrases": [
+        {
+          "phrase": "main office",
+          "translation": "主要办公室",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "office hours",
+          "translation": "办公时间",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bookstore": {
+      "word": "bookstore",
+      "translation": "书店",
+      "phonetic": "ˈbʊkstɔː",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "You can buy textbooks at the campus bookstore.",
+          "zh": "你可以在校园书店买教科书。"
+        },
+        {
+          "en": "The bookstore also sells stationery.",
+          "zh": "书店也卖文具。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["shop", "store", "book shop"],
+      "phrases": [
+        {
+          "phrase": "campus bookstore",
+          "translation": "校园书店",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "university bookstore",
+          "translation": "大学书店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "playground": {
+      "word": "playground",
+      "translation": "操场",
+      "phonetic": "ˈpleɪɡraʊnd",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Children play on the playground during breaks.",
+          "zh": "孩子们在课间在操场上玩耍。"
+        },
+        {
+          "en": "The playground has swings and slides.",
+          "zh": "操场上有秋千和滑梯。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育机构",
+      "related_words": ["play area", "schoolyard", "recreation ground"],
+      "phrases": [
+        {
+          "phrase": "school playground",
+          "translation": "学校操场",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "outdoor playground",
+          "translation": "户外操场",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "category": "Educational Management",
+    "category_cn": "教育管理",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "principal": {
+      "word": "principal",
+      "translation": "校长",
+      "phonetic": "ˈprɪnsəpl",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The principal gave a speech at the assembly.",
+          "zh": "校长在集会上发表了演讲。"
+        },
+        {
+          "en": "Students must see the principal for serious violations.",
+          "zh": "学生严重违规必须去见校长。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["headmaster", "administrator", "director"],
+      "phrases": [
+        {
+          "phrase": "school principal",
+          "translation": "学校校长",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "principal's office",
+          "translation": "校长办公室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "dean": {
+      "word": "dean",
+      "translation": "院长",
+      "phonetic": "diːn",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "The dean of the faculty called a meeting.",
+          "zh": "学院院长召开了会议。"
+        },
+        {
+          "en": "She is the dean of the science department.",
+          "zh": "她是理学院的院长。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["director", "head", "administrator"],
+      "phrases": [
+        {
+          "phrase": "academic dean",
+          "translation": "教务长",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "dean's list",
+          "translation": "院长嘉许名单",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "administrator": {
+      "word": "administrator",
+      "translation": "行政管理人员",
+      "phonetic": "ədˈmɪnɪstreɪtə",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "School administrators handle daily operations.",
+          "zh": "学校行政人员处理日常运营。"
+        },
+        {
+          "en": "The administrator organized the school event.",
+          "zh": "行政管理人员组织了学校活动。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["manager", "supervisor", "coordinator"],
+      "phrases": [
+        {
+          "phrase": "school administrator",
+          "translation": "学校行政人员",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "administrative staff",
+          "translation": "行政人员",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "policy": {
+      "word": "policy",
+      "translation": "政策",
+      "phonetic": "ˈpɒləsi",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The school has a strict attendance policy.",
+          "zh": "学校有严格的出勤政策。"
+        },
+        {
+          "en": "They introduced a new education policy.",
+          "zh": "他们推出了新的教育政策。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["rule", "regulation", "guideline"],
+      "phrases": [
+        {
+          "phrase": "school policy",
+          "translation": "学校政策",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "education policy",
+          "translation": "教育政策",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "regulation": {
+      "word": "regulation",
+      "translation": "规定",
+      "phonetic": "ˌreɡjuˈleɪʃn",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Students must follow school regulations.",
+          "zh": "学生必须遵守学校规定。"
+        },
+        {
+          "en": "The new regulation takes effect next semester.",
+          "zh": "新规定下学期生效。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["rule", "law", "requirement"],
+      "phrases": [
+        {
+          "phrase": "school regulation",
+          "translation": "学校规定",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "safety regulation",
+          "translation": "安全规定",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "curriculum": {
+      "word": "curriculum",
+      "translation": "课程",
+      "phonetic": "kəˈrɪkjələm",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The school is updating its curriculum.",
+          "zh": "学校正在更新课程。"
+        },
+        {
+          "en": "The curriculum includes both theory and practice.",
+          "zh": "课程包括理论和实践。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["syllabus", "course", "program"],
+      "phrases": [
+        {
+          "phrase": "school curriculum",
+          "translation": "学校课程",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "curriculum design",
+          "translation": "课程设计",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "discipline": {
+      "word": "discipline",
+      "translation": "纪律",
+      "phonetic": "ˈdɪsəplɪn",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Good discipline is important in school.",
+          "zh": "良好的纪律在学校很重要。"
+        },
+        {
+          "en": "The teacher maintains strict discipline in class.",
+          "zh": "老师在课堂上保持严格的纪律。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["order", "control", "behavior"],
+      "phrases": [
+        {
+          "phrase": "school discipline",
+          "translation": "学校纪律",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "maintain discipline",
+          "translation": "维持纪律",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "enrollment": {
+      "word": "enrollment",
+      "translation": "入学",
+      "phonetic": "ɪnˈrəʊlmənt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Student enrollment has increased this year.",
+          "zh": "今年的学生入学人数增加了。"
+        },
+        {
+          "en": "The enrollment period begins next month.",
+          "zh": "入学期从下个月开始。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["registration", "admission", "entry"],
+      "phrases": [
+        {
+          "phrase": "school enrollment",
+          "translation": "学校入学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "enrollment form",
+          "translation": "入学表格",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "budget": {
+      "word": "budget",
+      "translation": "预算",
+      "phonetic": "ˈbʌdʒɪt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The school needs to plan its annual budget.",
+          "zh": "学校需要规划年度预算。"
+        },
+        {
+          "en": "They increased the education budget.",
+          "zh": "他们增加了教育预算。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["finance", "funding", "expense"],
+      "phrases": [
+        {
+          "phrase": "school budget",
+          "translation": "学校预算",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "budget plan",
+          "translation": "预算计划",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "supervision": {
+      "word": "supervision",
+      "translation": "监督",
+      "phonetic": "ˌsuːpəˈvɪʒn",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Students need proper supervision during activities.",
+          "zh": "学生在活动期间需要适当的监督。"
+        },
+        {
+          "en": "Teachers provide supervision in the playground.",
+          "zh": "教师在操场上进行监督。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育管理",
+      "related_words": ["oversight", "monitoring", "guidance"],
+      "phrases": [
+        {
+          "phrase": "under supervision",
+          "translation": "在监督下",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "direct supervision",
+          "translation": "直接监督",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

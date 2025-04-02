@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Exam Types",
+    "category_cn": "考试类型",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "examination": {
+      "word": "examination",
+      "translation": "考试",
+      "phonetic": "ɪɡˌzæmɪˈneɪʃn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The final examination is in June.",
+          "zh": "期末考试在六月。"
+        },
+        {
+          "en": "She passed all her examinations.",
+          "zh": "她通过了所有考试。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "考试类型",
+      "related_words": ["test", "assessment", "exam"],
+      "phrases": [
+        {
+          "phrase": "final examination",
+          "translation": "期末考试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "entrance examination",
+          "translation": "入学考试",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "quiz": {
+      "word": "quiz",
+      "translation": "小测验",
+      "phonetic": "kwɪz",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We have a vocabulary quiz every Friday.",
+          "zh": "我们每周五都有词汇小测验。"
+        },
+        {
+          "en": "The teacher gave us a surprise quiz.",
+          "zh": "老师给我们一个突击测验。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "考试类型",
+      "related_words": ["test", "pop quiz", "mini-test"],
+      "phrases": [
+        {
+          "phrase": "pop quiz",
+          "translation": "突击测验",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "mini-test",
+          "translation": "小测试",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "test": {
+      "word": "test",
+      "translation": "测试",
+      "phonetic": "test",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I passed all my tests this term.",
+          "zh": "这学期我通过了所有测试。"
+        },
+        {
+          "en": "We have a math test tomorrow.",
+          "zh": "我们明天有数学测试。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "考试类型",
+      "related_words": ["exam", "evaluation", "assessment"],
+      "phrases": [
+        {
+          "phrase": "written test",
+          "translation": "笔试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "oral test",
+          "translation": "口试",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

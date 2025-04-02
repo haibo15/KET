@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Basic Subjects",
+    "category_cn": "基础科目",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "English": {
+      "word": "English",
+      "translation": "英语",
+      "phonetic": "ˈɪŋɡlɪʃ",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "English is my favorite subject.",
+          "zh": "英语是我最喜欢的科目。"
+        },
+        {
+          "en": "We have English class every day.",
+          "zh": "我们每天都有英语课。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "基础科目",
+      "related_words": ["language", "linguistics", "English language"],
+      "phrases": [
+        {
+          "phrase": "English class",
+          "translation": "英语课",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "English teacher",
+          "translation": "英语老师",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "mathematics": {
+      "word": "mathematics",
+      "translation": "数学",
+      "phonetic": "ˌmæθəˈmætɪks",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I have a mathematics test tomorrow.",
+          "zh": "我明天有数学考试。"
+        },
+        {
+          "en": "Mathematics is a challenging subject.",
+          "zh": "数学是一门具有挑战性的科目。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "基础科目",
+      "related_words": ["math", "arithmetic", "calculation"],
+      "phrases": [
+        {
+          "phrase": "math",
+          "translation": "数学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "arithmetic",
+          "translation": "算术",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "science": {
+      "word": "science",
+      "translation": "科学",
+      "phonetic": "ˈsaɪəns",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We do experiments in science class.",
+          "zh": "我们在科学课上做实验。"
+        },
+        {
+          "en": "Science helps us understand the world.",
+          "zh": "科学帮助我们理解世界。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "基础科目",
+      "related_words": ["physics", "chemistry", "biology"],
+      "phrases": [
+        {
+          "phrase": "science class",
+          "translation": "科学课",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "science experiment",
+          "translation": "科学实验",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

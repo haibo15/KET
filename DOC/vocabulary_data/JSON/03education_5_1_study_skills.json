@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "category": "Study Skills",
+    "category_cn": "学习方法",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "memorize": {
+      "word": "memorize",
+      "translation": "记忆",
+      "phonetic": "ˈmeməraɪz",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "You need to memorize these vocabulary words.",
+          "zh": "你需要记住这些词汇。"
+        },
+        {
+          "en": "It's easier to memorize things you understand.",
+          "zh": "理解的东西更容易记忆。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["remember", "learn by heart", "recall"],
+      "phrases": [
+        {
+          "phrase": "memorize by heart",
+          "translation": "背诵",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "easy to memorize",
+          "translation": "容易记忆",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "practice": {
+      "word": "practice",
+      "translation": "练习",
+      "phonetic": "ˈpræktɪs",
+      "part_of_speech": "v/n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Practice makes perfect.",
+          "zh": "熟能生巧。"
+        },
+        {
+          "en": "You should practice writing every day.",
+          "zh": "你应该每天练习写作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["exercise", "train", "rehearse"],
+      "phrases": [
+        {
+          "phrase": "practice regularly",
+          "translation": "定期练习",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "in practice",
+          "translation": "在实践中",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "review": {
+      "word": "review",
+      "translation": "复习",
+      "phonetic": "rɪˈvjuː",
+      "part_of_speech": "v/n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Let's review what we learned yesterday.",
+          "zh": "让我们复习昨天学的内容。"
+        },
+        {
+          "en": "Regular review helps you remember better.",
+          "zh": "定期复习有助于更好地记忆。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["revise", "go over", "recapitulate"],
+      "phrases": [
+        {
+          "phrase": "review notes",
+          "translation": "复习笔记",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "final review",
+          "translation": "期末复习",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "take notes": {
+      "word": "take notes",
+      "translation": "记笔记",
+      "phonetic": "teɪk nəʊts",
+      "part_of_speech": "phrase",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Remember to take notes during the lecture.",
+          "zh": "记得在讲座时记笔记。"
+        },
+        {
+          "en": "Taking notes helps you remember important points.",
+          "zh": "记笔记有助于记住重要内容。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["write down", "record", "note-taking"],
+      "phrases": [
+        {
+          "phrase": "take detailed notes",
+          "translation": "做详细笔记",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "note-taking skills",
+          "translation": "记笔记技巧",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "summarize": {
+      "word": "summarize",
+      "translation": "总结",
+      "phonetic": "ˈsʌməraɪz",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Can you summarize the main points?",
+          "zh": "你能总结一下要点吗？"
+        },
+        {
+          "en": "It's helpful to summarize what you've learned.",
+          "zh": "总结所学内容很有帮助。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["conclude", "sum up", "outline"],
+      "phrases": [
+        {
+          "phrase": "briefly summarize",
+          "translation": "简要总结",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "summarize the key points",
+          "translation": "总结要点",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "research": {
+      "word": "research",
+      "translation": "研究",
+      "phonetic": "rɪˈsɜːtʃ",
+      "part_of_speech": "v/n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "You need to research this topic thoroughly.",
+          "zh": "你需要深入研究这个主题。"
+        },
+        {
+          "en": "She did a lot of research for her project.",
+          "zh": "她为项目做了大量研究。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["study", "investigate", "explore"],
+      "phrases": [
+        {
+          "phrase": "do research",
+          "translation": "做研究",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "research project",
+          "translation": "研究项目",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "analyze": {
+      "word": "analyze",
+      "translation": "分析",
+      "phonetic": "ˈænəlaɪz",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Let's analyze this problem step by step.",
+          "zh": "让我们逐步分析这个问题。"
+        },
+        {
+          "en": "You need to analyze the data carefully.",
+          "zh": "你需要仔细分析这些数据。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["examine", "study", "investigate"],
+      "phrases": [
+        {
+          "phrase": "analyze data",
+          "translation": "分析数据",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "critical analysis",
+          "translation": "批判性分析",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "prepare": {
+      "word": "prepare",
+      "translation": "准备",
+      "phonetic": "prɪˈpeə(r)",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You should prepare well for the exam.",
+          "zh": "你应该为考试做好准备。"
+        },
+        {
+          "en": "How do you prepare for your classes?",
+          "zh": "你如何为课程做准备？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["get ready", "plan", "arrange"],
+      "phrases": [
+        {
+          "phrase": "prepare for",
+          "translation": "为...做准备",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "well-prepared",
+          "translation": "准备充分的",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "solve": {
+      "word": "solve",
+      "translation": "解决",
+      "phonetic": "sɒlv",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Can you solve this math problem?",
+          "zh": "你能解决这个数学问题吗？"
+        },
+        {
+          "en": "We need to solve this question together.",
+          "zh": "我们需要一起解决这个问题。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["resolve", "work out", "figure out"],
+      "phrases": [
+        {
+          "phrase": "problem-solving",
+          "translation": "解决问题",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "solve a problem",
+          "translation": "解决问题",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "think": {
+      "word": "think",
+      "translation": "思考",
+      "phonetic": "θɪŋk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Think carefully before you answer.",
+          "zh": "回答前要仔细思考。"
+        },
+        {
+          "en": "You need to think logically.",
+          "zh": "你需要逻辑思考。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习方法",
+      "related_words": ["consider", "ponder", "reflect"],
+      "phrases": [
+        {
+          "phrase": "think about",
+          "translation": "考虑",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "think through",
+          "translation": "想透彻",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

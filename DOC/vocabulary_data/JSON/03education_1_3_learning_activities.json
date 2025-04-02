@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "category": "Learning Activities",
+    "category_cn": "学习活动",
+    "word_count": 5,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "answer": {
+      "word": "answer",
+      "translation": "回答",
+      "phonetic": "ˈɑːnsə(r)",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please answer the teacher's question.",
+          "zh": "请回答老师的问题。"
+        },
+        {
+          "en": "Can you answer this math problem?",
+          "zh": "你能回答这道数学题吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习活动",
+      "related_words": ["reply", "respond", "solve"],
+      "phrases": [
+        {
+          "phrase": "reply",
+          "translation": "回复",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "respond",
+          "translation": "回应",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "ask": {
+      "word": "ask",
+      "translation": "提问",
+      "phonetic": "ɑːsk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Don't be afraid to ask questions in class.",
+          "zh": "不要害怕在课堂上提问。"
+        },
+        {
+          "en": "You should ask your teacher if you don't understand.",
+          "zh": "如果你不明白，你应该问老师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习活动",
+      "related_words": ["question", "inquire", "query"],
+      "phrases": [
+        {
+          "phrase": "question",
+          "translation": "询问",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "inquire",
+          "translation": "询问",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "learn": {
+      "word": "learn",
+      "translation": "学习",
+      "phonetic": "lɜːn",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We learn new words every day.",
+          "zh": "我们每天学习新单词。"
+        },
+        {
+          "en": "It's never too late to learn.",
+          "zh": "学习永远不晚。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习活动",
+      "related_words": ["study", "master", "acquire"],
+      "phrases": [
+        {
+          "phrase": "study",
+          "translation": "学习",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "master",
+          "translation": "掌握",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "practice": {
+      "word": "practice",
+      "translation": "练习",
+      "phonetic": "ˈpræktɪs",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Practice makes perfect.",
+          "zh": "熟能生巧。"
+        },
+        {
+          "en": "You need to practice your pronunciation.",
+          "zh": "你需要练习发音。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习活动",
+      "related_words": ["exercise", "drill", "rehearse"],
+      "phrases": [
+        {
+          "phrase": "exercise",
+          "translation": "练习",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "drill",
+          "translation": "操练",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "read": {
+      "word": "read",
+      "translation": "阅读",
+      "phonetic": "riːd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I like to read English books.",
+          "zh": "我喜欢读英语书。"
+        },
+        {
+          "en": "Please read the text carefully.",
+          "zh": "请仔细阅读课文。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学习活动",
+      "related_words": ["peruse", "scan", "study"],
+      "phrases": [
+        {
+          "phrase": "peruse",
+          "translation": "仔细阅读",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "scan",
+          "translation": "浏览",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Course Related",
+    "category_cn": "课程相关",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "class": {
+      "word": "class",
+      "translation": "课程",
+      "phonetic": "klɑːs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The first class starts at 8:00.",
+          "zh": "第一节课8:00开始。"
+        },
+        {
+          "en": "I enjoy my English class.",
+          "zh": "我喜欢我的英语课。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课程相关",
+      "related_words": ["lesson", "period", "course"],
+      "phrases": [
+        {
+          "phrase": "lesson",
+          "translation": "课",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "period",
+          "translation": "课时",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "exam": {
+      "word": "exam",
+      "translation": "考试",
+      "phonetic": "ɪɡˈzæm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We have an important exam next week.",
+          "zh": "我们下周有一个重要的考试。"
+        },
+        {
+          "en": "I need to prepare for my final exam.",
+          "zh": "我需要准备期末考试。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课程相关",
+      "related_words": ["examination", "test", "quiz"],
+      "phrases": [
+        {
+          "phrase": "examination",
+          "translation": "考试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "test",
+          "translation": "测试",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "homework": {
+      "word": "homework",
+      "translation": "家庭作业",
+      "phonetic": "ˈhəʊmwɜːk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Don't forget to do your homework.",
+          "zh": "别忘了做作业。"
+        },
+        {
+          "en": "I have a lot of homework tonight.",
+          "zh": "我今晚有很多作业。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课程相关",
+      "related_words": ["assignment", "task", "exercise"],
+      "phrases": [
+        {
+          "phrase": "assignment",
+          "translation": "作业",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "task",
+          "translation": "任务",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

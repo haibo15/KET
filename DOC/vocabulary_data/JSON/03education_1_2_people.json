@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "category": "School People",
+    "category_cn": "学校人物",
+    "word_count": 6,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "classmate": {
+      "word": "classmate",
+      "translation": "同学",
+      "phonetic": "ˈklɑːsmeɪt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Tom is my classmate in English class.",
+          "zh": "汤姆是我英语课的同学。"
+        },
+        {
+          "en": "I like to study with my classmates.",
+          "zh": "我喜欢和同学一起学习。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校人物",
+      "related_words": ["peer", "schoolmate", "fellow student"],
+      "phrases": [
+        {
+          "phrase": "peer",
+          "translation": "同龄人",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "schoolmate",
+          "translation": "校友",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "student": {
+      "word": "student",
+      "translation": "学生",
+      "phonetic": "ˈstjuːdnt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is a hardworking student.",
+          "zh": "她是一个勤奋的学生。"
+        },
+        {
+          "en": "There are thirty students in our class.",
+          "zh": "我们班有三十个学生。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校人物",
+      "related_words": ["pupil", "learner", "scholar"],
+      "phrases": [
+        {
+          "phrase": "pupil",
+          "translation": "学生",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "learner",
+          "translation": "学习者",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "teacher": {
+      "word": "teacher",
+      "translation": "教师",
+      "phonetic": "ˈtiːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Our English teacher is very kind.",
+          "zh": "我们的英语老师很友善。"
+        },
+        {
+          "en": "I want to become a teacher in the future.",
+          "zh": "我将来想成为一名教师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校人物",
+      "related_words": ["instructor", "professor", "educator"],
+      "phrases": [
+        {
+          "phrase": "instructor",
+          "translation": "教师",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "professor",
+          "translation": "教授",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "headteacher": {
+      "word": "headteacher",
+      "translation": "校长",
+      "phonetic": "ˌhedˈtiːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The headteacher gave a speech at the assembly.",
+          "zh": "校长在集会上发表了讲话。"
+        },
+        {
+          "en": "We need to get permission from the headteacher.",
+          "zh": "我们需要得到校长的许可。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学校人物",
+      "related_words": ["principal", "head", "director"],
+      "phrases": [
+        {
+          "phrase": "principal",
+          "translation": "校长",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "school head",
+          "translation": "校长",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "friend": {
+      "word": "friend",
+      "translation": "朋友",
+      "phonetic": "frend",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She is my best friend at school.",
+          "zh": "她是我在学校最好的朋友。"
+        },
+        {
+          "en": "I made many new friends in class.",
+          "zh": "我在班上交了很多新朋友。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校人物",
+      "related_words": ["companion", "mate", "buddy"],
+      "phrases": [
+        {
+          "phrase": "best friend",
+          "translation": "最好的朋友",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "school friend",
+          "translation": "校友",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "group": {
+      "word": "group",
+      "translation": "小组",
+      "phonetic": "ɡruːp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We work in groups of four.",
+          "zh": "我们四人一组工作。"
+        },
+        {
+          "en": "Our group is preparing a presentation.",
+          "zh": "我们小组正在准备演讲。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校人物",
+      "related_words": ["team", "class", "unit"],
+      "phrases": [
+        {
+          "phrase": "study group",
+          "translation": "学习小组",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "group work",
+          "translation": "小组作业",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Stationery",
+    "category_cn": "文具",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "pen": {
+      "word": "pen",
+      "translation": "钢笔",
+      "phonetic": "pen",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I write with a blue pen.",
+          "zh": "我用蓝色钢笔写字。"
+        },
+        {
+          "en": "Can I borrow your pen?",
+          "zh": "我能借用你的钢笔吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "文具",
+      "related_words": ["ballpoint pen", "fountain pen", "writing tool"],
+      "phrases": [
+        {
+          "phrase": "ballpoint pen",
+          "translation": "圆珠笔",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fountain pen",
+          "translation": "钢笔",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "pencil": {
+      "word": "pencil",
+      "translation": "铅笔",
+      "phonetic": "ˈpensl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Use a pencil for your drawing.",
+          "zh": "用铅笔画画。"
+        },
+        {
+          "en": "This pencil needs sharpening.",
+          "zh": "这支铅笔需要削一削。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "文具",
+      "related_words": ["mechanical pencil", "lead pencil", "drawing tool"],
+      "phrases": [
+        {
+          "phrase": "mechanical pencil",
+          "translation": "自动铅笔",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "lead pencil",
+          "translation": "铅笔",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "notebook": {
+      "word": "notebook",
+      "translation": "笔记本",
+      "phonetic": "ˈnəʊtbʊk",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I take notes in my notebook during class.",
+          "zh": "我在课堂上用笔记本记笔记。"
+        },
+        {
+          "en": "My notebook is full of English vocabulary.",
+          "zh": "我的笔记本上写满了英语词汇。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "文具",
+      "related_words": ["notepad", "exercise book", "writing book"],
+      "phrases": [
+        {
+          "phrase": "notepad",
+          "translation": "记事本",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "exercise book",
+          "translation": "练习本",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

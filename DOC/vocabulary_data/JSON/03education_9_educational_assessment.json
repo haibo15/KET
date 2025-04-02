@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "category": "Educational Assessment",
+    "category_cn": "教育评估",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "exam": {
+      "word": "exam",
+      "translation": "考试",
+      "phonetic": "ɪɡˈzæm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We have a math exam tomorrow.",
+          "zh": "我们明天有数学考试。"
+        },
+        {
+          "en": "She passed all her exams.",
+          "zh": "她通过了所有考试。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["test", "examination", "quiz"],
+      "phrases": [
+        {
+          "phrase": "final exam",
+          "translation": "期末考试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "take an exam",
+          "translation": "参加考试",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "test": {
+      "word": "test",
+      "translation": "测试",
+      "phonetic": "test",
+      "part_of_speech": "n/v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We have a vocabulary test every week.",
+          "zh": "我们每周都有词汇测试。"
+        },
+        {
+          "en": "The teacher will test our knowledge tomorrow.",
+          "zh": "老师明天要测试我们的知识。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["exam", "quiz", "assessment"],
+      "phrases": [
+        {
+          "phrase": "written test",
+          "translation": "笔试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "oral test",
+          "translation": "口试",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "grade": {
+      "word": "grade",
+      "translation": "成绩",
+      "phonetic": "ɡreɪd",
+      "part_of_speech": "n/v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She got good grades in all subjects.",
+          "zh": "她所有科目都取得了好成绩。"
+        },
+        {
+          "en": "The teacher is grading our papers.",
+          "zh": "老师正在给我们的试卷打分。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["mark", "score", "result"],
+      "phrases": [
+        {
+          "phrase": "high grade",
+          "translation": "高分",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "passing grade",
+          "translation": "及格分数",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "score": {
+      "word": "score",
+      "translation": "分数",
+      "phonetic": "skɔː",
+      "part_of_speech": "n/v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What score did you get on the test?",
+          "zh": "你考试得了多少分？"
+        },
+        {
+          "en": "He scored the highest in the class.",
+          "zh": "他在班上得分最高。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["mark", "grade", "point"],
+      "phrases": [
+        {
+          "phrase": "high score",
+          "translation": "高分",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "perfect score",
+          "translation": "满分",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "assessment": {
+      "word": "assessment",
+      "translation": "评估",
+      "phonetic": "əˈsesmənt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Teachers make regular assessments of student progress.",
+          "zh": "教师定期评估学生的进步。"
+        },
+        {
+          "en": "The assessment will be based on several criteria.",
+          "zh": "评估将基于几个标准。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["evaluation", "appraisal", "judgment"],
+      "phrases": [
+        {
+          "phrase": "student assessment",
+          "translation": "学生评估",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "assessment criteria",
+          "translation": "评估标准",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "evaluation": {
+      "word": "evaluation",
+      "translation": "评价",
+      "phonetic": "ɪˌvæljuˈeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The teacher wrote a positive evaluation.",
+          "zh": "老师写了一个正面的评价。"
+        },
+        {
+          "en": "Student evaluations are done twice a year.",
+          "zh": "学生评价每年进行两次。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["assessment", "review", "appraisal"],
+      "phrases": [
+        {
+          "phrase": "performance evaluation",
+          "translation": "表现评价",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "evaluation form",
+          "translation": "评价表",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "standard": {
+      "word": "standard",
+      "translation": "标准",
+      "phonetic": "ˈstændəd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The school has high academic standards.",
+          "zh": "这所学校有很高的学术标准。"
+        },
+        {
+          "en": "Students must meet certain standards to graduate.",
+          "zh": "学生必须达到某些标准才能毕业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["criterion", "requirement", "level"],
+      "phrases": [
+        {
+          "phrase": "high standard",
+          "translation": "高标准",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "academic standard",
+          "translation": "学术标准",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "criteria": {
+      "word": "criteria",
+      "translation": "标准",
+      "phonetic": "kraɪˈtɪəriə",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The marking criteria are clearly defined.",
+          "zh": "评分标准明确定义。"
+        },
+        {
+          "en": "Students must meet all the criteria to pass.",
+          "zh": "学生必须满足所有标准才能及格。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["standard", "requirement", "measure"],
+      "phrases": [
+        {
+          "phrase": "assessment criteria",
+          "translation": "评估标准",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "selection criteria",
+          "translation": "选拔标准",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "feedback": {
+      "word": "feedback",
+      "translation": "反馈",
+      "phonetic": "ˈfiːdbæk",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The teacher gave helpful feedback on my essay.",
+          "zh": "老师对我的作文给出了有用的反馈。"
+        },
+        {
+          "en": "Students need regular feedback to improve.",
+          "zh": "学生需要定期反馈才能进步。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["response", "comment", "review"],
+      "phrases": [
+        {
+          "phrase": "positive feedback",
+          "translation": "正面反馈",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "constructive feedback",
+          "translation": "建设性反馈",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "performance": {
+      "word": "performance",
+      "translation": "表现",
+      "phonetic": "pəˈfɔːməns",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Her academic performance is excellent.",
+          "zh": "她的学习表现很优秀。"
+        },
+        {
+          "en": "Teachers evaluate student performance regularly.",
+          "zh": "教师定期评估学生的表现。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "教育评估",
+      "related_words": ["achievement", "result", "accomplishment"],
+      "phrases": [
+        {
+          "phrase": "academic performance",
+          "translation": "学习表现",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "performance review",
+          "translation": "表现评估",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

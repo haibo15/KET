@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Teaching Equipment",
+    "category_cn": "教学设备",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "board": {
+      "word": "board",
+      "translation": "黑板",
+      "phonetic": "bɔːd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The teacher writes on the board.",
+          "zh": "老师在黑板上写字。"
+        },
+        {
+          "en": "Please clean the board after class.",
+          "zh": "请在下课后擦黑板。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教学设备",
+      "related_words": ["blackboard", "whiteboard", "chalkboard"],
+      "phrases": [
+        {
+          "phrase": "blackboard",
+          "translation": "黑板",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "whiteboard",
+          "translation": "白板",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "computer": {
+      "word": "computer",
+      "translation": "电脑",
+      "phonetic": "kəmˈpjuːtə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We use computers in the IT class.",
+          "zh": "我们在信息技术课上使用电脑。"
+        },
+        {
+          "en": "The computer lab has twenty computers.",
+          "zh": "电脑教室有二十台电脑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教学设备",
+      "related_words": ["laptop", "desktop", "PC"],
+      "phrases": [
+        {
+          "phrase": "laptop",
+          "translation": "笔记本电脑",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "desktop",
+          "translation": "台式电脑",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "projector": {
+      "word": "projector",
+      "translation": "投影仪",
+      "phonetic": "prəˈdʒektə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The teacher uses a projector to show slides.",
+          "zh": "老师用投影仪展示幻灯片。"
+        },
+        {
+          "en": "The projector needs to be connected to a computer.",
+          "zh": "投影仪需要连接电脑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "教学设备",
+      "related_words": ["beamer", "projection device", "screen"],
+      "phrases": [
+        {
+          "phrase": "beamer",
+          "translation": "投影机",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "projection device",
+          "translation": "投影设备",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

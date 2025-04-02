@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "category": "Classroom Activities",
+    "category_cn": "课堂活动",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "discussion": {
+      "word": "discussion",
+      "translation": "讨论",
+      "phonetic": "dɪˈskʌʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We had an interesting class discussion today.",
+          "zh": "我们今天有一个有趣的课堂讨论。"
+        },
+        {
+          "en": "Let's have a group discussion about this topic.",
+          "zh": "让我们对这个话题进行小组讨论。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["debate", "conversation", "talk"],
+      "phrases": [
+        {
+          "phrase": "group discussion",
+          "translation": "小组讨论",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "class discussion",
+          "translation": "课堂讨论",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "game": {
+      "word": "game",
+      "translation": "游戏",
+      "phonetic": "ɡeɪm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We played a vocabulary game in English class.",
+          "zh": "我们在英语课上玩词汇游戏。"
+        },
+        {
+          "en": "Learning through games is fun.",
+          "zh": "通过游戏学习很有趣。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["play", "activity", "entertainment"],
+      "phrases": [
+        {
+          "phrase": "learning game",
+          "translation": "学习游戏",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "word game",
+          "translation": "词汇游戏",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "presentation": {
+      "word": "presentation",
+      "translation": "演讲",
+      "phonetic": "ˌpreznˈteɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I have to give a presentation next week.",
+          "zh": "我下周要做演讲。"
+        },
+        {
+          "en": "Her presentation was very well prepared.",
+          "zh": "她的演讲准备得很充分。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["speech", "talk", "lecture"],
+      "phrases": [
+        {
+          "phrase": "give a presentation",
+          "translation": "做演讲",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "class presentation",
+          "translation": "课堂演讲",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "project": {
+      "word": "project",
+      "translation": "项目",
+      "phonetic": "ˈprɒdʒekt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We are working on a group project.",
+          "zh": "我们正在做一个小组项目。"
+        },
+        {
+          "en": "The science project is due next month.",
+          "zh": "科学项目下个月到期。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["assignment", "task", "work"],
+      "phrases": [
+        {
+          "phrase": "group project",
+          "translation": "小组项目",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "class project",
+          "translation": "课堂项目",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "explain": {
+      "word": "explain",
+      "translation": "解释",
+      "phonetic": "ɪkˈspleɪn",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Could you explain this problem to me?",
+          "zh": "你能给我解释一下这个问题吗？"
+        },
+        {
+          "en": "The teacher explained the grammar rules clearly.",
+          "zh": "老师清楚地解释了语法规则。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["clarify", "describe", "tell"],
+      "phrases": [
+        {
+          "phrase": "explain clearly",
+          "translation": "清楚地解释",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "explain in detail",
+          "translation": "详细解释",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "spell": {
+      "word": "spell",
+      "translation": "拼写",
+      "phonetic": "spel",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "How do you spell your name?",
+          "zh": "你的名字怎么拼写？"
+        },
+        {
+          "en": "She can spell difficult words correctly.",
+          "zh": "她能正确拼写难词。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["write", "letter", "spelling"],
+      "phrases": [
+        {
+          "phrase": "spell out",
+          "translation": "拼出",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "spelling test",
+          "translation": "拼写测试",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "repeat": {
+      "word": "repeat",
+      "translation": "重复",
+      "phonetic": "rɪˈpiːt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Please repeat after me.",
+          "zh": "请跟我重复。"
+        },
+        {
+          "en": "Could you repeat that sentence?",
+          "zh": "你能重复那个句子吗？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["practice", "say again", "review"],
+      "phrases": [
+        {
+          "phrase": "repeat after me",
+          "translation": "跟我重复",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "repeat practice",
+          "translation": "重复练习",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "show": {
+      "word": "show",
+      "translation": "展示",
+      "phonetic": "ʃəʊ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Can you show me how to solve this problem?",
+          "zh": "你能给我演示如何解决这个问题吗？"
+        },
+        {
+          "en": "She showed her project to the class.",
+          "zh": "她向全班展示了她的项目。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["demonstrate", "display", "present"],
+      "phrases": [
+        {
+          "phrase": "show and tell",
+          "translation": "展示与讲述",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "show how",
+          "translation": "演示如何",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "speak": {
+      "word": "speak",
+      "translation": "说话",
+      "phonetic": "spiːk",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Please speak more slowly.",
+          "zh": "请说慢一点。"
+        },
+        {
+          "en": "Don't be afraid to speak in class.",
+          "zh": "不要害怕在课堂上发言。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["talk", "say", "tell"],
+      "phrases": [
+        {
+          "phrase": "speak up",
+          "translation": "大声说",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "speak English",
+          "translation": "说英语",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "understand": {
+      "word": "understand",
+      "translation": "理解",
+      "phonetic": "ˌʌndəˈstænd",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Do you understand the question?",
+          "zh": "你理解这个问题吗？"
+        },
+        {
+          "en": "I don't understand this part.",
+          "zh": "我不理解这部分。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "课堂活动",
+      "related_words": ["comprehend", "grasp", "get"],
+      "phrases": [
+        {
+          "phrase": "easy to understand",
+          "translation": "容易理解",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "hard to understand",
+          "translation": "难以理解",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,509 @@
+{
+  "metadata": {
+    "category": "Subjects and Majors",
+    "category_cn": "学科与专业",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "mathematics": {
+      "word": "mathematics",
+      "translation": "数学",
+      "phonetic": "ˌmæθəˈmætɪks",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Mathematics is his favorite subject.",
+          "zh": "数学是他最喜欢的科目。"
+        },
+        {
+          "en": "She is good at mathematics.",
+          "zh": "她擅长数学。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["math", "arithmetic", "algebra"],
+      "phrases": [
+        {
+          "phrase": "pure mathematics",
+          "translation": "纯数学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "applied mathematics",
+          "translation": "应用数学",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "physics": {
+      "word": "physics",
+      "translation": "物理",
+      "phonetic": "ˈfɪzɪks",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "We study physics in the laboratory.",
+          "zh": "我们在实验室学习物理。"
+        },
+        {
+          "en": "Physics explains how things work.",
+          "zh": "物理解释事物如何运作。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["science", "mechanics", "dynamics"],
+      "phrases": [
+        {
+          "phrase": "physics lab",
+          "translation": "物理实验室",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "physics teacher",
+          "translation": "物理老师",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "chemistry": {
+      "word": "chemistry",
+      "translation": "化学",
+      "phonetic": "ˈkemɪstri",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Chemistry is an interesting science.",
+          "zh": "化学是一门有趣的科学。"
+        },
+        {
+          "en": "We learn about elements in chemistry class.",
+          "zh": "我们在化学课上学习元素。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["science", "chemical", "reaction"],
+      "phrases": [
+        {
+          "phrase": "organic chemistry",
+          "translation": "有机化学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "chemistry experiment",
+          "translation": "化学实验",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "biology": {
+      "word": "biology",
+      "translation": "生物学",
+      "phonetic": "baɪˈɒlədʒi",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Biology helps us understand living things.",
+          "zh": "生物学帮助我们理解生物。"
+        },
+        {
+          "en": "She studies marine biology.",
+          "zh": "她学习海洋生物学。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["science", "life science", "zoology"],
+      "phrases": [
+        {
+          "phrase": "molecular biology",
+          "translation": "分子生物学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "biology class",
+          "translation": "生物课",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "history": {
+      "word": "history",
+      "translation": "历史",
+      "phonetic": "ˈhɪstri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We learn about ancient civilizations in history class.",
+          "zh": "我们在历史课上学习古代文明。"
+        },
+        {
+          "en": "History is his favorite subject.",
+          "zh": "历史是他最喜欢的科目。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["past", "events", "chronology"],
+      "phrases": [
+        {
+          "phrase": "world history",
+          "translation": "世界历史",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "history book",
+          "translation": "历史书",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "geography": {
+      "word": "geography",
+      "translation": "地理",
+      "phonetic": "dʒiˈɒɡrəfi",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Geography teaches us about different countries.",
+          "zh": "地理教我们了解不同的国家。"
+        },
+        {
+          "en": "We study maps in geography class.",
+          "zh": "我们在地理课上学习地图。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["maps", "landforms", "climate"],
+      "phrases": [
+        {
+          "phrase": "physical geography",
+          "translation": "自然地理",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "human geography",
+          "translation": "人文地理",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "literature": {
+      "word": "literature",
+      "translation": "文学",
+      "phonetic": "ˈlɪtrətʃə",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "We study classic literature in English class.",
+          "zh": "我们在英语课上学习经典文学。"
+        },
+        {
+          "en": "She loves reading literature.",
+          "zh": "她喜欢阅读文学作品。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["poetry", "novels", "drama"],
+      "phrases": [
+        {
+          "phrase": "English literature",
+          "translation": "英国文学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "modern literature",
+          "translation": "现代文学",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "art": {
+      "word": "art",
+      "translation": "艺术",
+      "phonetic": "ɑːt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She takes art classes after school.",
+          "zh": "她放学后上艺术课。"
+        },
+        {
+          "en": "The museum has many beautiful works of art.",
+          "zh": "博物馆有许多美丽的艺术品。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["painting", "drawing", "sculpture"],
+      "phrases": [
+        {
+          "phrase": "fine art",
+          "translation": "美术",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "modern art",
+          "translation": "现代艺术",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "music": {
+      "word": "music",
+      "translation": "音乐",
+      "phonetic": "ˈmjuːzɪk",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He studies music at the conservatory.",
+          "zh": "他在音乐学院学习音乐。"
+        },
+        {
+          "en": "We have music class twice a week.",
+          "zh": "我们每周有两节音乐课。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["song", "melody", "rhythm"],
+      "phrases": [
+        {
+          "phrase": "classical music",
+          "translation": "古典音乐",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "music theory",
+          "translation": "音乐理论",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "psychology": {
+      "word": "psychology",
+      "translation": "心理学",
+      "phonetic": "saɪˈkɒlədʒi",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She majors in psychology at university.",
+          "zh": "她在大学主修心理学。"
+        },
+        {
+          "en": "Psychology helps us understand human behavior.",
+          "zh": "心理学帮助我们理解人类行为。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["behavior", "mind", "mental"],
+      "phrases": [
+        {
+          "phrase": "child psychology",
+          "translation": "儿童心理学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "psychology student",
+          "translation": "心理学学生",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "economics": {
+      "word": "economics",
+      "translation": "经济学",
+      "phonetic": "ˌiːkəˈnɒmɪks",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He studies economics at business school.",
+          "zh": "他在商学院学习经济学。"
+        },
+        {
+          "en": "Economics is about how money and resources are used.",
+          "zh": "经济学是关于金钱和资源如何使用的学科。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["finance", "business", "market"],
+      "phrases": [
+        {
+          "phrase": "basic economics",
+          "translation": "基础经济学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "economics major",
+          "translation": "经济学专业",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "computer science": {
+      "word": "computer science",
+      "translation": "计算机科学",
+      "phonetic": "kəmˈpjuːtə ˈsaɪəns",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "He majors in computer science.",
+          "zh": "他主修计算机科学。"
+        },
+        {
+          "en": "Computer science is a popular subject.",
+          "zh": "计算机科学是一门热门学科。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["programming", "software", "technology"],
+      "phrases": [
+        {
+          "phrase": "computer science degree",
+          "translation": "计算机科学学位",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "computer science student",
+          "translation": "计算机科学专业学生",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "engineering": {
+      "word": "engineering",
+      "translation": "工程学",
+      "phonetic": "ˌendʒɪˈnɪərɪŋ",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She studies mechanical engineering.",
+          "zh": "她学习机械工程。"
+        },
+        {
+          "en": "Engineering is a challenging field.",
+          "zh": "工程学是一个具有挑战性的领域。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["technology", "mechanics", "design"],
+      "phrases": [
+        {
+          "phrase": "civil engineering",
+          "translation": "土木工程",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "engineering student",
+          "translation": "工程专业学生",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "language": {
+      "word": "language",
+      "translation": "语言",
+      "phonetic": "ˈlæŋɡwɪdʒ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She studies foreign languages.",
+          "zh": "她学习外语。"
+        },
+        {
+          "en": "English is an international language.",
+          "zh": "英语是一门国际语言。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["speech", "communication", "linguistics"],
+      "phrases": [
+        {
+          "phrase": "foreign language",
+          "translation": "外语",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "language learning",
+          "translation": "语言学习",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "philosophy": {
+      "word": "philosophy",
+      "translation": "哲学",
+      "phonetic": "fɪˈlɒsəfi",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "He studies ancient philosophy.",
+          "zh": "他研究古代哲学。"
+        },
+        {
+          "en": "Philosophy makes us think deeply.",
+          "zh": "哲学让我们深入思考。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Education"],
+      "category": "学科与专业",
+      "related_words": ["thinking", "wisdom", "logic"],
+      "phrases": [
+        {
+          "phrase": "western philosophy",
+          "translation": "西方哲学",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "philosophy major",
+          "translation": "哲学专业",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

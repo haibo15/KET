@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "category": "School Places",
+    "category_cn": "学校场所",
+    "word_count": 5,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "classroom": {
+      "word": "classroom",
+      "translation": "教室",
+      "phonetic": "ˈklɑːsruːm",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Our classroom is on the second floor.",
+          "zh": "我们的教室在二楼。"
+        },
+        {
+          "en": "The classroom is very bright and spacious.",
+          "zh": "这间教室很明亮且宽敞。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校场所",
+      "related_words": ["class", "study room", "teaching room"],
+      "phrases": [
+        {
+          "phrase": "class",
+          "translation": "教室",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "study room",
+          "translation": "自习室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "library": {
+      "word": "library",
+      "translation": "图书馆",
+      "phonetic": "ˈlaɪbrəri",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I spend most of my free time in the library.",
+          "zh": "我大部分空闲时间都在图书馆。"
+        },
+        {
+          "en": "The school library has many English books.",
+          "zh": "学校图书馆有很多英语书。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校场所",
+      "related_words": ["reading room", "book room", "study area"],
+      "phrases": [
+        {
+          "phrase": "reading room",
+          "translation": "阅览室",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "book room",
+          "translation": "书房",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "office": {
+      "word": "office",
+      "translation": "办公室",
+      "phonetic": "ˈɒfɪs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The teacher's office is next to the library.",
+          "zh": "教师办公室在图书馆旁边。"
+        },
+        {
+          "en": "Please come to my office after class.",
+          "zh": "请下课后到我的办公室来。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校场所",
+      "related_words": ["staff room", "admin office", "teacher's room"],
+      "phrases": [
+        {
+          "phrase": "staff room",
+          "translation": "教师办公室",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "admin office",
+          "translation": "行政办公室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "school": {
+      "word": "school",
+      "translation": "学校",
+      "phonetic": "skuːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Our school has over 1000 students.",
+          "zh": "我们学校有超过1000名学生。"
+        },
+        {
+          "en": "The school opens at 7:30 every morning.",
+          "zh": "学校每天早上7:30开门。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校场所",
+      "related_words": ["campus", "academy", "institution"],
+      "phrases": [
+        {
+          "phrase": "campus",
+          "translation": "校园",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "academy",
+          "translation": "学院",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "university": {
+      "word": "university",
+      "translation": "大学",
+      "phonetic": "ˌjuːnɪˈvɜːsəti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She wants to study at Oxford University.",
+          "zh": "她想在牛津大学学习。"
+        },
+        {
+          "en": "The university has an excellent reputation.",
+          "zh": "这所大学有很好的声誉。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "学校场所",
+      "related_words": ["college", "institution", "higher education"],
+      "phrases": [
+        {
+          "phrase": "college",
+          "translation": "大学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "institution",
+          "translation": "教育机构",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 
