@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Work Benefits",
+    "category_cn": "工作待遇",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "bonus": {
+      "word": "bonus",
+      "translation": "奖金",
+      "phonetic": "ˈbəʊnəs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Employees receive a year-end bonus.",
+          "zh": "员工获得年终奖金。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作待遇",
+      "related_words": ["extra pay", "incentive"],
+      "phrases": [
+        {
+          "phrase": "performance bonus",
+          "translation": "绩效奖金",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "insurance": {
+      "word": "insurance",
+      "translation": "保险",
+      "phonetic": "ɪnˈʃʊərəns",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The company provides health insurance.",
+          "zh": "公司提供健康保险。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作待遇",
+      "related_words": ["coverage", "benefits"],
+      "phrases": [
+        {
+          "phrase": "medical insurance",
+          "translation": "医疗保险",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pension": {
+      "word": "pension",
+      "translation": "养老金",
+      "phonetic": "ˈpenʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Save money for your pension.",
+          "zh": "为你的养老金储蓄。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作待遇",
+      "related_words": ["retirement fund", "superannuation"],
+      "phrases": [
+        {
+          "phrase": "pension plan",
+          "translation": "养老金计划",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "salary": {
+      "word": "salary",
+      "translation": "薪水",
+      "phonetic": "ˈsæləri",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Negotiate your salary before accepting the job.",
+          "zh": "在接受工作之前谈判你的薪水。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作待遇",
+      "related_words": ["wage", "pay"],
+      "phrases": [
+        {
+          "phrase": "monthly salary",
+          "translation": "月薪",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "vacation": {
+      "word": "vacation",
+      "translation": "假期",
+      "phonetic": "vəˈkeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Employees get two weeks of vacation per year.",
+          "zh": "员工每年有两周的假期。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作待遇",
+      "related_words": ["holiday", "time off"],
+      "phrases": [
+        {
+          "phrase": "paid vacation",
+          "translation": "带薪假期",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Technical Occupations",
+    "category_cn": "技术工种",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "carpenter": {
+      "word": "carpenter",
+      "translation": "木匠",
+      "phonetic": "ˈkɑːpəntə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The carpenter built a beautiful wooden cabinet.",
+          "zh": "木匠制作了一个漂亮的木柜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "技术工种",
+      "related_words": ["woodworker", "craftsman"],
+      "phrases": [
+        {
+          "phrase": "master carpenter",
+          "translation": "高级木匠",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "electrician": {
+      "word": "electrician",
+      "translation": "电工",
+      "phonetic": "ɪˌlekˈtrɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We called an electrician to fix the wiring.",
+          "zh": "我们叫了一个电工来修理线路。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "技术工种",
+      "related_words": ["electrical worker", "technician"],
+      "phrases": [
+        {
+          "phrase": "certified electrician",
+          "translation": "持证电工",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "mechanic": {
+      "word": "mechanic",
+      "translation": "机械师",
+      "phonetic": "məˈkænɪk",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The mechanic fixed my car's engine.",
+          "zh": "机械师修好了我的汽车发动机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "技术工种",
+      "related_words": ["repairman", "technician"],
+      "phrases": [
+        {
+          "phrase": "auto mechanic",
+          "translation": "汽车修理工",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "plumber": {
+      "word": "plumber",
+      "translation": "水管工",
+      "phonetic": "ˈplʌmə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The plumber repaired the leaking pipe.",
+          "zh": "水管工修理了漏水的管道。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "技术工种",
+      "related_words": ["pipe fitter", "maintenance worker"],
+      "phrases": [
+        {
+          "phrase": "master plumber",
+          "translation": "高级水管工",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "technician": {
+      "word": "technician",
+      "translation": "技术员",
+      "phonetic": "tekˈnɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The IT technician fixed my computer.",
+          "zh": "IT技术员修好了我的电脑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "技术工种",
+      "related_words": ["repair person", "service worker"],
+      "phrases": [
+        {
+          "phrase": "maintenance technician",
+          "translation": "维修技术员",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

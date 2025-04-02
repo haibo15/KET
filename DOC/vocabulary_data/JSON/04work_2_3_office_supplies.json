@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Office Supplies",
+    "category_cn": "办公用品",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "calculator": {
+      "word": "calculator",
+      "translation": "计算器",
+      "phonetic": "ˈkælkjuleɪtə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use a calculator for complex calculations.",
+          "zh": "使用计算器进行复杂计算。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公用品",
+      "related_words": ["adding machine", "counter"],
+      "phrases": [
+        {
+          "phrase": "scientific calculator",
+          "translation": "科学计算器",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "envelope": {
+      "word": "envelope",
+      "translation": "信封",
+      "phonetic": "ˈenvələʊp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Put the letter in an envelope before mailing.",
+          "zh": "把信放在信封里再寄出。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公用品",
+      "related_words": ["mailer", "wrapper"],
+      "phrases": [
+        {
+          "phrase": "business envelope",
+          "translation": "商务信封",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "file_folder": {
+      "word": "file folder",
+      "translation": "文件夹",
+      "phonetic": "faɪl ˈfəʊldə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Keep your documents organized in file folders.",
+          "zh": "把文件整理存放在文件夹中。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公用品",
+      "related_words": ["binder", "portfolio"],
+      "phrases": [
+        {
+          "phrase": "manila folder",
+          "translation": "牛皮纸文件夹",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "stapler": {
+      "word": "stapler",
+      "translation": "订书机",
+      "phonetic": "ˈsteɪplə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use the stapler to attach these documents.",
+          "zh": "用订书机把这些文件装订在一起。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公用品",
+      "related_words": ["staple gun", "fastener"],
+      "phrases": [
+        {
+          "phrase": "electric stapler",
+          "translation": "电动订书机",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "tape": {
+      "word": "tape",
+      "translation": "胶带",
+      "phonetic": "teɪp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use tape to seal the package.",
+          "zh": "用胶带封住包裹。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公用品",
+      "related_words": ["adhesive tape", "sticky tape"],
+      "phrases": [
+        {
+          "phrase": "clear tape",
+          "translation": "透明胶带",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

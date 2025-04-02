@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "category": "Professional Occupations",
+    "category_cn": "专业职业",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "accountant": {
+      "word": "accountant",
+      "translation": "会计师",
+      "phonetic": "əˈkaʊntənt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She works as an accountant in a large company.",
+          "zh": "她在一家大公司担任会计师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业职业",
+      "related_words": ["bookkeeper", "financial officer"],
+      "phrases": [
+        {
+          "phrase": "certified accountant",
+          "translation": "注册会计师",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "doctor": {
+      "word": "doctor",
+      "translation": "医生",
+      "phonetic": "ˈdɒktə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The doctor examined the patient carefully.",
+          "zh": "医生仔细检查了病人。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业职业",
+      "related_words": ["physician", "medical practitioner"],
+      "phrases": [
+        {
+          "phrase": "family doctor",
+          "translation": "家庭医生",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "engineer": {
+      "word": "engineer",
+      "translation": "工程师",
+      "phonetic": "ˌendʒɪˈnɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Software engineers develop computer programs.",
+          "zh": "软件工程师开发计算机程序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业职业",
+      "related_words": ["technician", "designer"],
+      "phrases": [
+        {
+          "phrase": "software engineer",
+          "translation": "软件工程师",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "lawyer": {
+      "word": "lawyer",
+      "translation": "律师",
+      "phonetic": "ˈlɔːjə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The lawyer represented her client in court.",
+          "zh": "这位律师在法庭上代表她的客户。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业职业",
+      "related_words": ["attorney", "legal advisor"],
+      "phrases": [
+        {
+          "phrase": "defense lawyer",
+          "translation": "辩护律师",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "teacher": {
+      "word": "teacher",
+      "translation": "教师",
+      "phonetic": "ˈtiːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My English teacher is very patient.",
+          "zh": "我的英语老师很有耐心。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业职业",
+      "related_words": ["instructor", "educator"],
+      "phrases": [
+        {
+          "phrase": "language teacher",
+          "translation": "语言教师",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "architect": {
+      "word": "architect",
+      "translation": "建筑师",
+      "phonetic": "ˈɑːkɪtekt",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The architect designed our new office building.",
+          "zh": "这位建筑师设计了我们的新办公楼。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "专业职业",
+      "related_words": ["designer", "planner"],
+      "phrases": [
+        {
+          "phrase": "landscape architect",
+          "translation": "景观设计师",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

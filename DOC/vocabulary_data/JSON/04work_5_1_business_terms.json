@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Business Terms",
+    "category_cn": "商务用语",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "agenda": {
+      "word": "agenda",
+      "translation": "议程",
+      "phonetic": "əˈdʒendə",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Review the meeting agenda beforehand.",
+          "zh": "提前查看会议议程。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务用语",
+      "related_words": ["schedule", "program"],
+      "phrases": [
+        {
+          "phrase": "meeting agenda",
+          "translation": "会议议程",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "deadline": {
+      "word": "deadline",
+      "translation": "截止日期",
+      "phonetic": "ˈdedlaɪn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Submit your report before the deadline.",
+          "zh": "在截止日期前提交你的报告。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务用语",
+      "related_words": ["due date", "time limit"],
+      "phrases": [
+        {
+          "phrase": "meet the deadline",
+          "translation": "按期完成",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "memo": {
+      "word": "memo",
+      "translation": "备忘录",
+      "phonetic": "ˈmeməʊ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Send a memo to all staff members.",
+          "zh": "给所有员工发送备忘录。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务用语",
+      "related_words": ["memorandum", "note"],
+      "phrases": [
+        {
+          "phrase": "office memo",
+          "translation": "办公备忘录",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "proposal": {
+      "word": "proposal",
+      "translation": "提案",
+      "phonetic": "prəˈpəʊzl",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Present your proposal at the meeting.",
+          "zh": "在会议上展示你的提案。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务用语",
+      "related_words": ["suggestion", "plan"],
+      "phrases": [
+        {
+          "phrase": "business proposal",
+          "translation": "商业提案",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "report": {
+      "word": "report",
+      "translation": "报告",
+      "phonetic": "rɪˈpɔːt",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Write a detailed report of your findings.",
+          "zh": "写一份详细的调查报告。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务用语",
+      "related_words": ["document", "statement"],
+      "phrases": [
+        {
+          "phrase": "progress report",
+          "translation": "进度报告",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

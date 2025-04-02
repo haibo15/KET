@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Service Industry",
+    "category_cn": "服务行业",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "chef": {
+      "word": "chef",
+      "translation": "厨师",
+      "phonetic": "ʃef",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The chef prepared a delicious meal.",
+          "zh": "厨师准备了一顿美味的饭菜。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "服务行业",
+      "related_words": ["cook", "kitchen staff"],
+      "phrases": [
+        {
+          "phrase": "head chef",
+          "translation": "主厨",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "hairdresser": {
+      "word": "hairdresser",
+      "translation": "理发师",
+      "phonetic": "ˈheəˌdresə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I visit my hairdresser every month.",
+          "zh": "我每月都去理发师那里。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "服务行业",
+      "related_words": ["stylist", "barber"],
+      "phrases": [
+        {
+          "phrase": "hair stylist",
+          "translation": "发型师",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "receptionist": {
+      "word": "receptionist",
+      "translation": "接待员",
+      "phonetic": "rɪˈsepʃənɪst",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The receptionist greeted visitors at the entrance.",
+          "zh": "接待员在入口处迎接访客。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "服务行业",
+      "related_words": ["front desk clerk", "desk clerk"],
+      "phrases": [
+        {
+          "phrase": "hotel receptionist",
+          "translation": "酒店接待员",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "salesperson": {
+      "word": "salesperson",
+      "translation": "销售员",
+      "phonetic": "ˈseɪlzˌpɜːsən",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The salesperson helped me choose a new phone.",
+          "zh": "销售员帮我选择了一部新手机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "服务行业",
+      "related_words": ["sales representative", "shop assistant"],
+      "phrases": [
+        {
+          "phrase": "retail salesperson",
+          "translation": "零售销售员",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "waiter": {
+      "word": "waiter",
+      "translation": "服务员",
+      "phonetic": "ˈweɪtə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The waiter took our order politely.",
+          "zh": "服务员礼貌地记下了我们的点单。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "服务行业",
+      "related_words": ["waitress", "server"],
+      "phrases": [
+        {
+          "phrase": "head waiter",
+          "translation": "领班服务员",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

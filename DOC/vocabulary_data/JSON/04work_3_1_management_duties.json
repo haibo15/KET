@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Management Duties",
+    "category_cn": "管理职责",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "delegate": {
+      "word": "delegate",
+      "translation": "委派",
+      "phonetic": "ˈdelɪɡeɪt",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "A good manager knows how to delegate tasks.",
+          "zh": "一个好的经理知道如何分配任务。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "管理职责",
+      "related_words": ["assign", "entrust"],
+      "phrases": [
+        {
+          "phrase": "delegate responsibility",
+          "translation": "分配责任",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "organize": {
+      "word": "organize",
+      "translation": "组织",
+      "phonetic": "ˈɔːɡənaɪz",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She organizes team meetings every week.",
+          "zh": "她每周组织团队会议。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职责",
+      "related_words": ["arrange", "coordinate"],
+      "phrases": [
+        {
+          "phrase": "organize events",
+          "translation": "组织活动",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "oversee": {
+      "word": "oversee",
+      "translation": "监督",
+      "phonetic": "ˌəʊvəˈsiː",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The manager oversees all projects.",
+          "zh": "经理监督所有项目。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "管理职责",
+      "related_words": ["supervise", "manage"],
+      "phrases": [
+        {
+          "phrase": "oversee operations",
+          "translation": "监督运营",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "plan": {
+      "word": "plan",
+      "translation": "计划",
+      "phonetic": "plæn",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "We need to plan the budget carefully.",
+          "zh": "我们需要仔细规划预算。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职责",
+      "related_words": ["schedule", "arrange"],
+      "phrases": [
+        {
+          "phrase": "plan ahead",
+          "translation": "提前计划",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "report": {
+      "word": "report",
+      "translation": "报告",
+      "phonetic": "rɪˈpɔːt",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Report your progress to the supervisor.",
+          "zh": "向主管报告你的进展。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职责",
+      "related_words": ["inform", "update"],
+      "phrases": [
+        {
+          "phrase": "report back",
+          "translation": "回报",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

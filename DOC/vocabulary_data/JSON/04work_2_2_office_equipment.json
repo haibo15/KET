@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Office Equipment",
+    "category_cn": "办公设备",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "computer": {
+      "word": "computer",
+      "translation": "电脑",
+      "phonetic": "kəmˈpjuːtə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Every employee has a computer.",
+          "zh": "每个员工都有一台电脑。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公设备",
+      "related_words": ["PC", "laptop"],
+      "phrases": [
+        {
+          "phrase": "desktop computer",
+          "translation": "台式电脑",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "copier": {
+      "word": "copier",
+      "translation": "复印机",
+      "phonetic": "ˈkɒpiə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The copier is out of paper.",
+          "zh": "复印机没纸了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公设备",
+      "related_words": ["photocopier", "copy machine"],
+      "phrases": [
+        {
+          "phrase": "color copier",
+          "translation": "彩色复印机",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "printer": {
+      "word": "printer",
+      "translation": "打印机",
+      "phonetic": "ˈprɪntə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Send your document to the printer.",
+          "zh": "把你的文档发送到打印机。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公设备",
+      "related_words": ["printing device", "output device"],
+      "phrases": [
+        {
+          "phrase": "laser printer",
+          "translation": "激光打印机",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "scanner": {
+      "word": "scanner",
+      "translation": "扫描仪",
+      "phonetic": "ˈskænə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Use the scanner to digitize documents.",
+          "zh": "使用扫描仪将文档数字化。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公设备",
+      "related_words": ["scanning device", "digital scanner"],
+      "phrases": [
+        {
+          "phrase": "document scanner",
+          "translation": "文档扫描仪",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "telephone": {
+      "word": "telephone",
+      "translation": "电话",
+      "phonetic": "ˈtelɪfəʊn",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Answer the telephone professionally.",
+          "zh": "专业地接听电话。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公设备",
+      "related_words": ["phone", "landline"],
+      "phrases": [
+        {
+          "phrase": "office telephone",
+          "translation": "办公电话",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Management Positions",
+    "category_cn": "管理职位",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "ceo": {
+      "word": "CEO",
+      "translation": "首席执行官",
+      "phonetic": "ˌsiː iː ˈəʊ",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The CEO announced a new company policy.",
+          "zh": "首席执行官宣布了一项新的公司政策。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职位",
+      "related_words": ["chief executive", "company head"],
+      "phrases": [
+        {
+          "phrase": "company CEO",
+          "translation": "公司总裁",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "director": {
+      "word": "director",
+      "translation": "主管",
+      "phonetic": "dəˈrektə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She is the director of the marketing department.",
+          "zh": "她是市场部的主管。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职位",
+      "related_words": ["head", "chief"],
+      "phrases": [
+        {
+          "phrase": "managing director",
+          "translation": "总经理",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "manager": {
+      "word": "manager",
+      "translation": "经理",
+      "phonetic": "ˈmænɪdʒə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "The manager oversees all daily operations.",
+          "zh": "经理负责监督所有日常运营。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职位",
+      "related_words": ["supervisor", "team leader"],
+      "phrases": [
+        {
+          "phrase": "project manager",
+          "translation": "项目经理",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "president": {
+      "word": "president",
+      "translation": "总裁",
+      "phonetic": "ˈprezɪdənt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The company president gave a speech at the meeting.",
+          "zh": "公司总裁在会议上发表了讲话。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职位",
+      "related_words": ["chairman", "head officer"],
+      "phrases": [
+        {
+          "phrase": "company president",
+          "translation": "公司总裁",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "supervisor": {
+      "word": "supervisor",
+      "translation": "主管",
+      "phonetic": "ˈsuːpəvaɪzə(r)",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Report any problems to your immediate supervisor.",
+          "zh": "有任何问题都要向你的直属主管报告。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "管理职位",
+      "related_words": ["overseer", "coordinator"],
+      "phrases": [
+        {
+          "phrase": "team supervisor",
+          "translation": "团队主管",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

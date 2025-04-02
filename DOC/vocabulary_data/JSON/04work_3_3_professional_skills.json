@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Professional Skills",
+    "category_cn": "专业技能",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "design": {
+      "word": "design",
+      "translation": "设计",
+      "phonetic": "dɪˈzaɪn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She designs websites for clients.",
+          "zh": "她为客户设计网站。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业技能",
+      "related_words": ["create", "develop"],
+      "phrases": [
+        {
+          "phrase": "design layout",
+          "translation": "设计布局",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "program": {
+      "word": "program",
+      "translation": "编程",
+      "phonetic": "ˈprəʊɡræm",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She programs mobile applications.",
+          "zh": "她编写手机应用程序。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "专业技能",
+      "related_words": ["code", "develop"],
+      "phrases": [
+        {
+          "phrase": "program software",
+          "translation": "编写软件",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "research": {
+      "word": "research",
+      "translation": "研究",
+      "phonetic": "rɪˈsɜːtʃ",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We research new technologies.",
+          "zh": "我们研究新技术。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业技能",
+      "related_words": ["investigate", "study"],
+      "phrases": [
+        {
+          "phrase": "conduct research",
+          "translation": "进行研究",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "solve": {
+      "word": "solve",
+      "translation": "解决",
+      "phonetic": "sɒlv",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They solve complex problems.",
+          "zh": "他们解决复杂的问题。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业技能",
+      "related_words": ["resolve", "fix"],
+      "phrases": [
+        {
+          "phrase": "solve issues",
+          "translation": "解决问题",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "teach": {
+      "word": "teach",
+      "translation": "教导",
+      "phonetic": "tiːtʃ",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She teaches English to beginners.",
+          "zh": "她教初学者英语。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "专业技能",
+      "related_words": ["instruct", "train"],
+      "phrases": [
+        {
+          "phrase": "teach skills",
+          "translation": "教授技能",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

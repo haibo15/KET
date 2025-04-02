@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Daily Tasks",
+    "category_cn": "日常工作",
+    "word_count": 15,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "analyze": {
+      "word": "analyze",
+      "translation": "分析",
+      "phonetic": "ˈænəlaɪz",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Analyze the data before making decisions.",
+          "zh": "在做决定之前分析数据。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "日常工作",
+      "related_words": ["examine", "study"],
+      "phrases": [
+        {
+          "phrase": "analyze results",
+          "translation": "分析结果",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "communicate": {
+      "word": "communicate",
+      "translation": "沟通",
+      "phonetic": "kəˈmjuːnɪkeɪt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "It's important to communicate clearly.",
+          "zh": "清晰地沟通很重要。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "日常工作",
+      "related_words": ["discuss", "interact"],
+      "phrases": [
+        {
+          "phrase": "communicate effectively",
+          "translation": "有效沟通",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "create": {
+      "word": "create",
+      "translation": "创建",
+      "phonetic": "kriˈeɪt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Create a presentation for the meeting.",
+          "zh": "为会议创建一个演示文稿。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "日常工作",
+      "related_words": ["make", "develop"],
+      "phrases": [
+        {
+          "phrase": "create content",
+          "translation": "创建内容",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "maintain": {
+      "word": "maintain",
+      "translation": "维护",
+      "phonetic": "meɪnˈteɪn",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Maintain accurate records of all transactions.",
+          "zh": "保持所有交易记录的准确性。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "日常工作",
+      "related_words": ["keep up", "upkeep"],
+      "phrases": [
+        {
+          "phrase": "maintain records",
+          "translation": "维护记录",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "process": {
+      "word": "process",
+      "translation": "处理",
+      "phonetic": "ˈprəʊses",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Process all customer requests promptly.",
+          "zh": "及时处理所有客户请求。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "日常工作",
+      "related_words": ["handle", "deal with"],
+      "phrases": [
+        {
+          "phrase": "process data",
+          "translation": "处理数据",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

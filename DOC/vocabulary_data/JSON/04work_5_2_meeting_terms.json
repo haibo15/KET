@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Meeting Terms",
+    "category_cn": "会议用语",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "discuss": {
+      "word": "discuss",
+      "translation": "讨论",
+      "phonetic": "dɪˈskʌs",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Let's discuss the project timeline.",
+          "zh": "让我们讨论项目时间表。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "会议用语",
+      "related_words": ["talk", "debate"],
+      "phrases": [
+        {
+          "phrase": "discuss in detail",
+          "translation": "详细讨论",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "present": {
+      "word": "present",
+      "translation": "展示",
+      "phonetic": "prɪˈzent",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She will present the quarterly results.",
+          "zh": "她将展示季度业绩。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "会议用语",
+      "related_words": ["show", "demonstrate"],
+      "phrases": [
+        {
+          "phrase": "present findings",
+          "translation": "展示发现",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "minutes": {
+      "word": "minutes",
+      "translation": "会议记录",
+      "phonetic": "ˈmɪnɪts",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Take minutes during the meeting.",
+          "zh": "做会议记录。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "会议用语",
+      "related_words": ["record", "notes"],
+      "phrases": [
+        {
+          "phrase": "meeting minutes",
+          "translation": "会议纪要",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "vote": {
+      "word": "vote",
+      "translation": "投票",
+      "phonetic": "vəʊt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The board will vote on the proposal.",
+          "zh": "董事会将对提案进行投票。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "会议用语",
+      "related_words": ["ballot", "elect"],
+      "phrases": [
+        {
+          "phrase": "vote in favor",
+          "translation": "投赞成票",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "adjourn": {
+      "word": "adjourn",
+      "translation": "休会",
+      "phonetic": "əˈdʒɜːn",
+      "part_of_speech": "v",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "The meeting was adjourned until next week.",
+          "zh": "会议休会到下周。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "会议用语",
+      "related_words": ["postpone", "suspend"],
+      "phrases": [
+        {
+          "phrase": "adjourn the meeting",
+          "translation": "休会",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

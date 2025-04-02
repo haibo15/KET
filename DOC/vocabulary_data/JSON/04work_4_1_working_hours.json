@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Working Hours",
+    "category_cn": "工作时间",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "full_time": {
+      "word": "full-time",
+      "translation": "全职的",
+      "phonetic": "ˌfʊl ˈtaɪm",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She has a full-time position at the bank.",
+          "zh": "她在银行有一个全职职位。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作时间",
+      "related_words": ["permanent", "regular"],
+      "phrases": [
+        {
+          "phrase": "full-time job",
+          "translation": "全职工作",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "overtime": {
+      "word": "overtime",
+      "translation": "加班",
+      "phonetic": "ˈəʊvətaɪm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "We often work overtime during busy seasons.",
+          "zh": "我们在繁忙季节经常加班。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作时间",
+      "related_words": ["extra hours", "extended time"],
+      "phrases": [
+        {
+          "phrase": "work overtime",
+          "translation": "加班工作",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "part_time": {
+      "word": "part-time",
+      "translation": "兼职的",
+      "phonetic": "ˌpɑːt ˈtaɪm",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Students often take part-time jobs.",
+          "zh": "学生经常做兼职工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作时间",
+      "related_words": ["temporary", "casual"],
+      "phrases": [
+        {
+          "phrase": "part-time work",
+          "translation": "兼职工作",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "shift": {
+      "word": "shift",
+      "translation": "轮班",
+      "phonetic": "ʃɪft",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "She works the night shift.",
+          "zh": "她上夜班。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作时间",
+      "related_words": ["work period", "duty hours"],
+      "phrases": [
+        {
+          "phrase": "night shift",
+          "translation": "夜班",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "schedule": {
+      "word": "schedule",
+      "translation": "时间表",
+      "phonetic": "ˈʃedjuːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Check your schedule for next week.",
+          "zh": "查看你下周的时间表。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作时间",
+      "related_words": ["timetable", "work hours"],
+      "phrases": [
+        {
+          "phrase": "work schedule",
+          "translation": "工作时间表",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

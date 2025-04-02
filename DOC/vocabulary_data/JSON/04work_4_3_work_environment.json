@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Work Environment",
+    "category_cn": "工作环境",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "clean": {
+      "word": "clean",
+      "translation": "整洁的",
+      "phonetic": "kliːn",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Keep your workspace clean and organized.",
+          "zh": "保持工作空间整洁有序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作环境",
+      "related_words": ["tidy", "neat"],
+      "phrases": [
+        {
+          "phrase": "clean office",
+          "translation": "整洁的办公室",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "comfortable": {
+      "word": "comfortable",
+      "translation": "舒适的",
+      "phonetic": "ˈkʌmftəbl",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The office has a comfortable working environment.",
+          "zh": "办公室有一个舒适的工作环境。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作环境",
+      "related_words": ["cozy", "pleasant"],
+      "phrases": [
+        {
+          "phrase": "comfortable workplace",
+          "translation": "舒适的工作场所",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "modern": {
+      "word": "modern",
+      "translation": "现代的",
+      "phonetic": "ˈmɒdn",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Our office has modern facilities.",
+          "zh": "我们的办公室有现代化的设施。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作环境",
+      "related_words": ["up-to-date", "contemporary"],
+      "phrases": [
+        {
+          "phrase": "modern equipment",
+          "translation": "现代化设备",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "quiet": {
+      "word": "quiet",
+      "translation": "安静的",
+      "phonetic": "ˈkwaɪət",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The library is a quiet place to work.",
+          "zh": "图书馆是一个安静的工作场所。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作环境",
+      "related_words": ["peaceful", "silent"],
+      "phrases": [
+        {
+          "phrase": "quiet office",
+          "translation": "安静的办公室",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "safe": {
+      "word": "safe",
+      "translation": "安全的",
+      "phonetic": "seɪf",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The company provides a safe working environment.",
+          "zh": "公司提供安全的工作环境。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "工作环境",
+      "related_words": ["secure", "protected"],
+      "phrases": [
+        {
+          "phrase": "safe workplace",
+          "translation": "安全的工作场所",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

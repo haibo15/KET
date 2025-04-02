@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Business Etiquette",
+    "category_cn": "商务礼仪",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "polite": {
+      "word": "polite",
+      "translation": "有礼貌的",
+      "phonetic": "pəˈlaɪt",
+      "part_of_speech": "adj",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Always be polite in business correspondence.",
+          "zh": "在商务信函中要始终保持礼貌。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务礼仪",
+      "related_words": ["courteous", "respectful"],
+      "phrases": [
+        {
+          "phrase": "polite manner",
+          "translation": "礼貌的态度",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "greet": {
+      "word": "greet",
+      "translation": "问候",
+      "phonetic": "ɡriːt",
+      "part_of_speech": "v",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Greet your clients with a warm smile.",
+          "zh": "用温暖的微笑迎接你的客户。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务礼仪",
+      "related_words": ["welcome", "meet"],
+      "phrases": [
+        {
+          "phrase": "greet formally",
+          "translation": "正式问候",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "respect": {
+      "word": "respect",
+      "translation": "尊重",
+      "phonetic": "rɪˈspekt",
+      "part_of_speech": "v/n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Respect cultural differences in business.",
+          "zh": "在商务中尊重文化差异。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务礼仪",
+      "related_words": ["honor", "esteem"],
+      "phrases": [
+        {
+          "phrase": "mutual respect",
+          "translation": "相互尊重",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "punctual": {
+      "word": "punctual",
+      "translation": "准时的",
+      "phonetic": "ˈpʌŋktʃuəl",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Be punctual for business meetings.",
+          "zh": "商务会议要准时。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "商务礼仪",
+      "related_words": ["timely", "prompt"],
+      "phrases": [
+        {
+          "phrase": "be punctual for",
+          "translation": "准时参加",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "courtesy": {
+      "word": "courtesy",
+      "translation": "礼貌",
+      "phonetic": "ˈkɜːtəsi",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Professional courtesy is essential in business.",
+          "zh": "职业礼貌在商务中是必不可少的。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "商务礼仪",
+      "related_words": ["politeness", "manners"],
+      "phrases": [
+        {
+          "phrase": "common courtesy",
+          "translation": "基本礼貌",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

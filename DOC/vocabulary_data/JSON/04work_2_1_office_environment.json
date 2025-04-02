@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "category": "Office Environment",
+    "category_cn": "办公环境",
+    "word_count": 10,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 25,
+      "C": 5
+    }
+  },
+  "words": {
+    "cubicle": {
+      "word": "cubicle",
+      "translation": "隔间",
+      "phonetic": "ˈkjuːbɪkl",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "Each employee has their own cubicle.",
+          "zh": "每个员工都有自己的隔间。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Work"],
+      "category": "办公环境",
+      "related_words": ["workstation", "desk space"],
+      "phrases": [
+        {
+          "phrase": "office cubicle",
+          "translation": "办公隔间",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "meeting_room": {
+      "word": "meeting room",
+      "translation": "会议室",
+      "phonetic": "ˈmiːtɪŋ ruːm",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "The team gathered in the meeting room.",
+          "zh": "团队在会议室集合。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公环境",
+      "related_words": ["conference room", "boardroom"],
+      "phrases": [
+        {
+          "phrase": "book a meeting room",
+          "translation": "预订会议室",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "office": {
+      "word": "office",
+      "translation": "办公室",
+      "phonetic": "ˈɒfɪs",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She has a private office on the top floor.",
+          "zh": "她在顶层有一间私人办公室。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公环境",
+      "related_words": ["workplace", "bureau"],
+      "phrases": [
+        {
+          "phrase": "home office",
+          "translation": "家庭办公室",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "reception": {
+      "word": "reception",
+      "translation": "接待处",
+      "phonetic": "rɪˈsepʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Visitors must check in at reception.",
+          "zh": "访客必须在接待处登记。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公环境",
+      "related_words": ["front desk", "lobby"],
+      "phrases": [
+        {
+          "phrase": "reception area",
+          "translation": "接待区",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "workspace": {
+      "word": "workspace",
+      "translation": "工作空间",
+      "phonetic": "ˈwɜːkspeɪs",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Keep your workspace clean and organized.",
+          "zh": "保持工作空间整洁有序。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Work"],
+      "category": "办公环境",
+      "related_words": ["work area", "office space"],
+      "phrases": [
+        {
+          "phrase": "shared workspace",
+          "translation": "共享工作空间",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 
