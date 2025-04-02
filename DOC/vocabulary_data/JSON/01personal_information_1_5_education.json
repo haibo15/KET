@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "category": "Educational Background",
+    "category_cn": "教育背景词汇",
+    "word_count": 6,
+    "difficulty_distribution": {
+      "A": 80,
+      "B": 20,
+      "C": 0
+    }
+  },
+  "words": {
+    "education": {
+      "word": "education",
+      "translation": "教育",
+      "phonetic": "ˌedʒuˈkeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Education is very important.",
+          "zh": "教育很重要。"
+        },
+        {
+          "en": "He has a good education.",
+          "zh": "他受过良好的教育。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "教育背景",
+      "related_words": ["school", "study", "learning"],
+      "phrases": [
+        {
+          "phrase": "higher education",
+          "translation": "高等教育",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "education system",
+          "translation": "教育系统",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "school": {
+      "word": "school",
+      "translation": "学校",
+      "phonetic": "skuːl",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My school is near my home.",
+          "zh": "我的学校离家很近。"
+        },
+        {
+          "en": "She goes to school by bus.",
+          "zh": "她坐公交车去学校。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "教育背景",
+      "related_words": ["student", "teacher", "classroom"],
+      "phrases": [
+        {
+          "phrase": "primary school",
+          "translation": "小学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "high school",
+          "translation": "高中",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "university": {
+      "word": "university",
+      "translation": "大学",
+      "phonetic": "ˌjuːnɪˈvɜːsəti",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "He studies at the university.",
+          "zh": "他在大学学习。"
+        },
+        {
+          "en": "Which university did you go to?",
+          "zh": "你上的是哪所大学？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "教育背景",
+      "related_words": ["college", "campus", "student"],
+      "phrases": [
+        {
+          "phrase": "go to university",
+          "translation": "上大学",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "university degree",
+          "translation": "大学学位",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "study": {
+      "word": "study",
+      "translation": "学习",
+      "phonetic": "ˈstʌdi",
+      "part_of_speech": "v & n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I study English every day.",
+          "zh": "我每天学习英语。"
+        },
+        {
+          "en": "What do you want to study?",
+          "zh": "你想学习什么？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "教育背景",
+      "related_words": ["learn", "teach", "education"],
+      "phrases": [
+        {
+          "phrase": "study hard",
+          "translation": "努力学习",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "study abroad",
+          "translation": "出国留学",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "subject": {
+      "word": "subject",
+      "translation": "科目",
+      "phonetic": "ˈsʌbdʒɪkt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What's your favorite subject?",
+          "zh": "你最喜欢的科目是什么？"
+        },
+        {
+          "en": "Math is a difficult subject.",
+          "zh": "数学是一个难的科目。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "教育背景",
+      "related_words": ["course", "lesson", "class"],
+      "phrases": [
+        {
+          "phrase": "main subject",
+          "translation": "主修科目",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "school subject",
+          "translation": "学校科目",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "grade": {
+      "word": "grade",
+      "translation": "年级；成绩",
+      "phonetic": "ɡreɪd",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "What grade are you in?",
+          "zh": "你在几年级？"
+        },
+        {
+          "en": "She got good grades in all subjects.",
+          "zh": "她所有科目都取得了好成绩。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "教育背景",
+      "related_words": ["score", "mark", "level"],
+      "phrases": [
+        {
+          "phrase": "good grade",
+          "translation": "好成绩",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "grade level",
+          "translation": "年级水平",
+          "difficulty": "B"
+        }
+      ]
+    }
+  }
+} 

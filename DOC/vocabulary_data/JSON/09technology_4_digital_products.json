@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Photography"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["digital camera", "video recorder"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Entertainment"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["media player", "music player"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Entertainment"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["radio receiver", "wireless"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Entertainment"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["TV set", "monitor"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["hard disk", "drive"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["RAM", "storage"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["flash drive", "thumb drive"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Photography"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["camcorder", "recorder"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Entertainment"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["music player", "audio device"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Entertainment"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["video player", "disc player"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["HDD", "storage device"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["USB drive", "thumb drive"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["SD card", "flash card"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Digital Products", "Storage"],
+      "topics": ["Technology"],
       "category": "数码产品",
       "related_words": ["memory device", "data storage"],
       "phrases": []

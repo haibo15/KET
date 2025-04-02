@@ -1,147 +1,15 @@
 {
   "metadata": {
-    "category": "Work Experience and Personal Habits",
-    "category_cn": "工作经历和个人习惯",
-    "word_count": 20,
+    "category": "Personal Habits",
+    "category_cn": "个人习惯词汇",
+    "word_count": 5,
     "difficulty_distribution": {
-      "A": 65,
-      "B": 35,
+      "A": 80,
+      "B": 20,
       "C": 0
     }
   },
   "words": {
-    "experience": {
-      "word": "experience",
-      "translation": "经验",
-      "phonetic": "ɪkˈspɪəriəns",
-      "part_of_speech": "n",
-      "frequency": 90,
-      "examples": [
-        {
-          "en": "Do you have any work experience?",
-          "zh": "你有工作经验吗？"
-        },
-        {
-          "en": "She has five years of teaching experience.",
-          "zh": "她有五年的教学经验。"
-        }
-      ],
-      "difficulty_level": "A",
-      "topics": ["Personal Information"],
-      "category": "工作经历",
-      "related_words": ["skill", "ability", "knowledge"],
-      "phrases": [
-        {
-          "phrase": "work experience",
-          "translation": "工作经验",
-          "difficulty": "A"
-        },
-        {
-          "phrase": "years of experience",
-          "translation": "多年经验",
-          "difficulty": "B"
-        }
-      ]
-    },
-    "employment": {
-      "word": "employment",
-      "translation": "就业",
-      "phonetic": "ɪmˈplɔɪmənt",
-      "part_of_speech": "n",
-      "frequency": 85,
-      "examples": [
-        {
-          "en": "He is looking for employment.",
-          "zh": "他在找工作。"
-        },
-        {
-          "en": "Full-time employment is available.",
-          "zh": "提供全职工作。"
-        }
-      ],
-      "difficulty_level": "B",
-      "topics": ["Personal Information"],
-      "category": "工作经历",
-      "related_words": ["job", "work", "career"],
-      "phrases": [
-        {
-          "phrase": "full-time employment",
-          "translation": "全职工作",
-          "difficulty": "B"
-        },
-        {
-          "phrase": "employment opportunity",
-          "translation": "就业机会",
-          "difficulty": "B"
-        }
-      ]
-    },
-    "salary": {
-      "word": "salary",
-      "translation": "薪水",
-      "phonetic": "ˈsæləri",
-      "part_of_speech": "n",
-      "frequency": 85,
-      "examples": [
-        {
-          "en": "What is your current salary?",
-          "zh": "你目前的薪水是多少？"
-        },
-        {
-          "en": "The job offers a good salary.",
-          "zh": "这份工作提供优厚的薪水。"
-        }
-      ],
-      "difficulty_level": "B",
-      "topics": ["Personal Information"],
-      "category": "工作经历",
-      "related_words": ["wage", "income", "pay"],
-      "phrases": [
-        {
-          "phrase": "monthly salary",
-          "translation": "月薪",
-          "difficulty": "B"
-        },
-        {
-          "phrase": "salary increase",
-          "translation": "加薪",
-          "difficulty": "B"
-        }
-      ]
-    },
-    "interview": {
-      "word": "interview",
-      "translation": "面试",
-      "phonetic": "ˈɪntəvjuː",
-      "part_of_speech": "n & v",
-      "frequency": 90,
-      "examples": [
-        {
-          "en": "I have a job interview tomorrow.",
-          "zh": "我明天有一个工作面试。"
-        },
-        {
-          "en": "They will interview ten candidates.",
-          "zh": "他们将面试十名候选人。"
-        }
-      ],
-      "difficulty_level": "A",
-      "topics": ["Personal Information"],
-      "category": "工作经历",
-      "related_words": ["application", "resume", "job"],
-      "phrases": [
-        {
-          "phrase": "job interview",
-          "translation": "工作面试",
-          "difficulty": "A"
-        },
-        {
-          "phrase": "interview questions",
-          "translation": "面试问题",
-          "difficulty": "B"
-        }
-      ]
-    },
     "habit": {
       "word": "habit",
       "translation": "习惯",

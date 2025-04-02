@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Service", "Communication"],
-      "category": "服务用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["assist", "aid"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Service", "Jobs"],
-      "category": "服务人员",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["clerk", "helper"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Decision"],
-      "category": "购物用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["select", "pick"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication", "Politeness"],
-      "category": "服务用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["thanks", "appreciate"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Service", "Greeting"],
-      "category": "服务用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["greet", "receive"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Commerce"],
-      "category": "购物用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["purchase", "get"],
       "phrases": [
         {
@@ -167,8 +167,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Service"],
-      "category": "购物用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["locate", "discover"],
       "phrases": [
         {
@@ -191,8 +191,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Jobs", "Service"],
-      "category": "服务人员",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["teller", "checkout clerk"],
       "phrases": [
         {
@@ -215,8 +215,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Jobs", "Service"],
-      "category": "服务人员",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["supervisor", "boss"],
       "phrases": [
         {
@@ -239,8 +239,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication", "Politeness"],
-      "category": "服务用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["pardon me", "sorry"],
       "phrases": [
         {
@@ -263,8 +263,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication", "Politeness"],
-      "category": "服务用语",
+      "topics": ["Shopping"],
+      "category": "服务咨询",
       "related_words": ["kindly", "if you would"],
       "phrases": [
         {

@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Cultural Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "文化活动",
       "related_words": ["performer", "artist"],
       "phrases": [
         {
@@ -47,6 +47,8 @@
         }
       ],
       "difficulty_level": "A",
+      "topics": ["Entertainment"],
+      "category": "文化活动",
       "topics": ["Cultural Activities", "Entertainment"],
       "category": "休闲娱乐",
       "related_words": ["performance", "show"],

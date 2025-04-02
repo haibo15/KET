@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Fruit"],
-      "category": "食品饮料",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["fruit", "fresh produce"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Bakery"],
-      "category": "食品饮料",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["loaf", "bakery"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Dessert"],
-      "category": "食品饮料",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["pastry", "dessert"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Fashion"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["clothing", "garment"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Winter Wear"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["jacket", "overcoat"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Education", "Reading"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["textbook", "novel"],
       "phrases": [
         {
@@ -167,8 +167,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Beverages"],
-      "category": "食品饮料",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["beverage", "brew"],
       "phrases": [
         {
@@ -191,8 +191,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Beverages"],
-      "category": "食品饮料",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["beverage", "refreshment"],
       "phrases": [
         {
@@ -215,8 +215,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Shopping"],
-      "category": "食品饮料",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["groceries", "provisions"],
       "phrases": [
         {
@@ -239,8 +239,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Accessories", "Fashion"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["handbag", "purse"],
       "phrases": [
         {
@@ -263,8 +263,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronics", "Photography"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["digital camera", "photograph"],
       "phrases": [
         {
@@ -287,8 +287,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronics", "Technology"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["laptop", "desktop"],
       "phrases": [
         {
@@ -311,8 +311,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Fashion"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["gown", "frock"],
       "phrases": [
         {
@@ -335,8 +335,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Accessories", "Fashion"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["spectacles", "sunglasses"],
       "phrases": [
         {
@@ -359,8 +359,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Accessories"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["cap", "headwear"],
       "phrases": [
         {
@@ -383,8 +383,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Footwear"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["footwear", "boots"],
       "phrases": [
         {
@@ -407,8 +407,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Clothing", "Fashion"],
-      "category": "服装配饰",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["tee", "top"],
       "phrases": [
         {
@@ -431,8 +431,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Education", "Books"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["reference book", "lexicon"],
       "phrases": [
         {
@@ -455,8 +455,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Daily Items", "Security"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["lock", "keychain"],
       "phrases": [
         {
@@ -479,8 +479,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Reading", "Media"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["journal", "periodical"],
       "phrases": [
         {
@@ -503,8 +503,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Reading", "Media"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["paper", "daily"],
       "phrases": [
         {
@@ -527,8 +527,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Stationery", "Writing"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["ballpoint pen", "fountain pen"],
       "phrases": [
         {
@@ -551,8 +551,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronics", "Communication"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["mobile phone", "smartphone"],
       "phrases": [
         {
@@ -575,8 +575,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Daily Items", "Weather"],
-      "category": "日用品",
+      "topics": ["Shopping"],
+      "category": "商品类别",
       "related_words": ["parasol", "brolly"],
       "phrases": [
         {

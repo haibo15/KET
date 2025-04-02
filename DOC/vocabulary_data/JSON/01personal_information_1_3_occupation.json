@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "category": "Occupation",
+    "category_cn": "职业类词汇",
+    "word_count": 6,
+    "difficulty_distribution": {
+      "A": 70,
+      "B": 30,
+      "C": 0
+    }
+  },
+  "words": {
+    "occupation": {
+      "word": "occupation",
+      "translation": "职业",
+      "phonetic": "ˌɒkjuˈpeɪʃn",
+      "part_of_speech": "n",
+      "frequency": 80,
+      "examples": [
+        {
+          "en": "What's your occupation?",
+          "zh": "你的职业是什么？"
+        },
+        {
+          "en": "Teaching is a noble occupation.",
+          "zh": "教书是一个崇高的职业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "职业类词汇",
+      "related_words": ["job", "career", "profession"],
+      "phrases": [
+        {
+          "phrase": "main occupation",
+          "translation": "主要职业",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "current occupation",
+          "translation": "当前职业",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "job": {
+      "word": "job",
+      "translation": "工作",
+      "phonetic": "dʒɒb",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I got a new job.",
+          "zh": "我找到了一份新工作。"
+        },
+        {
+          "en": "He lost his job last month.",
+          "zh": "他上个月失业了。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "职业类词汇",
+      "related_words": ["work", "career", "occupation"],
+      "phrases": [
+        {
+          "phrase": "full-time job",
+          "translation": "全职工作",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "part-time job",
+          "translation": "兼职工作",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "work": {
+      "word": "work",
+      "translation": "工作",
+      "phonetic": "wɜːk",
+      "part_of_speech": "n & v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "Where do you work?",
+          "zh": "你在哪里工作？"
+        },
+        {
+          "en": "I work in a bank.",
+          "zh": "我在银行工作。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "职业类词汇",
+      "related_words": ["job", "career", "employment"],
+      "phrases": [
+        {
+          "phrase": "go to work",
+          "translation": "去上班",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "work experience",
+          "translation": "工作经验",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "career": {
+      "word": "career",
+      "translation": "职业生涯",
+      "phonetic": "kəˈrɪə(r)",
+      "part_of_speech": "n",
+      "frequency": 85,
+      "examples": [
+        {
+          "en": "She has a successful career.",
+          "zh": "她有一个成功的职业生涯。"
+        },
+        {
+          "en": "He changed his career last year.",
+          "zh": "他去年改变了职业。"
+        }
+      ],
+      "difficulty_level": "B",
+      "topics": ["Personal Information"],
+      "category": "职业类词汇",
+      "related_words": ["job", "profession", "occupation"],
+      "phrases": [
+        {
+          "phrase": "career path",
+          "translation": "职业发展道路",
+          "difficulty": "B"
+        },
+        {
+          "phrase": "career choice",
+          "translation": "职业选择",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "teacher": {
+      "word": "teacher",
+      "translation": "教师",
+      "phonetic": "ˈtiːtʃə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "My English teacher is very kind.",
+          "zh": "我的英语老师很友善。"
+        },
+        {
+          "en": "She wants to be a teacher.",
+          "zh": "她想成为一名教师。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "职业类词汇",
+      "related_words": ["student", "professor", "instructor"],
+      "phrases": [
+        {
+          "phrase": "language teacher",
+          "translation": "语言教师",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "school teacher",
+          "translation": "学校教师",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "doctor": {
+      "word": "doctor",
+      "translation": "医生",
+      "phonetic": "ˈdɒktə(r)",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "I need to see a doctor.",
+          "zh": "我需要看医生。"
+        },
+        {
+          "en": "The doctor is very experienced.",
+          "zh": "这位医生很有经验。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "职业类词汇",
+      "related_words": ["nurse", "patient", "hospital"],
+      "phrases": [
+        {
+          "phrase": "family doctor",
+          "translation": "家庭医生",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "see a doctor",
+          "translation": "看医生",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

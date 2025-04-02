@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Business"],
-      "category": "商店类型",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["store", "retail outlet"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Food"],
-      "category": "商店类型",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["grocery store", "hypermarket"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Business"],
-      "category": "购物中心",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["shopping mall", "plaza"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Store Layout"],
-      "category": "商店设施",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["desk", "service point"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Store Layout"],
-      "category": "商店设施",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["display window", "shopfront"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Finance", "Services"],
-      "category": "商店类型",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["financial institution", "branch"],
       "phrases": [
         {
@@ -167,8 +167,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Books"],
-      "category": "商店类型",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["bookstore", "library"],
       "phrases": [
         {
@@ -191,8 +191,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Food", "Dining"],
-      "category": "商店类型",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["coffee shop", "bistro"],
       "phrases": [
         {
@@ -215,8 +215,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Health", "Shopping"],
-      "category": "商店类型",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["pharmacy", "drugstore"],
       "phrases": [
         {
@@ -239,8 +239,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Equipment"],
-      "category": "商店设施",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["shopping basket", "carrier"],
       "phrases": [
         {
@@ -263,8 +263,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Furniture", "Shopping"],
-      "category": "商店设施",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["seat", "stool"],
       "phrases": [
         {
@@ -287,8 +287,8 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Shopping", "Business"],
-      "category": "购物中心",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["factory outlet", "discount store"],
       "phrases": [
         {
@@ -311,14 +311,134 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Shopping", "Architecture"],
-      "category": "购物中心",
+      "topics": ["Shopping"],
+      "category": "购物场所",
       "related_words": ["shopping arcade", "gallery"],
       "phrases": [
         {
           "phrase": "shopping arcade",
           "translation": "购物拱廊",
           "difficulty": "B"
+        }
+      ]
+    },
+    "store": {
+      "word": "store",
+      "translation": "商店",
+      "phonetic": "ʃɒp",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "This shop sells beautiful clothes.",
+          "zh": "这家商店卖漂亮的衣服。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping"],
+      "category": "购物场所",
+      "related_words": ["shop", "retail outlet"],
+      "phrases": [
+        {
+          "phrase": "clothes shop",
+          "translation": "服装店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "market": {
+      "word": "market",
+      "translation": "市场",
+      "phonetic": "ˈmɑːrkɪt",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I bought my groceries at the market.",
+          "zh": "我在市场买了日用品。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping"],
+      "category": "购物场所",
+      "related_words": ["grocery market", "food market"],
+      "phrases": [
+        {
+          "phrase": "local market",
+          "translation": "本地市场",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bakery": {
+      "word": "bakery",
+      "translation": "面包店",
+      "phonetic": "ˈbækəri",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I bought bread at the bakery.",
+          "zh": "我在面包店买了面包。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping"],
+      "category": "购物场所",
+      "related_words": ["baker's shop", "bakery shop"],
+      "phrases": [
+        {
+          "phrase": "local bakery",
+          "translation": "本地面包店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "bookstore": {
+      "word": "bookstore",
+      "translation": "书店",
+      "phonetic": "ˈbʊkʃɒp",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I bought this novel at the bookstore.",
+          "zh": "我在书店买了这本小说。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping"],
+      "category": "购物场所",
+      "related_words": ["bookshop", "library"],
+      "phrases": [
+        {
+          "phrase": "local bookstore",
+          "translation": "本地书店",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pharmacy": {
+      "word": "pharmacy",
+      "translation": "药店",
+      "phonetic": "ˈkemɪst",
+      "part_of_speech": "n",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "I need to go to the pharmacy to buy medicine.",
+          "zh": "我需要去药店买药。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Shopping"],
+      "category": "购物场所",
+      "related_words": ["chemist", "drugstore"],
+      "phrases": [
+        {
+          "phrase": "chemist's shop",
+          "translation": "药店",
+          "difficulty": "A"
         }
       ]
     }

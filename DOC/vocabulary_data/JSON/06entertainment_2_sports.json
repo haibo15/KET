@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Sports", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "体育运动",
       "related_words": ["ball game", "batting"],
       "phrases": [
         {
@@ -47,6 +47,8 @@
         }
       ],
       "difficulty_level": "A",
+      "topics": ["Entertainment"],
+      "category": "体育运动",
       "topics": ["Sports", "Entertainment"],
       "category": "休闲娱乐",
       "related_words": ["hoops", "b-ball"],

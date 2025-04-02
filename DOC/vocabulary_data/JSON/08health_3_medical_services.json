@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["medical center", "surgery"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["dental clinic", "dental surgeon"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["physician", "medical practitioner"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["medical center", "infirmary"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["medical nurse", "caregiver"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["chemist", "drugstore"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Supplies"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["dressing", "wrap"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Supplies"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["medication", "drug"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Supplies"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["tablet", "capsule"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Medical Supplies"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["script", "medical prescription"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Supplies"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["pill", "capsule"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Supplies"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["fever thermometer", "temperature gauge"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["booking", "consultation"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["examine", "inspect"],
       "phrases": []
@@ -275,7 +275,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["inspect", "check up"],
       "phrases": []
@@ -293,7 +293,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["assist", "aid"],
       "phrases": []
@@ -311,7 +311,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["care for", "take care of"],
       "phrases": []
@@ -329,7 +329,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["care for", "attend to"],
       "phrases": []
@@ -347,7 +347,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["cure", "heal"],
       "phrases": []
@@ -365,7 +365,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Medical Services"],
+      "topics": ["Health"],
       "category": "医疗服务",
       "related_words": ["stay", "remain"],
       "phrases": []

@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Problems", "Quality"],
-      "category": "退换原因",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["damaged", "faulty"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Returns"],
-      "category": "退换流程",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["exchange", "swap"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Documents"],
-      "category": "退换流程",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["bill", "proof of purchase"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Money"],
-      "category": "退换流程",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["money back", "reimbursement"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Products"],
-      "category": "质量问题",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["standard", "grade"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Size", "Shopping"],
-      "category": "退换原因",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["oversized", "large"],
       "phrases": [
         {
@@ -167,8 +167,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Returns"],
-      "category": "退换原因",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["wrong", "incorrect"],
       "phrases": [
         {
@@ -191,8 +191,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Size", "Shopping"],
-      "category": "退换原因",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["undersized", "tiny"],
       "phrases": [
         {
@@ -215,8 +215,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Service"],
-      "category": "退换流程",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["examine", "inspect"],
       "phrases": [
         {
@@ -239,8 +239,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Problems", "Quality"],
-      "category": "质量问题",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["harm", "defect"],
       "phrases": [
         {
@@ -263,8 +263,8 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Problems", "Quality"],
-      "category": "质量问题",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["flaw", "fault"],
       "phrases": [
         {
@@ -287,8 +287,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Problems", "General"],
-      "category": "质量问题",
+      "topics": ["Shopping"],
+      "category": "退换货物",
       "related_words": ["issue", "trouble"],
       "phrases": [
         {

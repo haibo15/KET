@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["fix", "mend"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["repair", "restore"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Conditions"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["damaged", "faulty"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Conditions"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["harm", "injury"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Conditions"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["defect", "problem"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Professions"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["technician", "repairman"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Professions"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["mechanic", "specialist"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Equipment"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["equipment", "instrument"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Equipment"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["replacement part", "component"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["inspect", "examine"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["change", "substitute"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["service", "upkeep"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["maintain", "maintenance"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Service Terms"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["guarantee", "coverage"],
       "phrases": []
@@ -275,7 +275,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Service Terms"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["warranty", "assurance"],
       "phrases": []
@@ -293,7 +293,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Conditions"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["functional", "operational"],
       "phrases": []
@@ -311,7 +311,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Service Operations"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["upkeep", "servicing"],
       "phrases": []
@@ -329,7 +329,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Tools"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["tool", "implement"],
       "phrases": []
@@ -347,7 +347,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Tools"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["spanner", "tool"],
       "phrases": []
@@ -365,7 +365,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Places"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["repair shop", "garage"],
       "phrases": []
@@ -383,7 +383,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Places"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["auto shop", "service center"],
       "phrases": []
@@ -401,7 +401,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Status"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["fixed", "mended"],
       "phrases": []
@@ -419,7 +419,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Status"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["being fixed", "in repair"],
       "phrases": []
@@ -437,7 +437,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Repair", "Places"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["workshop", "service center"],
       "phrases": []
@@ -455,7 +455,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Repair", "Places"],
+      "topics": ["Services"],
       "category": "维修服务",
       "related_words": ["repair center", "maintenance center"],
       "phrases": []

@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "related_words": ["social club", "organization"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "related_words": ["dining place", "eatery"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "related_words": ["coffee shop", "bistro"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "related_words": ["park", "yard"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "related_words": ["talk", "converse"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Activities", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "related_words": ["gather", "assemble"],
       "phrases": [
         {
@@ -167,6 +167,8 @@
         }
       ],
       "difficulty_level": "A",
+      "topics": ["Entertainment"],
+      "category": "社交活动",
       "topics": ["Social Activities", "Entertainment"],
       "category": "休闲娱乐",
       "related_words": ["distribute", "give"],

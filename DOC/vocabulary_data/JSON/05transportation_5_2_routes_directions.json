@@ -24,7 +24,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["backward", "behind"],
       "phrases": [
         {
@@ -48,7 +48,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["downward", "below"],
       "phrases": [
         {
@@ -72,7 +72,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["eastern", "eastward"],
       "phrases": [
         {
@@ -96,7 +96,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["forward", "ahead"],
       "phrases": [
         {
@@ -120,7 +120,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["leftward", "port side"],
       "phrases": [
         {
@@ -144,7 +144,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["northern", "northward"],
       "phrases": [
         {
@@ -168,7 +168,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["rightward", "starboard"],
       "phrases": [
         {
@@ -192,7 +192,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["southern", "southward"],
       "phrases": [
         {
@@ -216,7 +216,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["upward", "above"],
       "phrases": [
         {
@@ -240,7 +240,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["western", "westward"],
       "phrases": [
         {
@@ -264,7 +264,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["over", "higher than"],
       "phrases": [
         {
@@ -288,7 +288,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["through", "over"],
       "phrases": [
         {
@@ -312,7 +312,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["beside", "by"],
       "phrases": [
         {
@@ -336,7 +336,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["by", "near"],
       "phrases": [
         {
@@ -360,7 +360,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "路线方向",
       "related_words": ["after", "following"],
       "phrases": [
         {

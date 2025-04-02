@@ -1,1 +1,113 @@
- 
+{
+  "metadata": {
+    "category": "Grades and Assessment",
+    "category_cn": "成绩评价",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 100,
+      "B": 0,
+      "C": 0
+    }
+  },
+  "words": {
+    "grade": {
+      "word": "grade",
+      "translation": "成绩",
+      "phonetic": "ɡreɪd",
+      "part_of_speech": "n",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "She got good grades in all subjects.",
+          "zh": "她所有科目都取得了好成绩。"
+        },
+        {
+          "en": "What grade did you get in math?",
+          "zh": "你数学考了多少分？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "成绩评价",
+      "related_words": ["mark", "score", "result"],
+      "phrases": [
+        {
+          "phrase": "good grade",
+          "translation": "好成绩",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "final grade",
+          "translation": "期末成绩",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "pass": {
+      "word": "pass",
+      "translation": "通过",
+      "phonetic": "pɑːs",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "You need to score 60% to pass the exam.",
+          "zh": "你需要得到60%的分数才能通过考试。"
+        },
+        {
+          "en": "She passed all her exams this semester.",
+          "zh": "她这学期通过了所有考试。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "成绩评价",
+      "related_words": ["succeed", "qualify", "achieve"],
+      "phrases": [
+        {
+          "phrase": "pass an exam",
+          "translation": "通过考试",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "pass with distinction",
+          "translation": "以优异成绩通过",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "fail": {
+      "word": "fail",
+      "translation": "失败",
+      "phonetic": "feɪl",
+      "part_of_speech": "v",
+      "frequency": 95,
+      "examples": [
+        {
+          "en": "If you fail the exam, you can try again next time.",
+          "zh": "如果你考试不及格，下次可以再试。"
+        },
+        {
+          "en": "He failed his driving test twice.",
+          "zh": "他驾驶考试失败了两次。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Education"],
+      "category": "成绩评价",
+      "related_words": ["flunk", "not pass", "unsuccessful"],
+      "phrases": [
+        {
+          "phrase": "fail an exam",
+          "translation": "考试不及格",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "fail to pass",
+          "translation": "未能通过",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["hearing organ", "earlobe"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["eyeball", "vision"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["facial features", "countenance"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["hairstyle", "locks"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["skull", "cranium"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["lips", "oral cavity"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["nostril", "nasal"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["molar", "dental"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["limb", "forearm"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["spine", "backbone"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["physique", "figure"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["thorax", "breast"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["sole", "toes"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["palm", "fingers"],
       "phrases": []
@@ -275,7 +275,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["limb", "thigh"],
       "phrases": []
@@ -293,7 +293,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["throat", "cervical"],
       "phrases": []
@@ -311,7 +311,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["joint", "upper arm"],
       "phrases": []
@@ -329,7 +329,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["belly", "tummy"],
       "phrases": []
@@ -347,7 +347,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["mind", "cerebrum"],
       "phrases": []
@@ -365,7 +365,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["cardiac", "pulse"],
       "phrases": []
@@ -383,7 +383,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["hepatic", "organ"],
       "phrases": []
@@ -401,7 +401,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["respiratory", "pulmonary"],
       "phrases": []
@@ -419,7 +419,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["renal", "organ"],
       "phrases": []
@@ -437,7 +437,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["tissue", "sinew"],
       "phrases": []
@@ -455,7 +455,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Body Parts"],
+      "topics": ["Health"],
       "category": "身体部位",
       "related_words": ["skeleton", "osseous"],
       "phrases": []

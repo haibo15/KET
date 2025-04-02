@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["power pack", "cell"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["digital camera", "video camera"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["PC", "desktop"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["typing pad", "input device"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["notebook", "portable computer"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["smartphone", "cellphone"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["pointing device", "cursor control"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["printing device", "copier"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices", "Accessories"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["power adapter", "charging cable"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices", "Accessories"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["earphones", "headset"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices", "Accessories"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["SD card", "flash card"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices", "Accessories"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["mic", "audio input"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Electronic Devices", "Accessories"],
+      "topics": ["Technology"],
       "category": "电子设备",
       "related_words": ["audio output", "loudspeaker"],
       "phrases": []

@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["mail", "correspondence"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["parcel", "box"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["card", "greeting card"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["postage stamp", "postal stamp"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Operations"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["send", "transport"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Operations"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["mail", "ship"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Operations"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["get", "collect"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["letter", "mail"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["location", "residence"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["post", "letter"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Items"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["package", "box"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Operations"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["post", "mail"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Operations"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["receive", "pick up"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Postal", "Operations"],
+      "topics": ["Services"],
       "category": "邮政服务",
       "related_words": ["signature", "receipt"],
       "phrases": []

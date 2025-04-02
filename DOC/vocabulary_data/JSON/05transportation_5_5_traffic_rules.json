@@ -24,7 +24,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["traffic light", "signal"],
       "phrases": [
         {
@@ -48,7 +48,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["leave", "station"],
       "phrases": [
         {
@@ -72,7 +72,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["signpost", "marker"],
       "phrases": [
         {
@@ -96,7 +96,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["halt", "cease"],
       "phrases": [
         {
@@ -120,7 +120,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["transport", "vehicles"],
       "phrases": [
         {
@@ -144,7 +144,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["cautious", "vigilant"],
       "phrases": [
         {
@@ -168,7 +168,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["hazardous", "unsafe"],
       "phrases": [
         {
@@ -192,7 +192,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["rapid", "swift"],
       "phrases": [
         {
@@ -216,7 +216,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["secure", "protected"],
       "phrases": [
         {
@@ -240,7 +240,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通规则",
       "related_words": ["unhurried", "leisurely"],
       "phrases": [
         {

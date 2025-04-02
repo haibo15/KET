@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Hobbies"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["artwork", "artistic"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Hobbies"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["dancing", "ballet"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Hobbies"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["sketch", "illustrate"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["movie", "cinema"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["melody", "song"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Hobbies"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["color", "brush"],
       "phrases": [
         {
@@ -167,8 +167,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Hobbies"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["photo", "picture"],
       "phrases": [
         {
@@ -191,8 +191,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Arts", "Entertainment"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["vocalist", "perform"],
       "phrases": [
         {
@@ -215,8 +215,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Collections", "Hobbies"],
-      "category": "休闲娱乐",
+      "topics": ["Entertainment"],
+      "category": "兴趣爱好",
       "related_words": ["novel", "textbook"],
       "phrases": [
         {

@@ -24,7 +24,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["pass", "permit"],
       "phrases": [
         {
@@ -48,7 +48,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["price", "cost"],
       "phrases": [
         {
@@ -72,7 +72,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["permit", "authorization"],
       "phrases": [
         {
@@ -96,7 +96,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["round trip", "two-way ticket"],
       "phrases": [
         {
@@ -120,7 +120,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["one-way ticket", "simple fare"],
       "phrases": [
         {
@@ -144,7 +144,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["terminal", "aerodrome"],
       "phrases": [
         {
@@ -168,7 +168,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["ticket counter", "ticket window"],
       "phrases": [
         {
@@ -192,7 +192,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["terminal", "stop"],
       "phrases": [
         {
@@ -216,7 +216,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["fare", "pass"],
       "phrases": [
         {
@@ -240,7 +240,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "票务预订",
       "related_words": ["box office", "ticket booth"],
       "phrases": [
         {

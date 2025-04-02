@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Basic Services"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["bank account", "savings account"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Basic Services"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["bank card", "credit card"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Basic Services"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["money", "currency"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Basic Services"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["check", "bank draft"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["loan", "take out"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["make payment", "transfer"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["deposit", "put away"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["save", "put in"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["take out", "get money"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Basic Services"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["amount", "funds"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["send", "move"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Banking", "Service Operations"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["convert", "change"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Banking", "Financial Products"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["mortgage", "credit"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Banking", "Financial Products"],
+      "topics": ["Services"],
       "category": "银行服务",
       "related_words": ["rate", "return"],
       "phrases": []

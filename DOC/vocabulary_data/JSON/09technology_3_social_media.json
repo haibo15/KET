@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Technology"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["application", "program"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Internet"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["weblog", "online journal"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Internet"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["social network", "social platform"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Actions"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["subscribe", "track"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Actions"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["thumbs up", "approve"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Actions"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["repost", "forward"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Actions"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["publish", "upload"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Actions"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["reply", "respond"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Platform"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["account", "page"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Actions"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["mark", "label"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Platform"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["popular", "viral"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Social Media", "Platform"],
+      "topics": ["Technology"],
       "category": "社交媒体",
       "related_words": ["tag", "label"],
       "phrases": []

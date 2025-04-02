@@ -24,7 +24,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["cycle", "bike", "push bike"],
       "phrases": [
         {
@@ -48,7 +48,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["coach", "public transport"],
       "phrases": [
         {
@@ -72,7 +72,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["automobile", "vehicle"],
       "phrases": [
         {
@@ -96,7 +96,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["railway train", "locomotive"],
       "phrases": [
         {
@@ -120,7 +120,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["aircraft", "plane"],
       "phrases": [
         {
@@ -144,7 +144,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["motorbike", "bike"],
       "phrases": [
         {
@@ -168,7 +168,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["cab", "taxicab"],
       "phrases": [
         {
@@ -192,7 +192,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["subway", "metro"],
       "phrases": [
         {
@@ -216,7 +216,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["minivan", "delivery van"],
       "phrases": [
         {
@@ -240,7 +240,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["vessel", "watercraft"],
       "phrases": [
         {
@@ -264,7 +264,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["water bus", "water taxi"],
       "phrases": [
         {
@@ -288,7 +288,7 @@
       ],
       "difficulty_level": "B",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["liner", "passenger ship"],
       "phrases": [
         {
@@ -312,7 +312,7 @@
       ],
       "difficulty_level": "B",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["sailing boat", "yacht"],
       "phrases": [
         {
@@ -336,7 +336,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["vessel", "ocean liner"],
       "phrases": [
         {
@@ -360,7 +360,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["chopper", "whirlybird"],
       "phrases": [
         {
@@ -384,7 +384,7 @@
       ],
       "difficulty_level": "A",
       "topics": ["Transportation"],
-      "category": "交通出行",
+      "category": "交通工具",
       "related_words": ["jet plane", "jet aircraft"],
       "phrases": [
         {

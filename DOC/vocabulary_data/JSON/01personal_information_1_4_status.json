@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "category": "Status",
+    "category_cn": "状态类词汇",
+    "word_count": 3,
+    "difficulty_distribution": {
+      "A": 100,
+      "B": 0,
+      "C": 0
+    }
+  },
+  "words": {
+    "single": {
+      "word": "single",
+      "translation": "单身的",
+      "phonetic": "ˈsɪŋɡl",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Are you single or married?",
+          "zh": "你是单身还是已婚？"
+        },
+        {
+          "en": "He's still single.",
+          "zh": "他还是单身。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "状态类词汇",
+      "related_words": ["married", "divorced", "engaged"],
+      "phrases": [
+        {
+          "phrase": "single person",
+          "translation": "单身人士",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "single life",
+          "translation": "单身生活",
+          "difficulty": "A"
+        }
+      ]
+    },
+    "married": {
+      "word": "married",
+      "translation": "已婚的",
+      "phonetic": "ˈmærid",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "They got married last year.",
+          "zh": "他们去年结婚了。"
+        },
+        {
+          "en": "How long have you been married?",
+          "zh": "你结婚多久了？"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "状态类词汇",
+      "related_words": ["single", "divorced", "wedding"],
+      "phrases": [
+        {
+          "phrase": "get married",
+          "translation": "结婚",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "married life",
+          "translation": "婚姻生活",
+          "difficulty": "B"
+        }
+      ]
+    },
+    "busy": {
+      "word": "busy",
+      "translation": "忙的",
+      "phonetic": "ˈbɪzi",
+      "part_of_speech": "adj",
+      "frequency": 90,
+      "examples": [
+        {
+          "en": "Sorry, I'm very busy now.",
+          "zh": "抱歉，我现在很忙。"
+        },
+        {
+          "en": "The restaurant is always busy.",
+          "zh": "这家餐厅总是很忙。"
+        }
+      ],
+      "difficulty_level": "A",
+      "topics": ["Personal Information"],
+      "category": "状态类词汇",
+      "related_words": ["free", "occupied", "available"],
+      "phrases": [
+        {
+          "phrase": "too busy",
+          "translation": "太忙了",
+          "difficulty": "A"
+        },
+        {
+          "phrase": "busy with",
+          "translation": "忙于",
+          "difficulty": "A"
+        }
+      ]
+    }
+  }
+} 

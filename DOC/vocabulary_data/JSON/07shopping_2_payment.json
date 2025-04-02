@@ -23,8 +23,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Price", "Shopping"],
-      "category": "价格相关",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["inexpensive", "affordable"],
       "phrases": [
         {
@@ -47,8 +47,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Price", "Shopping"],
-      "category": "价格相关",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["costly", "pricey"],
       "phrases": [
         {
@@ -71,8 +71,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Payment", "Money"],
-      "category": "支付方式",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["money", "notes"],
       "phrases": [
         {
@@ -95,8 +95,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Payment", "Banking"],
-      "category": "支付方式",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["credit card", "debit card"],
       "phrases": [
         {
@@ -119,8 +119,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Currency", "Money"],
-      "category": "货币单位",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["buck", "USD"],
       "phrases": [
         {
@@ -143,8 +143,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Price", "Shopping"],
-      "category": "价格相关",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["price", "expense"],
       "phrases": [
         {
@@ -167,8 +167,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Price", "Shopping"],
-      "category": "价格相关",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["complimentary", "gratis"],
       "phrases": [
         {
@@ -191,8 +191,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Money", "Shopping"],
-      "category": "价格相关",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["cash", "currency"],
       "phrases": [
         {
@@ -215,8 +215,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Shopping", "Money"],
-      "category": "价格相关",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["cost", "rate"],
       "phrases": [
         {
@@ -239,8 +239,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Money", "Currency"],
-      "category": "货币单位",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["penny", "coin"],
       "phrases": [
         {
@@ -263,8 +263,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Money", "Currency"],
-      "category": "货币单位",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["EUR", "European currency"],
       "phrases": [
         {
@@ -287,8 +287,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Money", "Currency"],
-      "category": "货币单位",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["sterling", "GBP"],
       "phrases": [
         {
@@ -311,8 +311,8 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Money", "Currency"],
-      "category": "货币单位",
+      "topics": ["Shopping"],
+      "category": "价格支付",
       "related_words": ["RMB", "Chinese currency"],
       "phrases": [
         {

@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Consultation", "Service Types"],
+      "topics": ["Services"],
       "category": "咨询服务",
       "related_words": ["suggestion", "recommendation"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Consultation", "Service Operations"],
+      "topics": ["Services"],
       "category": "咨询服务",
       "related_words": ["seek advice", "ask for guidance"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Consultation", "Professions"],
+      "topics": ["Services"],
       "category": "咨询服务",
       "related_words": ["advisor", "expert"],
       "phrases": []

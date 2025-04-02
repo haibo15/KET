@@ -23,7 +23,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["web", "net"],
       "phrases": []
@@ -41,7 +41,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["connection", "system"],
       "phrases": []
@@ -59,7 +59,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["wireless router", "network hub"],
       "phrases": []
@@ -77,7 +77,7 @@
         }
       ],
       "difficulty_level": "B",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["host", "data center"],
       "phrases": []
@@ -95,7 +95,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["wireless network", "wireless connection"],
       "phrases": []
@@ -113,7 +113,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["phone", "dial"],
       "phrases": []
@@ -131,7 +131,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["message", "communicate"],
       "phrases": []
@@ -149,7 +149,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["e-mail", "electronic mail"],
       "phrases": []
@@ -167,7 +167,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["text", "instant message"],
       "phrases": []
@@ -185,7 +185,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["message", "SMS"],
       "phrases": []
@@ -203,7 +203,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["transmit", "forward"],
       "phrases": []
@@ -221,7 +221,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Communication"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["get", "accept"],
       "phrases": []
@@ -239,7 +239,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["link", "join"],
       "phrases": []
@@ -257,7 +257,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["unlink", "detach"],
       "phrases": []
@@ -275,7 +275,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["connected", "live"],
       "phrases": []
@@ -293,7 +293,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["disconnected", "unavailable"],
       "phrases": []
@@ -311,7 +311,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["send", "transfer"],
       "phrases": []
@@ -329,7 +329,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["get", "retrieve"],
       "phrases": []
@@ -347,7 +347,7 @@
         }
       ],
       "difficulty_level": "A",
-      "topics": ["Network"],
+      "topics": ["Technology"],
       "category": "网络通讯",
       "related_words": ["connection", "reception"],
       "phrases": []
